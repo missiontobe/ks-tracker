@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 121700083,
+  "kid": 1208,
+  "tag": "XXX",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789419667.2190223,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 121700083,
+    "name": "€BlackPearl€",
+    "abbr": "XXX",
+    "kid": 1208,
+    "power": 367531886,
+    "count": 3,
+    "leader_name": "Captain Jack",
+    "leader_uid": 44164023,
+    "leader_governor_id": 180291470,
+    "flag_url": "/assets/icons/capital_icon_got_6.png",
+    "power_rank": 13,
+    "permalink": "/1208/XXX"
+  },
+  "members": [
+    {
+      "uid": 44164023,
+      "governor_id": 180291470,
+      "fid": 180291470,
+      "nick_name": "Captain Jack",
+      "power": 176156163,
+      "town_center_level": 53,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1208,
+      "avatar_url": "/cdn/avatar/2025/11/24/M54mO3_1764025788.png",
+      "last_active_at": 1789385733.0,
+      "online": false
+    },
+    {
+      "uid": 47363262,
+      "governor_id": 190794448,
+      "fid": 190794448,
+      "nick_name": "Davy Jones",
+      "power": 105893843,
+      "town_center_level": 38,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1208,
+      "avatar_url": "/cdn/avatar/2025/11/21/EGMOB4_1763763584.png",
+      "last_active_at": 1789374751.0,
+      "online": false
+    },
+    {
+      "uid": 48292771,
+      "governor_id": 195494799,
+      "fid": 195494799,
+      "nick_name": "Hector Barbossa",
+      "power": 85225848,
+      "town_center_level": 31,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1208,
+      "avatar_url": "/cdn/avatar/2025/11/24/QvoQxZ_1763986310.png",
+      "last_active_at": 1789374409.0,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

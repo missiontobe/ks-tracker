@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "aid": 111200073,
+  "kid": 1103,
+  "tag": "AAA",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789415533.709168,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 111200073,
+    "name": "OutCatFarms",
+    "abbr": "AAA",
+    "kid": 1103,
+    "power": 836674007,
+    "count": 4,
+    "leader_name": "hello",
+    "leader_uid": 71676495,
+    "leader_governor_id": 287954634,
+    "flag_url": "/assets/icons/capital_icon_got_4.png",
+    "power_rank": 11,
+    "permalink": "/1103/AAA"
+  },
+  "members": [
+    {
+      "uid": 40242109,
+      "governor_id": 163469356,
+      "fid": 163469356,
+      "nick_name": "YODA 星",
+      "power": 326928700,
+      "town_center_level": 63,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1103,
+      "avatar_url": "/cdn/avatar/2026/08/14/rg35Ep_1786726788.png",
+      "last_active_at": 1789263337.0,
+      "online": false
+    },
+    {
+      "uid": 40216714,
+      "governor_id": 159733408,
+      "fid": 159733408,
+      "nick_name": "Magrad",
+      "power": 234479493,
+      "town_center_level": 55,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1103,
+      "avatar_url": "/cdn/avatar/2026/07/22/zq36vq_1784755304.png",
+      "last_active_at": 1789257463.0,
+      "online": false
+    },
+    {
+      "uid": 46134923,
+      "governor_id": 182812634,
+      "fid": 182812634,
+      "nick_name": "宣虎金",
+      "power": 194058721,
+      "town_center_level": 55,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1103,
+      "avatar_url": "/assets/icons/hero_headpic_50026.png",
+      "last_active_at": 1789265687.0,
+      "online": false
+    },
+    {
+      "uid": 71676495,
+      "governor_id": 287954634,
+      "fid": 287954634,
+      "nick_name": "hello",
+      "power": 108682,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1103,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1788291855.0,
+      "online": false
+    }
+  ],
+  "member_count": 4
+}

@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 117400438,
+  "kid": 1165,
+  "tag": "MIN",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789417802.1947012,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 117400438,
+    "name": "Minions",
+    "abbr": "MIN",
+    "kid": 1165,
+    "power": 294048989,
+    "count": 3,
+    "leader_name": "坂本三郎",
+    "leader_uid": 41278161,
+    "leader_governor_id": 167024490,
+    "flag_url": "/assets/icons/capital_icon_got_4.png",
+    "power_rank": 12,
+    "permalink": "/1165/MIN"
+  },
+  "members": [
+    {
+      "uid": 41278161,
+      "governor_id": 167024490,
+      "fid": 167024490,
+      "nick_name": "坂本三郎",
+      "power": 175543793,
+      "town_center_level": 47,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1165,
+      "avatar_url": "/cdn/avatar/2026/06/13/DJNKZk_1781344210.png",
+      "last_active_at": 1789382297.0,
+      "online": false
+    },
+    {
+      "uid": 60073007,
+      "governor_id": 241914515,
+      "fid": 241914515,
+      "nick_name": "坂本二郎",
+      "power": 118404557,
+      "town_center_level": 35,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1165,
+      "avatar_url": "/cdn/avatar/2026/06/15/poYR6p_1781504088.png",
+      "last_active_at": 1789383592.0,
+      "online": false
+    },
+    {
+      "uid": 98942263,
+      "governor_id": 398137077,
+      "fid": 398137077,
+      "nick_name": "lord398137077",
+      "power": 100639,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1165,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1787106821.0,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

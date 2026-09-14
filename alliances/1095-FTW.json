@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 110400802,
+  "kid": 1095,
+  "tag": "FTW",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789414312.4445922,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 110400802,
+    "name": "FreeBeer",
+    "abbr": "FTW",
+    "kid": 1095,
+    "power": 1191912130,
+    "count": 3,
+    "leader_name": "Poor",
+    "leader_uid": 45166245,
+    "leader_governor_id": 183370939,
+    "flag_url": "/assets/icons/capital_icon_got_3.png",
+    "power_rank": 15,
+    "permalink": "/1095/FTW"
+  },
+  "members": [
+    {
+      "uid": 39958812,
+      "governor_id": 160974565,
+      "fid": 160974565,
+      "nick_name": "Rich",
+      "power": 806130285,
+      "town_center_level": 65,
+      "kills": 128129782,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1095,
+      "avatar_url": "/cdn/avatar/2026/08/17/xo4vpJ_1786986165.png",
+      "last_active_at": 1789405082.0,
+      "online": false
+    },
+    {
+      "uid": 42702048,
+      "governor_id": 168210002,
+      "fid": 168210002,
+      "nick_name": "DØOM",
+      "power": 257231489,
+      "town_center_level": 60,
+      "kills": 43947630,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1095,
+      "avatar_url": "/cdn/avatar/2026/07/30/mMkGDO_1785393679.png",
+      "last_active_at": 1789391694.0,
+      "online": false
+    },
+    {
+      "uid": 45166245,
+      "governor_id": 183370939,
+      "fid": 183370939,
+      "nick_name": "Poor",
+      "power": 128550356,
+      "town_center_level": 50,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1095,
+      "avatar_url": "/cdn/avatar/2026/02/11/jL2v4W_1770846359.png",
+      "last_active_at": 1789396908.0,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

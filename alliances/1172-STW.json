@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "aid": 118100072,
+  "kid": 1172,
+  "tag": "STW",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789418111.899572,
+  "age_seconds": 1,
+  "alliance": {
+    "aid": 118100072,
+    "name": "대한민국",
+    "abbr": "STW",
+    "kid": 1172,
+    "power": 2627377,
+    "count": 2,
+    "leader_name": "ιƙσ",
+    "leader_uid": 87384251,
+    "leader_governor_id": 351753601,
+    "flag_url": "/assets/icons/capital_icon_got_2.png",
+    "power_rank": 86,
+    "permalink": "/1172/STW"
+  },
+  "members": [
+    {
+      "uid": 87384251,
+      "governor_id": 351753601,
+      "fid": 351753601,
+      "nick_name": "ιƙσ",
+      "power": 2415104,
+      "town_center_level": 16,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1172,
+      "avatar_url": "/cdn/avatar/2026/06/30/pmBxP1_1782844451.png",
+      "last_active_at": 1787100441.0,
+      "online": false
+    },
+    {
+      "uid": 102836353,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1172,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 2
+}

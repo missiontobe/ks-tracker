@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "aid": 114300333,
+  "kid": 1134,
+  "tag": "LIT",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789416414.8398263,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 114300333,
+    "name": "LegionNational",
+    "abbr": "LIT",
+    "kid": 1134,
+    "power": 187920152,
+    "count": 2,
+    "leader_name": "lord163994288",
+    "leader_uid": 41331880,
+    "leader_governor_id": 163994288,
+    "flag_url": "/assets/icons/capital_icon_got_4.png",
+    "power_rank": 15,
+    "permalink": "/1134/LIT"
+  },
+  "members": [
+    {
+      "uid": 41331880,
+      "governor_id": 163994288,
+      "fid": 163994288,
+      "nick_name": "lord163994288",
+      "power": 107024816,
+      "town_center_level": 45,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1134,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1779288533.0,
+      "online": false
+    },
+    {
+      "uid": 41361068,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1134,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 2
+}

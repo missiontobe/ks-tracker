@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 115900010,
+  "kid": 1150,
+  "tag": "MAG",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789417432.8121786,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 115900010,
+    "name": "HOGWART",
+    "abbr": "MAG",
+    "kid": 1150,
+    "power": 267103044,
+    "count": 3,
+    "leader_name": "Zgredek ᥫ᭡",
+    "leader_uid": 51732756,
+    "leader_governor_id": 207099270,
+    "flag_url": "/assets/icons/capital_icon_got_4.png",
+    "power_rank": 20,
+    "permalink": "/1150/MAG"
+  },
+  "members": [
+    {
+      "uid": 38821028,
+      "governor_id": 156107120,
+      "fid": 156107120,
+      "nick_name": "Palcóweczka",
+      "power": 211480127,
+      "town_center_level": 55,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1150,
+      "avatar_url": "/cdn/avatar/2026/08/16/R8BzLO_1786887743.png",
+      "last_active_at": 1789364019.0,
+      "online": false
+    },
+    {
+      "uid": 51732756,
+      "governor_id": 207099270,
+      "fid": 207099270,
+      "nick_name": "Zgredek ᥫ᭡",
+      "power": 30908261,
+      "town_center_level": 27,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1150,
+      "avatar_url": "/cdn/avatar/2026/08/16/x8K8BB_1786887515.png",
+      "last_active_at": 1788779647.0,
+      "online": false
+    },
+    {
+      "uid": 50174067,
+      "governor_id": 200521315,
+      "fid": 200521315,
+      "nick_name": "Wudu1",
+      "power": 24421936,
+      "town_center_level": 27,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1150,
+      "avatar_url": "/cdn/avatar/2026/08/24/MNXDBG_1787557478.png",
+      "last_active_at": 1788240892.0,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

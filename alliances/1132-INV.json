@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "aid": 114100154,
+  "kid": 1132,
+  "tag": "INV",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789416332.7946198,
+  "age_seconds": 3,
+  "alliance": {
+    "aid": 114100154,
+    "name": "InvincibleShadow",
+    "abbr": "INV",
+    "kid": 1132,
+    "power": 429815435,
+    "count": 4,
+    "leader_name": "Anwaar 2",
+    "leader_uid": 62829111,
+    "leader_governor_id": 251345608,
+    "flag_url": "/assets/icons/capital_icon_got_1.png",
+    "power_rank": 14,
+    "permalink": "/1132/INV"
+  },
+  "members": [
+    {
+      "uid": 41232527,
+      "governor_id": 166548641,
+      "fid": 166548641,
+      "nick_name": "Armeniman",
+      "power": 342075626,
+      "town_center_level": 60,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1132,
+      "avatar_url": "/cdn/avatar/2025/12/09/Q5JW4Y_1765282103.png",
+      "last_active_at": 1789387215.0,
+      "online": false
+    },
+    {
+      "uid": 57256245,
+      "governor_id": 230303396,
+      "fid": 230303396,
+      "nick_name": "Lil Duckie",
+      "power": 48413635,
+      "town_center_level": 30,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1132,
+      "avatar_url": "/cdn/avatar/2026/02/26/jJL0N5_1772119903.png",
+      "last_active_at": 1788814230.0,
+      "online": false
+    },
+    {
+      "uid": 62829111,
+      "governor_id": 251345608,
+      "fid": 251345608,
+      "nick_name": "Anwaar 2",
+      "power": 28644154,
+      "town_center_level": 26,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1132,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1788829679.0,
+      "online": false
+    },
+    {
+      "uid": 45419897,
+      "governor_id": 183686197,
+      "fid": 183686197,
+      "nick_name": "KenstarX2",
+      "power": 8834020,
+      "town_center_level": 22,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1132,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1786818098.0,
+      "online": false
+    }
+  ],
+  "member_count": 4
+}

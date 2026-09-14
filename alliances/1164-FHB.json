@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "aid": 117300181,
+  "kid": 1164,
+  "tag": "FHB",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789417783.4367926,
+  "age_seconds": 1,
+  "alliance": {
+    "aid": 117300181,
+    "name": "top",
+    "abbr": "FHB",
+    "kid": 1164,
+    "power": 561177374,
+    "count": 4,
+    "leader_name": "Your Nanny",
+    "leader_uid": 67228853,
+    "leader_governor_id": 272500561,
+    "flag_url": "/assets/icons/capital_icon_got_4.png",
+    "power_rank": 14,
+    "permalink": "/1164/FHB"
+  },
+  "members": [
+    {
+      "uid": 43628961,
+      "governor_id": 174466788,
+      "fid": 174466788,
+      "nick_name": "Nanuk",
+      "power": 316643476,
+      "town_center_level": 61,
+      "kills": 12065550,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1164,
+      "avatar_url": "/cdn/avatar/2026/07/29/DJL8D6_1785357707.png",
+      "last_active_at": 1789411937.0,
+      "online": false
+    },
+    {
+      "uid": 42388306,
+      "governor_id": 168925999,
+      "fid": 168925999,
+      "nick_name": "RoyaleWithTrees",
+      "power": 241302172,
+      "town_center_level": 60,
+      "kills": 25130061,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1164,
+      "avatar_url": "/cdn/avatar/2026/06/30/o68BLB_1782854468.png",
+      "last_active_at": 1789398105.0,
+      "online": false
+    },
+    {
+      "uid": 67228853,
+      "governor_id": 272500561,
+      "fid": 272500561,
+      "nick_name": "Your Nanny",
+      "power": 2818206,
+      "town_center_level": 22,
+      "kills": 7,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1164,
+      "avatar_url": "/cdn/avatar/2026/04/14/rpKEx6_1776182832.png",
+      "last_active_at": 1789064888.0,
+      "online": false
+    },
+    {
+      "uid": 42393807,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1164,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 4
+}

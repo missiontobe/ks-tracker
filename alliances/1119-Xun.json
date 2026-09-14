@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "aid": 112800704,
+  "kid": 1119,
+  "tag": "Xun",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": false,
+  "cached_at": 1787460304.045378,
+  "age_seconds": 1955647,
+  "alliance": {
+    "aid": 112800704,
+    "name": "ImperiumofMan",
+    "abbr": "Xun",
+    "kid": 1119,
+    "power": 325091513,
+    "count": 2,
+    "leader_name": "Rogal Dorn",
+    "leader_uid": 40795626,
+    "leader_governor_id": 159906293,
+    "flag_url": "/assets/icons/capital_icon_got_6.png",
+    "power_rank": 11,
+    "permalink": "/1119/Xun-112800704"
+  },
+  "members": [],
+  "member_count": 0
+}

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "aid": 110100554,
+  "kid": 1092,
+  "tag": "pws",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789414239.1144726,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 110100554,
+    "name": "BavarianTiger",
+    "abbr": "pws",
+    "kid": 1092,
+    "power": 4314642,
+    "count": 1,
+    "leader_name": "Dumbledore",
+    "leader_uid": 39869672,
+    "leader_governor_id": null,
+    "flag_url": "/assets/icons/capital_icon_got_6.png",
+    "power_rank": 59,
+    "permalink": "/1092/pws"
+  },
+  "members": [
+    {
+      "uid": 39869672,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1092,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 1
+}

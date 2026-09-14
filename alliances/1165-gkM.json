@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "aid": 117400712,
+  "kid": 1165,
+  "tag": "gkM",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789417810.3285487,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 117400712,
+    "name": "Dokertt",
+    "abbr": "gkM",
+    "kid": 1165,
+    "power": 236786775,
+    "count": 2,
+    "leader_name": "Modokk",
+    "leader_uid": 42409316,
+    "leader_governor_id": 168467572,
+    "flag_url": "/assets/icons/capital_icon_got_6.png",
+    "power_rank": 15,
+    "permalink": "/1165/gkM"
+  },
+  "members": [
+    {
+      "uid": 42409316,
+      "governor_id": 168467572,
+      "fid": 168467572,
+      "nick_name": "Modokk",
+      "power": 164313103,
+      "town_center_level": 50,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1165,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789390194.0,
+      "online": false
+    },
+    {
+      "uid": 43928609,
+      "governor_id": 174209329,
+      "fid": 174209329,
+      "nick_name": "frorort",
+      "power": 69709814,
+      "town_center_level": 28,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1165,
+      "avatar_url": "/assets/icons/hero_headpic_50002.png",
+      "last_active_at": 1788829664.0,
+      "online": false
+    }
+  ],
+  "member_count": 2
+}

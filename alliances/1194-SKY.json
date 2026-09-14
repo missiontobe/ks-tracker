@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "aid": 120300773,
+  "kid": 1194,
+  "tag": "SKY",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789419226.2817388,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 120300773,
+    "name": "SKY",
+    "abbr": "SKY",
+    "kid": 1194,
+    "power": 376144468,
+    "count": 2,
+    "leader_name": "Yeon woo B",
+    "leader_uid": 89424600,
+    "leader_governor_id": 357880328,
+    "flag_url": "/assets/icons/capital_icon_got_3.png",
+    "power_rank": 16,
+    "permalink": "/1194/SKY"
+  },
+  "members": [
+    {
+      "uid": 37168712,
+      "governor_id": 146857114,
+      "fid": 146857114,
+      "nick_name": "TH0R",
+      "power": 370897282,
+      "town_center_level": 60,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1194,
+      "avatar_url": "/cdn/avatar/2026/09/11/xVPLgB_1789167441.png",
+      "last_active_at": 1789410808.0,
+      "online": false
+    },
+    {
+      "uid": 89424600,
+      "governor_id": 357880328,
+      "fid": 357880328,
+      "nick_name": "Yeon woo B",
+      "power": 5247186,
+      "town_center_level": 20,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1194,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1787785468.0,
+      "online": false
+    }
+  ],
+  "member_count": 2
+}

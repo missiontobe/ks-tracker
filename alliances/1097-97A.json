@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "aid": 110600204,
+  "kid": 1097,
+  "tag": "97A",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789414711.213435,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 110600204,
+    "name": "1097Academy",
+    "abbr": "97A",
+    "kid": 1097,
+    "power": 216788259,
+    "count": 4,
+    "leader_name": "JSotherG",
+    "leader_uid": 51699533,
+    "leader_governor_id": null,
+    "flag_url": "/assets/icons/capital_icon_got_5.png",
+    "power_rank": 13,
+    "permalink": "/1097/97A"
+  },
+  "members": [
+    {
+      "uid": 42419454,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1097,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 51699533,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1097,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 75340406,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1097,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 75344957,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1097,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 4
+}

@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 111100359,
+  "kid": 1102,
+  "tag": "Nnn",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789415512.3834474,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 111100359,
+    "name": "特別攻撃隊",
+    "abbr": "Nnn",
+    "kid": 1102,
+    "power": 396355835,
+    "count": 3,
+    "leader_name": "༺Ñya༻",
+    "leader_uid": 39719302,
+    "leader_governor_id": 156055621,
+    "flag_url": "/assets/icons/capital_icon_got_1.png",
+    "power_rank": 14,
+    "permalink": "/1102/Nnn"
+  },
+  "members": [
+    {
+      "uid": 39719302,
+      "governor_id": 156055621,
+      "fid": 156055621,
+      "nick_name": "༺Ñya༻",
+      "power": 290335933,
+      "town_center_level": 70,
+      "kills": 74093216,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1102,
+      "avatar_url": "/cdn/avatar/2026/09/12/k6xD7K_1789213292.png",
+      "last_active_at": 1789377552.0,
+      "online": false
+    },
+    {
+      "uid": 39837710,
+      "governor_id": 155811712,
+      "fid": 155811712,
+      "nick_name": "焼き鳥オーナーバラーニ",
+      "power": 84664983,
+      "town_center_level": 41,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1102,
+      "avatar_url": "/cdn/avatar/2026/04/26/vmy4Lr_1777190131.png",
+      "last_active_at": 1789248845.0,
+      "online": false
+    },
+    {
+      "uid": 96865854,
+      "governor_id": 387668027,
+      "fid": 387668027,
+      "nick_name": "nya/nya",
+      "power": 18150874,
+      "town_center_level": 23,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1102,
+      "avatar_url": "/assets/icons/hero_headpic_50007.png",
+      "last_active_at": 1788815935.0,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

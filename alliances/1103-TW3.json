@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 111200195,
+  "kid": 1103,
+  "tag": "TW3",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789415528.1504598,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 111200195,
+    "name": "TW3",
+    "abbr": "TW3",
+    "kid": 1103,
+    "power": 581502646,
+    "count": 3,
+    "leader_name": "真萌主",
+    "leader_uid": 99257814,
+    "leader_governor_id": 396208692,
+    "flag_url": "/assets/icons/capital_icon_got_1.png",
+    "power_rank": 14,
+    "permalink": "/1103/TW3"
+  },
+  "members": [
+    {
+      "uid": 40243410,
+      "governor_id": 160798786,
+      "fid": 160798786,
+      "nick_name": "隨便玩 τω~",
+      "power": 333108575,
+      "town_center_level": 60,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1103,
+      "avatar_url": "/cdn/avatar/2026/08/09/vm35nX_1786253307.png",
+      "last_active_at": 1789265687.0,
+      "online": false
+    },
+    {
+      "uid": 34709228,
+      "governor_id": 139380347,
+      "fid": 139380347,
+      "nick_name": "Utena",
+      "power": 246986082,
+      "town_center_level": 55,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1103,
+      "avatar_url": "/cdn/avatar/2026/03/31/RM50jO_1774922070.png",
+      "last_active_at": 1789264768.0,
+      "online": false
+    },
+    {
+      "uid": 99257814,
+      "governor_id": 396208692,
+      "fid": 396208692,
+      "nick_name": "真萌主",
+      "power": 162478,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1103,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1788576432.0,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

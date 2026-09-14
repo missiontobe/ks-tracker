@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "aid": 115600698,
+  "kid": 1147,
+  "tag": "cMq",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789417369.9366014,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 115600698,
+    "name": "SCM",
+    "abbr": "cMq",
+    "kid": 1147,
+    "power": 139816416,
+    "count": 1,
+    "leader_name": "JonBonJovi5",
+    "leader_uid": 41784742,
+    "leader_governor_id": 164574807,
+    "flag_url": "/assets/icons/capital_icon_got_3.png",
+    "power_rank": 16,
+    "permalink": "/1147/cMq"
+  },
+  "members": [
+    {
+      "uid": 41784742,
+      "governor_id": 164574807,
+      "fid": 164574807,
+      "nick_name": "JonBonJovi5",
+      "power": 138973599,
+      "town_center_level": 47,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1147,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789191712.0,
+      "online": false
+    }
+  ],
+  "member_count": 1
+}

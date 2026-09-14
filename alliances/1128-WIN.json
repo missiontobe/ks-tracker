@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "aid": 113700135,
+  "kid": 1128,
+  "tag": "WIN",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789416191.6392646,
+  "age_seconds": 1,
+  "alliance": {
+    "aid": 113700135,
+    "name": "Brawl",
+    "abbr": "WIN",
+    "kid": 1128,
+    "power": 667001813,
+    "count": 4,
+    "leader_name": "Zon",
+    "leader_uid": 66648916,
+    "leader_governor_id": 265855983,
+    "flag_url": "/assets/icons/capital_icon_got_1.png",
+    "power_rank": 17,
+    "permalink": "/1128/WIN"
+  },
+  "members": [
+    {
+      "uid": 38103281,
+      "governor_id": 154572192,
+      "fid": 154572192,
+      "nick_name": "Zonix Fury",
+      "power": 403093276,
+      "town_center_level": 56,
+      "kills": 215500430,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1128,
+      "avatar_url": "/cdn/avatar/2026/08/16/4WLVD0_1786888692.png",
+      "last_active_at": 1789405468.0,
+      "online": false
+    },
+    {
+      "uid": 38131601,
+      "governor_id": 154408799,
+      "fid": 154408799,
+      "nick_name": "GainZilla",
+      "power": 252493655,
+      "town_center_level": 55,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1128,
+      "avatar_url": "/cdn/avatar/2026/08/10/jA8mq5_1786340814.png",
+      "last_active_at": 1789409269.0,
+      "online": false
+    },
+    {
+      "uid": 66035066,
+      "governor_id": 261357174,
+      "fid": 261357174,
+      "nick_name": "ZILLO",
+      "power": 11343900,
+      "town_center_level": 24,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1128,
+      "avatar_url": "/cdn/avatar/2026/08/21/LGOY6X_1787344882.png",
+      "last_active_at": 1787350686.0,
+      "online": false
+    },
+    {
+      "uid": 66648916,
+      "governor_id": 265855983,
+      "fid": 265855983,
+      "nick_name": "Zon",
+      "power": 69515,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1128,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1784482737.0,
+      "online": false
+    }
+  ],
+  "member_count": 4
+}

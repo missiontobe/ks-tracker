@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 122300822,
+  "kid": 1214,
+  "tag": "WAY",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789419834.301021,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 122300822,
+    "name": "Wayout",
+    "abbr": "WAY",
+    "kid": 1214,
+    "power": 257005861,
+    "count": 3,
+    "leader_name": "Smiley",
+    "leader_uid": 100821862,
+    "leader_governor_id": null,
+    "flag_url": "/assets/icons/capital_icon_got_4.png",
+    "power_rank": 13,
+    "permalink": "/1214/WAY"
+  },
+  "members": [
+    {
+      "uid": 44113885,
+      "governor_id": 180143228,
+      "fid": 180143228,
+      "nick_name": "Serendipity",
+      "power": 249527320,
+      "town_center_level": 55,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1214,
+      "avatar_url": "/assets/icons/hero_headpic_50003.png",
+      "last_active_at": 1789380567.0,
+      "online": false
+    },
+    {
+      "uid": 102396006,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1214,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 100821862,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1214,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "aid": 118300694,
+  "kid": 1174,
+  "tag": "BYE",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789418170.8847673,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 118300694,
+    "name": "GooningForGordo",
+    "abbr": "BYE",
+    "kid": 1174,
+    "power": 255445660,
+    "count": 4,
+    "leader_name": "Sexy dra",
+    "leader_uid": 42736445,
+    "leader_governor_id": 171602028,
+    "flag_url": "/assets/icons/capital_icon_got_3.png",
+    "power_rank": 13,
+    "permalink": "/1174/BYE"
+  },
+  "members": [
+    {
+      "uid": 42760707,
+      "governor_id": 169947624,
+      "fid": 169947624,
+      "nick_name": "GordoFoundMe",
+      "power": 112064646,
+      "town_center_level": 45,
+      "kills": 34605735,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1174,
+      "avatar_url": "/cdn/avatar/2026/01/17/pXnrkX_1768647206.png",
+      "last_active_at": 1771940550.0,
+      "online": false
+    },
+    {
+      "uid": 42747445,
+      "governor_id": 171585818,
+      "fid": 171585818,
+      "nick_name": "NARU&IVY:forewer",
+      "power": 49790003,
+      "town_center_level": 40,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1174,
+      "avatar_url": "/cdn/avatar/2025/12/11/jOBoLz_1765435670.png",
+      "last_active_at": 1786792535.0,
+      "online": false
+    },
+    {
+      "uid": 42736445,
+      "governor_id": 171602028,
+      "fid": 171602028,
+      "nick_name": "Sexy dra",
+      "power": 47080270,
+      "town_center_level": 42,
+      "kills": 4498352,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1174,
+      "avatar_url": "/cdn/avatar/2026/01/01/jOBrwz_1767288980.png",
+      "last_active_at": 1786792301.0,
+      "online": false
+    },
+    {
+      "uid": 44693013,
+      "governor_id": 179840985,
+      "fid": 179840985,
+      "nick_name": "GooningForGordo",
+      "power": 46510741,
+      "town_center_level": 29,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1174,
+      "avatar_url": "/cdn/avatar/2026/01/21/yJ0gp7_1768999278.png",
+      "last_active_at": 1773154916.0,
+      "online": false
+    }
+  ],
+  "member_count": 4
+}

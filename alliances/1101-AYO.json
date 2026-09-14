@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "aid": 111000004,
+  "kid": 1101,
+  "tag": "AYO",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789415487.9115222,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 111000004,
+    "name": "AlliedYeetingOps",
+    "abbr": "AYO",
+    "kid": 1101,
+    "power": 204535101,
+    "count": 2,
+    "leader_name": "Pinky",
+    "leader_uid": 45227610,
+    "leader_governor_id": 181520507,
+    "flag_url": "/assets/icons/capital_icon_got_6.png",
+    "power_rank": 17,
+    "permalink": "/1101/AYO"
+  },
+  "members": [
+    {
+      "uid": 45227610,
+      "governor_id": 181520507,
+      "fid": 181520507,
+      "nick_name": "Pinky",
+      "power": 203877766,
+      "town_center_level": 55,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1101,
+      "avatar_url": "/cdn/avatar/2026/07/19/vDgOxm_1784470226.png",
+      "last_active_at": 1789325890.0,
+      "online": false
+    },
+    {
+      "uid": 91252572,
+      "governor_id": 366526876,
+      "fid": 366526876,
+      "nick_name": "Neo 3",
+      "power": 657335,
+      "town_center_level": 11,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1101,
+      "avatar_url": "/assets/icons/hero_headpic_50004.png",
+      "last_active_at": 1788725725.0,
+      "online": false
+    }
+  ],
+  "member_count": 2
+}

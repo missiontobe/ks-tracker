@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "aid": 115500065,
+  "kid": 1146,
+  "tag": "RlP",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789417346.6589622,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 115500065,
+    "name": "BigYeetsCemetery",
+    "abbr": "RlP",
+    "kid": 1146,
+    "power": 342431293,
+    "count": 4,
+    "leader_name": "MicroHolm",
+    "leader_uid": 94876664,
+    "leader_governor_id": 378986188,
+    "flag_url": "/assets/icons/capital_icon_got_8.png",
+    "power_rank": 14,
+    "permalink": "/1146/RlP"
+  },
+  "members": [
+    {
+      "uid": 43844441,
+      "governor_id": 175174668,
+      "fid": 175174668,
+      "nick_name": "Lord CA II",
+      "power": 30348209,
+      "town_center_level": 27,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1146,
+      "avatar_url": "/cdn/avatar/2026/01/22/8BZZkr_1769122827.png",
+      "last_active_at": 1787596230.0,
+      "online": false
+    },
+    {
+      "uid": 94876664,
+      "governor_id": 378986188,
+      "fid": 378986188,
+      "nick_name": "MicroHolm",
+      "power": 6205841,
+      "town_center_level": 21,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1146,
+      "avatar_url": "/assets/icons/hero_headpic_50003.png",
+      "last_active_at": 1788822127.0,
+      "online": false
+    },
+    {
+      "uid": 95253461,
+      "governor_id": 381466060,
+      "fid": 381466060,
+      "nick_name": "Micro Mari0",
+      "power": 1603995,
+      "town_center_level": 10,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1146,
+      "avatar_url": "/cdn/avatar/2026/09/02/DKrY8x_1788361700.png",
+      "last_active_at": 1788652366.0,
+      "online": false
+    },
+    {
+      "uid": 41758583,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1146,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 4
+}

@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "aid": 109800802,
+  "kid": 1089,
+  "tag": "AaR",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789414175.0849292,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 109800802,
+    "name": "JustUs",
+    "abbr": "AaR",
+    "kid": 1089,
+    "power": 196575112,
+    "count": 2,
+    "leader_name": "PrincessAna",
+    "leader_uid": 43448578,
+    "leader_governor_id": 172039141,
+    "flag_url": "/assets/icons/capital_icon_got_6.png",
+    "power_rank": 13,
+    "permalink": "/1089/AaR"
+  },
+  "members": [
+    {
+      "uid": 39741529,
+      "governor_id": 158398883,
+      "fid": 158398883,
+      "nick_name": "MotherRussia",
+      "power": 106900740,
+      "town_center_level": 53,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1089,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1787795887.0,
+      "online": false
+    },
+    {
+      "uid": 43448578,
+      "governor_id": 172039141,
+      "fid": 172039141,
+      "nick_name": "PrincessAna",
+      "power": 89674372,
+      "town_center_level": 45,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1089,
+      "avatar_url": "/assets/icons/hero_headpic_50012.png",
+      "last_active_at": 1788503943.0,
+      "online": false
+    }
+  ],
+  "member_count": 2
+}

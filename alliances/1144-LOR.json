@@ -1,0 +1,90 @@
+{
+  "ok": true,
+  "aid": 115300539,
+  "kid": 1144,
+  "tag": "LOR",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789417287.7874384,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 115300539,
+    "name": "Gondor",
+    "abbr": "LOR",
+    "kid": 1144,
+    "power": 253064167,
+    "count": 4,
+    "leader_name": "zbob",
+    "leader_uid": 41686580,
+    "leader_governor_id": null,
+    "flag_url": "/assets/icons/capital_icon_got_1.png",
+    "power_rank": 13,
+    "permalink": "/1144/LOR"
+  },
+  "members": [
+    {
+      "uid": 41675065,
+      "governor_id": 166883238,
+      "fid": 166883238,
+      "nick_name": "The Bruce",
+      "power": 28170368,
+      "town_center_level": 24,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1144,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1788836388.0,
+      "online": false
+    },
+    {
+      "uid": 41647609,
+      "governor_id": 167177718,
+      "fid": 167177718,
+      "nick_name": "wafiq1327",
+      "power": 5267601,
+      "town_center_level": 17,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1144,
+      "avatar_url": "/assets/icons/hero_headpic_50012.png",
+      "last_active_at": 1785172772.0,
+      "online": false
+    },
+    {
+      "uid": 41671856,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1144,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 41686580,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1144,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 4
+}

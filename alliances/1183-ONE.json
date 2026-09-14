@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "aid": 119200401,
+  "kid": 1183,
+  "tag": "ONE",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789418405.4473212,
+  "age_seconds": 1,
+  "alliance": {
+    "aid": 119200401,
+    "name": "ALL",
+    "abbr": "ONE",
+    "kid": 1183,
+    "power": 25902471,
+    "count": 1,
+    "leader_name": "Petronna",
+    "leader_uid": 95582535,
+    "leader_governor_id": 384403943,
+    "flag_url": "/assets/icons/capital_icon_got_3.png",
+    "power_rank": 47,
+    "permalink": "/1183/ONE"
+  },
+  "members": [
+    {
+      "uid": 95582535,
+      "governor_id": 384403943,
+      "fid": 384403943,
+      "nick_name": "Petronna",
+      "power": 25052106,
+      "town_center_level": 24,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1183,
+      "avatar_url": "/assets/icons/lord_woman_pic_02.png",
+      "last_active_at": 1789079018.0,
+      "online": false
+    }
+  ],
+  "member_count": 1
+}

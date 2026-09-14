@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 122000454,
+  "kid": 1211,
+  "tag": "KIN",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1789419742.6233568,
+  "age_seconds": 1,
+  "alliance": {
+    "aid": 122000454,
+    "name": "Harbour",
+    "abbr": "KIN",
+    "kid": 1211,
+    "power": 423424326,
+    "count": 3,
+    "leader_name": "1846",
+    "leader_uid": 44054558,
+    "leader_governor_id": 177815779,
+    "flag_url": "/assets/icons/capital_icon_got_2.png",
+    "power_rank": 11,
+    "permalink": "/1211/KIN"
+  },
+  "members": [
+    {
+      "uid": 44054558,
+      "governor_id": 177815779,
+      "fid": 177815779,
+      "nick_name": "1846",
+      "power": 155409794,
+      "town_center_level": 40,
+      "kills": 905036,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1211,
+      "avatar_url": "/cdn/avatar/2026/08/25/zxGXN2_1787680190.png",
+      "last_active_at": 1789406599.0,
+      "online": false
+    },
+    {
+      "uid": 44423615,
+      "governor_id": 180311910,
+      "fid": 180311910,
+      "nick_name": "Still Waters",
+      "power": 147783268,
+      "town_center_level": 40,
+      "kills": 792239,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1211,
+      "avatar_url": "/cdn/avatar/2026/08/25/A9vgPz_1787680276.png",
+      "last_active_at": 1789407001.0,
+      "online": false
+    },
+    {
+      "uid": 54476136,
+      "governor_id": 214105334,
+      "fid": 214105334,
+      "nick_name": "Good Dog",
+      "power": 120231264,
+      "town_center_level": 35,
+      "kills": 375266,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1211,
+      "avatar_url": "/cdn/avatar/2026/08/25/3VXPPR_1787681743.png",
+      "last_active_at": 1789400822.0,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}
