@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "uid": 42108183,
+  "governor_id": 171510294,
+  "id_type": "governor_id",
+  "include": [
+    "base",
+    "ranks"
+  ],
+  "fresh": true,
+  "cached_at": 1789405540.8322737,
+  "age_seconds": 0,
+  "player": {
+    "uid": 42108183,
+    "governor_id": 171510294,
+    "fid": 171510294,
+    "nick_name": "Billy Bucket",
+    "kid": 1156,
+    "power": 163603643,
+    "town_center_level": 46,
+    "vip": 8,
+    "x": 683,
+    "y": 438,
+    "kills": 1016795,
+    "office": 17,
+    "online": true,
+    "last_active_at": 1789404944.0,
+    "last_login": "Active 9m ago",
+    "avatar_url": "/cdn/avatar/2026/03/10/6zYKX9_1773161914.png",
+    "alliance": {
+      "aid": 116500075,
+      "abbr": "PHX",
+      "name": "PartyHouseXtreme",
+      "rank": 3,
+      "rank_label": "R3",
+      "power": 10639103505,
+      "count": 60,
+      "flag_url": "/assets/icons/capital_icon_got_1.png",
+      "leader_name": "Sneaky"
+    },
+    "shield_endtime": null,
+    "burn_endtime": null,
+    "language": "en"
+  },
+  "ranks": {
+    "power": 163603643,
+    "power_rank": 186,
+    "kills": 1016795,
+    "kills_rank": 328,
+    "town_center_level": 46,
+    "town_center_rank": 265,
+    "migrant_score": 328878,
+    "migrant_rank": 252,
+    "mystic_trial": 975,
+    "mystic_rank": 265,
+    "leaderboards": [
+      {
+        "name": "Personal Power",
+        "value": 163603643,
+        "value_label": null,
+        "kingdom_rank": 186,
+        "kingdom_rank_label": "#186",
+        "rank_type": 3
+      },
+      {
+        "name": "Kill Count",
+        "value": 1016795,
+        "value_label": null,
+        "kingdom_rank": 328,
+        "kingdom_rank_label": "#328",
+        "rank_type": 4
+      },
+      {
+        "name": "Town Center Level",
+        "value": 46,
+        "value_label": null,
+        "kingdom_rank": 265,
+        "kingdom_rank_label": "#265",
+        "rank_type": 5
+      },
+      {
+        "name": "Migrant Score",
+        "value": 328878,
+        "value_label": null,
+        "kingdom_rank": 252,
+        "kingdom_rank_label": "#252",
+        "rank_type": 19
+      },
+      {
+        "name": "Mystic Trial",
+        "value": 975,
+        "value_label": null,
+        "kingdom_rank": 265,
+        "kingdom_rank_label": "#265",
+        "rank_type": 20
+      },
+      {
+        "name": "Coliseum",
+        "value": 10229,
+        "value_label": "23-9",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 21
+      },
+      {
+        "name": "Forest of Life",
+        "value": 20136,
+        "value_label": "14-6",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 22
+      },
+      {
+        "name": "Crystal Cave",
+        "value": 30121,
+        "value_label": "13-1",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 23
+      },
+      {
+        "name": "Knowledge Nexus",
+        "value": 40094,
+        "value_label": "10-4",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 24
+      },
+      {
+        "name": "Molten Fort",
+        "value": 50141,
+        "value_label": "15-1",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 25
+      },
+      {
+        "name": "Radiant Spire",
+        "value": 60254,
+        "value_label": "26-4",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 26
+      }
+    ]
+  }
+}
