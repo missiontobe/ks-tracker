@@ -1,0 +1,27 @@
+name: Publish on Surge
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  publish:
+    name: Publish on Surge
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npx surge ./public publish
+        env:
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
