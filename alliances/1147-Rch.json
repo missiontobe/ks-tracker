@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417368.1764328,
+  "cached_at": 1790371798.735233,
   "age_seconds": 0,
   "alliance": {
     "aid": 115600499,
     "name": "phantom",
     "abbr": "Rch",
     "kid": 1147,
-    "power": 179054931,
+    "power": 187352467,
     "count": 1,
     "leader_name": "lord166049699",
     "leader_uid": 41806019,
     "leader_governor_id": 166049699,
     "flag_url": "/assets/icons/capital_icon_got_4.png",
-    "power_rank": 14,
+    "power_rank": 13,
     "permalink": "/1147/Rch"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 166049699,
       "fid": 166049699,
       "nick_name": "lord166049699",
-      "power": 178656494,
-      "town_center_level": 52,
+      "power": 184573458,
+      "town_center_level": 53,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1147,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789373836.0,
+      "last_active_at": 1789456702.0,
       "online": false
     }
   ],

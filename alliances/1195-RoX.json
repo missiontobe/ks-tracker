@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418478.6923451,
-  "age_seconds": 762,
+  "cached_at": 1790373994.2790885,
+  "age_seconds": 70,
   "alliance": {
     "aid": 120400099,
     "name": "Roxy",
     "abbr": "RoX",
     "kid": 1195,
-    "power": 382978960,
-    "count": 36,
+    "power": 423379002,
+    "count": 35,
     "leader_name": "Joñ Sñow 2",
     "leader_uid": 54796485,
     "leader_governor_id": 221024385,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 14,
+    "power_rank": 10,
     "permalink": "/1195/RoX"
   },
   "members": [
@@ -36,7 +36,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2026/07/23/kOEZNX_1784817278.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/23/kOEZNX_1784817278.png",
       "last_active_at": 1787854783.0,
       "online": false
     },
@@ -45,14 +45,14 @@
       "governor_id": 221024385,
       "fid": 221024385,
       "nick_name": "Joñ Sñow 2",
-      "power": 109407723,
+      "power": 118676612,
       "town_center_level": 50,
-      "kills": 1972580,
+      "kills": 1974623,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2026/04/19/8KnBwL_1776594435.png",
-      "last_active_at": 1789408686.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/19/8KnBwL_1776594435.png",
+      "last_active_at": 1789461058.0,
       "online": false
     },
     {
@@ -60,13 +60,13 @@
       "governor_id": 228377319,
       "fid": 228377319,
       "nick_name": "plopmelk",
-      "power": 22647231,
+      "power": 24085701,
       "town_center_level": 25,
       "kills": 7362,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2026/01/27/7J9O61_1769514982.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/27/7J9O61_1769514982.png",
       "last_active_at": 1789414452.0,
       "online": false
     },
@@ -75,7 +75,7 @@
       "governor_id": 226178523,
       "fid": 226178523,
       "nick_name": "420 farm",
-      "power": 20045229,
+      "power": 22275829,
       "town_center_level": 24,
       "kills": 36465,
       "alliance_rank": 3,
@@ -83,6 +83,21 @@
       "kid": 1195,
       "avatar_url": "/assets/icons/hero_headpic_50018.png",
       "last_active_at": 1789253051.0,
+      "online": false
+    },
+    {
+      "uid": 83872304,
+      "governor_id": 332545834,
+      "fid": 332545834,
+      "nick_name": "Fellas farm",
+      "power": 14319711,
+      "town_center_level": 22,
+      "kills": 21915,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1195,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/01/mg0zn3_1780310707.png",
+      "last_active_at": 1789210440.0,
       "online": false
     },
     {
@@ -98,21 +113,6 @@
       "kid": 1195,
       "avatar_url": "/assets/icons/hero_headpic_50003.png",
       "last_active_at": 1786467084.0,
-      "online": false
-    },
-    {
-      "uid": 83872304,
-      "governor_id": 332545834,
-      "fid": 332545834,
-      "nick_name": "Fellas farm",
-      "power": 14193881,
-      "town_center_level": 22,
-      "kills": 21915,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1195,
-      "avatar_url": "/cdn/avatar/2026/06/01/mg0zn3_1780310707.png",
-      "last_active_at": 1789210440.0,
       "online": false
     },
     {
@@ -141,7 +141,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2026/07/17/EVyjZY_1784273043.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/17/EVyjZY_1784273043.png",
       "last_active_at": 1789250349.0,
       "online": false
     },
@@ -306,7 +306,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2025/10/28/x705KE_1761642661.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/28/x705KE_1761642661.png",
       "last_active_at": 1764618040.0,
       "online": false
     },
@@ -321,7 +321,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2025/10/25/1BokKV_1761392920.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/25/1BokKV_1761392920.png",
       "last_active_at": 1764921860.0,
       "online": false
     },
@@ -351,7 +351,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2025/10/30/O5vzQr_1761839790.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/30/O5vzQr_1761839790.png",
       "last_active_at": 1765015038.0,
       "online": false
     },
@@ -366,7 +366,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2025/11/12/7WxBBB_1762983400.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/12/7WxBBB_1762983400.png",
       "last_active_at": 1763526279.0,
       "online": false
     },
@@ -501,7 +501,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2025/10/21/XkGwWl_1761061810.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/21/XkGwWl_1761061810.png",
       "last_active_at": 1763118632.0,
       "online": false
     },
@@ -521,21 +521,6 @@
       "online": false
     },
     {
-      "uid": 94872212,
-      "governor_id": 379330184,
-      "fid": 379330184,
-      "nick_name": "mssyann",
-      "power": 548769,
-      "town_center_level": 12,
-      "kills": 1784876289,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1195,
-      "avatar_url": "/cdn/avatar/2026/07/28/xW83oE_1785232790.png",
-      "last_active_at": 1789398478.0,
-      "online": false
-    },
-    {
       "uid": 89577656,
       "governor_id": 357981026,
       "fid": 357981026,
@@ -546,7 +531,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1195,
-      "avatar_url": "/cdn/avatar/2026/06/28/xxYWNJ_1782649348.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/28/xxYWNJ_1782649348.png",
       "last_active_at": 1783426793.0,
       "online": false
     },
@@ -566,5 +551,5 @@
       "online": false
     }
   ],
-  "member_count": 36
+  "member_count": 35
 }

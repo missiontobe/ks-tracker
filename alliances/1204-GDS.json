@@ -8,16 +8,16 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419431.6707842,
-  "age_seconds": 0,
+  "cached_at": 1790374900.1908095,
+  "age_seconds": 1,
   "alliance": {
     "aid": 121300287,
     "name": "FwkuCinger",
     "abbr": "GDS",
     "kid": 1204,
-    "power": 587931150,
+    "power": 620392168,
     "count": 35,
-    "leader_name": "hello",
+    "leader_name": "Helloᴳᵈˢ",
     "leader_uid": 97322532,
     "leader_governor_id": 386544666,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
@@ -30,14 +30,14 @@
       "governor_id": 189780933,
       "fid": 189780933,
       "nick_name": "AdmGenAladeenᴳᵈˢ",
-      "power": 257493328,
+      "power": 253901530,
       "town_center_level": 55,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1204,
       "avatar_url": "/assets/icons/hero_headpic_50023.png",
-      "last_active_at": 1789065120.0,
+      "last_active_at": 1789413677.0,
       "online": false
     },
     {
@@ -45,7 +45,7 @@
       "governor_id": 194327207,
       "fid": 194327207,
       "nick_name": "Fred Flinstone",
-      "power": 194166696,
+      "power": 194195392,
       "town_center_level": 53,
       "kills": null,
       "alliance_rank": 4,
@@ -56,18 +56,18 @@
       "online": false
     },
     {
-      "uid": 43792534,
-      "governor_id": 173879521,
-      "fid": 173879521,
-      "nick_name": "DoDo××Loveᴸᴾᰔ",
-      "power": 66178776,
-      "town_center_level": 40,
+      "uid": 49066097,
+      "governor_id": 196260546,
+      "fid": 196260546,
+      "nick_name": "Nuclear Nadal",
+      "power": 81455967,
+      "town_center_level": 44,
       "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
       "kid": 1204,
-      "avatar_url": "/cdn/avatar/2025/11/13/1BZWW0_1763070229.png",
-      "last_active_at": 1788837100.0,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789247736.0,
       "online": false
     },
     {
@@ -83,6 +83,21 @@
       "kid": 1204,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1770211185.0,
+      "online": false
+    },
+    {
+      "uid": 97322532,
+      "governor_id": 386544666,
+      "fid": 386544666,
+      "nick_name": "Helloᴳᵈˢ",
+      "power": 15446329,
+      "town_center_level": 25,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1204,
+      "avatar_url": "/assets/icons/hero_headpic_50008.png",
+      "last_active_at": 1789429439.0,
       "online": false
     },
     {
@@ -113,21 +128,6 @@
       "kid": 1204,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1783157136.0,
-      "online": false
-    },
-    {
-      "uid": 97322532,
-      "governor_id": 386544666,
-      "fid": 386544666,
-      "nick_name": "hello",
-      "power": 8152187,
-      "town_center_level": 24,
-      "kills": null,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1204,
-      "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1788840636.0,
       "online": false
     },
     {
@@ -191,6 +191,21 @@
       "online": false
     },
     {
+      "uid": 99060744,
+      "governor_id": 394288688,
+      "fid": 394288688,
+      "nick_name": "Mini Mira",
+      "power": 1930181,
+      "town_center_level": 15,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1204,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/17/gqKA39_1786998987.png",
+      "last_active_at": 1789065107.0,
+      "online": false
+    },
+    {
       "uid": 43797456,
       "governor_id": 173322541,
       "fid": 173322541,
@@ -203,21 +218,6 @@
       "kid": 1204,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
       "last_active_at": 1763107529.0,
-      "online": false
-    },
-    {
-      "uid": 99060744,
-      "governor_id": 394288688,
-      "fid": 394288688,
-      "nick_name": "Mini Mira",
-      "power": 1370619,
-      "town_center_level": 11,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1204,
-      "avatar_url": "/cdn/avatar/2026/08/17/gqKA39_1786998987.png",
-      "last_active_at": 1788590873.0,
       "online": false
     },
     {
@@ -266,6 +266,21 @@
       "online": false
     },
     {
+      "uid": 99026981,
+      "governor_id": 397024290,
+      "fid": 397024290,
+      "nick_name": "Cinger",
+      "power": 1142594,
+      "town_center_level": 15,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1204,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789115309.0,
+      "online": false
+    },
+    {
       "uid": 43797035,
       "governor_id": 174289192,
       "fid": 174289192,
@@ -311,21 +326,6 @@
       "online": false
     },
     {
-      "uid": 99026981,
-      "governor_id": 397024290,
-      "fid": 397024290,
-      "nick_name": "Cinger",
-      "power": 651959,
-      "town_center_level": 9,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1204,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788248210.0,
-      "online": false
-    },
-    {
       "uid": 43777547,
       "governor_id": 174157819,
       "fid": 174157819,
@@ -360,14 +360,29 @@
       "governor_id": 378679646,
       "fid": 378679646,
       "nick_name": "alliance builder",
-      "power": 441768,
+      "power": 472574,
       "town_center_level": 13,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1204,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788807382.0,
+      "last_active_at": 1789237667.0,
+      "online": false
+    },
+    {
+      "uid": 101078832,
+      "governor_id": 403839325,
+      "fid": 403839325,
+      "nick_name": "hello2",
+      "power": 452513,
+      "town_center_level": 9,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1204,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1788879778.0,
       "online": false
     },
     {
@@ -461,6 +476,21 @@
       "online": false
     },
     {
+      "uid": 101080062,
+      "governor_id": 404740461,
+      "fid": 404740461,
+      "nick_name": "hello3",
+      "power": 149153,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1204,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789234269.0,
+      "online": false
+    },
+    {
       "uid": 43793765,
       "governor_id": 174764277,
       "fid": 174764277,
@@ -488,36 +518,6 @@
       "kid": 1204,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1761758204.0,
-      "online": false
-    },
-    {
-      "uid": 101080062,
-      "governor_id": 404740461,
-      "fid": 404740461,
-      "nick_name": "hello3",
-      "power": 130353,
-      "town_center_level": 6,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1204,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788436984.0,
-      "online": false
-    },
-    {
-      "uid": 101078832,
-      "governor_id": 403839325,
-      "fid": 403839325,
-      "nick_name": "hello2",
-      "power": 101154,
-      "town_center_level": 6,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1204,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788599644.0,
       "online": false
     },
     {

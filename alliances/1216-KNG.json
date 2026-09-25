@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419887.9221487,
+  "cached_at": 1790375268.911625,
   "age_seconds": 0,
   "alliance": {
     "aid": 122500007,
     "name": "KingEagles",
     "abbr": "KNG",
     "kid": 1216,
-    "power": 1049498316,
+    "power": 1052807970,
     "count": 27,
     "leader_name": "Dimple",
     "leader_uid": 44232992,
@@ -30,14 +30,14 @@
       "governor_id": 176294855,
       "fid": 176294855,
       "nick_name": "Dimple",
-      "power": 61833100,
+      "power": 63620384,
       "town_center_level": 35,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1216,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1788798802.0,
+      "last_active_at": 1789436812.0,
       "online": false
     },
     {
@@ -51,7 +51,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1216,
-      "avatar_url": "/cdn/avatar/2026/01/28/51Ny9x_1769607963.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/28/51Ny9x_1769607963.png",
       "last_active_at": 1785653654.0,
       "online": false
     },
@@ -191,7 +191,7 @@
       "online": false
     },
     {
-      "uid": 44213768,
+      "uid": 44249590,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -356,7 +356,7 @@
       "online": false
     },
     {
-      "uid": 44249590,
+      "uid": 44252540,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -371,7 +371,7 @@
       "online": false
     },
     {
-      "uid": 44252540,
+      "uid": 44213768,
       "governor_id": null,
       "fid": null,
       "nick_name": null,

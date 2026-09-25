@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418045.037333,
+  "cached_at": 1790373032.7844737,
   "age_seconds": 0,
   "alliance": {
     "aid": 117900098,
     "name": "OGs",
     "abbr": "OGs",
     "kid": 1170,
-    "power": 1048912088,
-    "count": 28,
+    "power": 1045276390,
+    "count": 27,
     "leader_name": "Parmič CZ",
     "leader_uid": 42592758,
     "leader_governor_id": 169846693,
@@ -30,14 +30,14 @@
       "governor_id": 169846693,
       "fid": 169846693,
       "nick_name": "Parmič CZ",
-      "power": 164810895,
-      "town_center_level": 47,
+      "power": 171571348,
+      "town_center_level": 50,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1170,
-      "avatar_url": "/cdn/avatar/2026/01/21/zx4PAq_1769003571.png",
-      "last_active_at": 1789364222.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/21/zx4PAq_1769003571.png",
+      "last_active_at": 1789457084.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 169666234,
       "fid": 169666234,
       "nick_name": "lord169666234",
-      "power": 122333762,
+      "power": 133579406,
       "town_center_level": 40,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1170,
       "avatar_url": "/assets/icons/hero_headpic_50006.png",
-      "last_active_at": 1789345054.0,
+      "last_active_at": 1789448588.0,
       "online": false
     },
     {
@@ -60,14 +60,14 @@
       "governor_id": 167798938,
       "fid": 167798938,
       "nick_name": "Kkkbnm pars",
-      "power": 102818351,
+      "power": 111697076,
       "town_center_level": 40,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1170,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789363422.0,
+      "last_active_at": 1789458628.0,
       "online": false
     },
     {
@@ -75,14 +75,14 @@
       "governor_id": 170026873,
       "fid": 170026873,
       "nick_name": "CrimsonDev",
-      "power": 83667470,
+      "power": 89462277,
       "town_center_level": 29,
       "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
       "kid": 1170,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789364222.0,
+      "last_active_at": 1789417650.0,
       "online": false
     },
     {
@@ -96,7 +96,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1170,
-      "avatar_url": "/cdn/avatar/2026/08/20/mMXKnO_1787261676.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/20/mMXKnO_1787261676.png",
       "last_active_at": 1789239125.0,
       "online": false
     },
@@ -141,7 +141,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1170,
-      "avatar_url": "/cdn/avatar/2025/11/13/K5EMYn_1763010041.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/13/K5EMYn_1763010041.png",
       "last_active_at": 1775694440.0,
       "online": false
     },
@@ -186,7 +186,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1170,
-      "avatar_url": "/cdn/avatar/2026/01/25/4YKN4g_1769352534.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/25/4YKN4g_1769352534.png",
       "last_active_at": 1782859042.0,
       "online": false
     },
@@ -270,14 +270,14 @@
       "governor_id": 232349981,
       "fid": 232349981,
       "nick_name": "Emperor's ASH",
-      "power": 11817049,
+      "power": 11786194,
       "town_center_level": 21,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1170,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1787963431.0,
+      "last_active_at": 1789055141.0,
       "online": false
     },
     {
@@ -291,7 +291,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1170,
-      "avatar_url": "/cdn/avatar/2025/11/23/DJEyRK_1763877569.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/23/DJEyRK_1763877569.png",
       "last_active_at": 1779541667.0,
       "online": false
     },
@@ -371,6 +371,21 @@
       "online": false
     },
     {
+      "uid": 42582391,
+      "governor_id": 171681541,
+      "fid": 171681541,
+      "nick_name": "Louis wong",
+      "power": 207948,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1170,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1788928039.0,
+      "online": false
+    },
+    {
       "uid": 42588196,
       "governor_id": 168437601,
       "fid": 168437601,
@@ -396,7 +411,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1170,
-      "avatar_url": "/cdn/avatar/2026/08/18/A9O4Pj_1787044695.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/18/A9O4Pj_1787044695.png",
       "last_active_at": 1781458654.0,
       "online": false
     },
@@ -414,37 +429,7 @@
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,
       "online": false
-    },
-    {
-      "uid": 42582391,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1170,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 46671099,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1170,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
     }
   ],
-  "member_count": 28
+  "member_count": 27
 }

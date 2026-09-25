@@ -8,38 +8,23 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418465.0698173,
+  "cached_at": 1790373436.3780706,
   "age_seconds": 0,
   "alliance": {
     "aid": 119400001,
     "name": "StrongTogether1",
     "abbr": "ST1",
     "kid": 1185,
-    "power": 317209203,
-    "count": 5,
-    "leader_name": "KuLakCı",
-    "leader_uid": 43162531,
-    "leader_governor_id": 174525038,
+    "power": 107684150,
+    "count": 4,
+    "leader_name": "Clemfarm",
+    "leader_uid": 47442421,
+    "leader_governor_id": 192843684,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 14,
+    "power_rank": 29,
     "permalink": "/1185/ST1"
   },
   "members": [
-    {
-      "uid": 43162531,
-      "governor_id": 174525038,
-      "fid": 174525038,
-      "nick_name": "TURK",
-      "power": 208843835,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1185,
-      "avatar_url": "/cdn/avatar/2026/07/23/Xk2KKv_1784841351.png",
-      "last_active_at": 1789288630.0,
-      "online": false
-    },
     {
       "uid": 47442421,
       "governor_id": 192843684,
@@ -48,8 +33,8 @@
       "power": 27481493,
       "town_center_level": 26,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
       "kid": 1185,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1787957518.0,
@@ -101,5 +86,5 @@
       "online": false
     }
   ],
-  "member_count": 5
+  "member_count": 4
 }

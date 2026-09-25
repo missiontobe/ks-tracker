@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417750.4138157,
-  "age_seconds": 0,
+  "cached_at": 1790372661.5680432,
+  "age_seconds": 1,
   "alliance": {
     "aid": 117200122,
     "name": "KingdomofOld",
     "abbr": "KoO",
     "kid": 1163,
-    "power": 447957877,
-    "count": 49,
+    "power": 469833192,
+    "count": 50,
     "leader_name": "Cwin82",
     "leader_uid": 42361949,
     "leader_governor_id": 171497872,
@@ -30,14 +30,14 @@
       "governor_id": 171497872,
       "fid": 171497872,
       "nick_name": "Cwin82",
-      "power": 136363610,
+      "power": 143156548,
       "town_center_level": 45,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1163,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789382349.0,
+      "last_active_at": 1789461122.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 168761412,
       "fid": 168761412,
       "nick_name": "killersmurf",
-      "power": 85793097,
-      "town_center_level": 32,
+      "power": 98231021,
+      "town_center_level": 35,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1163,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789361709.0,
+      "last_active_at": 1789447959.0,
       "online": false
     },
     {
@@ -60,14 +60,14 @@
       "governor_id": 169302020,
       "fid": 169302020,
       "nick_name": "ジKILLUAジ",
-      "power": 39706997,
-      "town_center_level": 25,
+      "power": 39833497,
+      "town_center_level": 26,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1163,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788339838.0,
+      "last_active_at": 1789004572.0,
       "online": false
     },
     {
@@ -75,14 +75,14 @@
       "governor_id": 168253612,
       "fid": 168253612,
       "nick_name": "nosotros",
-      "power": 37440946,
+      "power": 37555225,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1163,
       "avatar_url": "/assets/icons/hero_headpic_50021.png",
-      "last_active_at": 1788743816.0,
+      "last_active_at": 1789258772.0,
       "online": false
     },
     {
@@ -120,14 +120,14 @@
       "governor_id": 168597837,
       "fid": 168597837,
       "nick_name": "RedFox Rumble",
-      "power": 14306696,
+      "power": 15128506,
       "town_center_level": 21,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1163,
       "avatar_url": "/assets/icons/hero_headpic_50021.png",
-      "last_active_at": 1788821452.0,
+      "last_active_at": 1789442430.0,
       "online": false
     },
     {
@@ -261,7 +261,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1163,
-      "avatar_url": "/cdn/avatar/2026/01/28/WjvEWJ_1769571325.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/28/WjvEWJ_1769571325.png",
       "last_active_at": 1772125950.0,
       "online": false
     },
@@ -759,7 +759,22 @@
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1774419950.0,
       "online": false
+    },
+    {
+      "uid": 42363636,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1163,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
     }
   ],
-  "member_count": 49
+  "member_count": 50
 }

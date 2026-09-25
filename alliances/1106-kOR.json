@@ -8,68 +8,23 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415612.591271,
-  "age_seconds": 0,
+  "cached_at": 1790369274.5042803,
+  "age_seconds": 8,
   "alliance": {
     "aid": 111500004,
     "name": "KoREA",
     "abbr": "kOR",
     "kid": 1106,
-    "power": 1376573121,
-    "count": 4,
+    "power": 3934764,
+    "count": 1,
     "leader_name": "KKingcrab⠀",
     "leader_uid": 52011145,
     "leader_governor_id": 207906432,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 12,
+    "power_rank": 80,
     "permalink": "/1106/kOR"
   },
   "members": [
-    {
-      "uid": 40369424,
-      "governor_id": 160440310,
-      "fid": 160440310,
-      "nick_name": "JEON",
-      "power": 671143392,
-      "town_center_level": 55,
-      "kills": 103336487,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1106,
-      "avatar_url": "/cdn/avatar/2026/06/11/N7qVZN_1781161943.png",
-      "last_active_at": 1789381027.0,
-      "online": false
-    },
-    {
-      "uid": 40328500,
-      "governor_id": 161095030,
-      "fid": 161095030,
-      "nick_name": "JAZZ",
-      "power": 393074097,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1106,
-      "avatar_url": "/cdn/avatar/2026/06/08/g7gKll_1780877939.png",
-      "last_active_at": 1789374008.0,
-      "online": false
-    },
-    {
-      "uid": 42783858,
-      "governor_id": 169063250,
-      "fid": 169063250,
-      "nick_name": "르를를르",
-      "power": 308401968,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1106,
-      "avatar_url": "/cdn/avatar/2026/04/17/zx5xv5_1776418020.png",
-      "last_active_at": 1789400065.0,
-      "online": false
-    },
     {
       "uid": 52011145,
       "governor_id": 207906432,
@@ -81,10 +36,10 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1106,
-      "avatar_url": "/cdn/avatar/2026/06/25/j5XWOP_1782370800.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/25/j5XWOP_1782370800.png",
       "last_active_at": 1787977201.0,
       "online": false
     }
   ],
-  "member_count": 4
+  "member_count": 1
 }

@@ -8,50 +8,35 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419328.1391754,
-  "age_seconds": 0,
+  "cached_at": 1790374617.8976433,
+  "age_seconds": 2,
   "alliance": {
     "aid": 120800031,
     "name": "Evo2",
     "abbr": "Ev2",
     "kid": 1199,
-    "power": 376597110,
-    "count": 51,
-    "leader_name": "Diamond",
-    "leader_uid": 43588922,
-    "leader_governor_id": 173237364,
+    "power": 244441187,
+    "count": 50,
+    "leader_name": "Temp",
+    "leader_uid": 75180838,
+    "leader_governor_id": 298527916,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 13,
+    "power_rank": 15,
     "permalink": "/1199/Ev2"
   },
   "members": [
-    {
-      "uid": 43588922,
-      "governor_id": 173237364,
-      "fid": 173237364,
-      "nick_name": "Diamond",
-      "power": 142446293,
-      "town_center_level": 48,
-      "kills": 5373207,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1199,
-      "avatar_url": "/cdn/avatar/2026/03/29/L5OrNW_1774789236.png",
-      "last_active_at": 1789394467.0,
-      "online": false
-    },
     {
       "uid": 43588271,
       "governor_id": 175072361,
       "fid": 175072361,
       "nick_name": "▓LumiN▓",
-      "power": 109278698,
-      "town_center_level": 37,
+      "power": 112772301,
+      "town_center_level": 38,
       "kills": 2203521,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1199,
-      "avatar_url": "/cdn/avatar/2026/07/10/Q5lzxG_1783721509.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/10/Q5lzxG_1783721509.png",
       "last_active_at": 1789411902.0,
       "online": false
     },
@@ -60,14 +45,14 @@
       "governor_id": 298527916,
       "fid": 298527916,
       "nick_name": "Temp",
-      "power": 41847398,
+      "power": 45610539,
       "town_center_level": 27,
       "kills": 106,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
       "kid": 1199,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788818352.0,
+      "last_active_at": 1789421343.0,
       "online": false
     },
     {
@@ -75,14 +60,14 @@
       "governor_id": 230370022,
       "fid": 230370022,
       "nick_name": "Selene",
-      "power": 34116671,
+      "power": 36586380,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1199,
       "avatar_url": "/assets/icons/hero_headpic_50021.png",
-      "last_active_at": 1788828854.0,
+      "last_active_at": 1789448730.0,
       "online": false
     },
     {
@@ -791,5 +776,5 @@
       "online": false
     }
   ],
-  "member_count": 51
+  "member_count": 50
 }

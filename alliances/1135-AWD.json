@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416425.2980688,
-  "age_seconds": 0,
+  "cached_at": 1790371083.4405916,
+  "age_seconds": 14,
   "alliance": {
     "aid": 114400370,
     "name": "ASHenWolfDen",
     "abbr": "AWD",
     "kid": 1135,
-    "power": 792523619,
+    "power": 792520221,
     "count": 31,
     "leader_name": "mastasnowz",
     "leader_uid": 41365460,
     "leader_governor_id": 165452991,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 7,
+    "power_rank": 8,
     "permalink": "/1135/AWD"
   },
   "members": [
@@ -51,7 +51,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2025/10/15/21kNAM_1760489312.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/15/21kNAM_1760489312.png",
       "last_active_at": 1779530956.0,
       "online": false
     },
@@ -96,7 +96,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2025/11/14/O5YjVR_1763113209.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/14/O5YjVR_1763113209.png",
       "last_active_at": 1766079600.0,
       "online": false
     },
@@ -111,7 +111,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2025/10/21/8B2KYj_1761011617.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/21/8B2KYj_1761011617.png",
       "last_active_at": 1770859410.0,
       "online": false
     },
@@ -141,7 +141,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2025/10/21/GQ62Dy_1761034153.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/21/GQ62Dy_1761034153.png",
       "last_active_at": 1767130276.0,
       "online": false
     },
@@ -156,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2025/11/14/Q5Wpn0_1763146215.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/14/Q5Wpn0_1763146215.png",
       "last_active_at": 1767474954.0,
       "online": false
     },
@@ -171,7 +171,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2025/10/09/qMx1w7_1760006240.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/09/qMx1w7_1760006240.png",
       "last_active_at": 1768438872.0,
       "online": false
     },
@@ -216,7 +216,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2025/10/17/o62QpA_1760700242.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/17/o62QpA_1760700242.png",
       "last_active_at": 1768438870.0,
       "online": false
     },
@@ -306,7 +306,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2025/10/13/qMxry2_1760323339.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/13/qMxry2_1760323339.png",
       "last_active_at": 1767130285.0,
       "online": false
     },
@@ -381,7 +381,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2026/01/30/6GD8mz_1769740108.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/30/6GD8mz_1769740108.png",
       "last_active_at": 1778267337.0,
       "online": false
     },
@@ -396,7 +396,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1135,
-      "avatar_url": "/cdn/avatar/2025/11/13/wRPvlX_1763026300.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/13/wRPvlX_1763026300.png",
       "last_active_at": 1778273396.0,
       "online": false
     },

@@ -8,8 +8,8 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418379.8115647,
-  "age_seconds": 2,
+  "cached_at": 1790373352.750165,
+  "age_seconds": 0,
   "alliance": {
     "aid": 119100196,
     "name": "ShionFans",
@@ -21,7 +21,7 @@
     "leader_uid": 44442950,
     "leader_governor_id": null,
     "flag_url": "/assets/icons/capital_icon_got_2.png",
-    "power_rank": 9,
+    "power_rank": 11,
     "permalink": "/1182/tNd"
   },
   "members": [

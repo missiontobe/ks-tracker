@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419092.6942592,
-  "age_seconds": 1,
+  "cached_at": 1790373539.2489593,
+  "age_seconds": 0,
   "alliance": {
     "aid": 119800013,
     "name": "Zootopia",
     "abbr": "ZOO",
     "kid": 1189,
-    "power": 1566245782,
-    "count": 23,
+    "power": 1533341253,
+    "count": 22,
     "leader_name": "babykitty",
     "leader_uid": 99063725,
     "leader_governor_id": 397303388,
@@ -36,7 +36,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2025/12/02/O5DNnG_1764651844.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/02/O5DNnG_1764651844.png",
       "last_active_at": 1780597879.0,
       "online": false
     },
@@ -51,7 +51,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/05/06/Wj03JQ_1778101981.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/06/Wj03JQ_1778101981.png",
       "last_active_at": 1780597885.0,
       "online": false
     },
@@ -96,7 +96,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/05/10/B9qGv2_1778381264.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/10/B9qGv2_1778381264.png",
       "last_active_at": 1780597817.0,
       "online": false
     },
@@ -105,13 +105,13 @@
       "governor_id": 185927285,
       "fid": 185927285,
       "nick_name": "Little Cougar",
-      "power": 76709417,
+      "power": 78044940,
       "town_center_level": 40,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/05/18/EGWzNK_1779125384.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/18/EGWzNK_1779125384.png",
       "last_active_at": 1787520724.0,
       "online": false
     },
@@ -120,7 +120,7 @@
       "governor_id": 172609370,
       "fid": 172609370,
       "nick_name": "Ruthless",
-      "power": 76304423,
+      "power": 76342447,
       "town_center_level": 50,
       "kills": null,
       "alliance_rank": 2,
@@ -141,7 +141,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2025/11/06/O5Dx0Y_1762408733.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/06/O5Dx0Y_1762408733.png",
       "last_active_at": 1788034661.0,
       "online": false
     },
@@ -156,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2025/10/31/mMj4LG_1761924173.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/31/mMj4LG_1761924173.png",
       "last_active_at": 1784169180.0,
       "online": false
     },
@@ -186,23 +186,8 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/01/06/wRwGk8_1767719926.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/06/wRwGk8_1767719926.png",
       "last_active_at": 1788041924.0,
-      "online": false
-    },
-    {
-      "uid": 50933954,
-      "governor_id": 201696449,
-      "fid": 201696449,
-      "nick_name": "Kawasaki",
-      "power": 56770036,
-      "town_center_level": 31,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/08/31/vR6NPn_1788220487.png",
-      "last_active_at": 1788823565.0,
       "online": false
     },
     {
@@ -216,7 +201,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/05/11/Q5GBoq_1778461354.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/11/Q5GBoq_1778461354.png",
       "last_active_at": 1787910539.0,
       "online": false
     },
@@ -261,7 +246,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/07/01/oJERLX_1782939477.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/01/oJERLX_1782939477.png",
       "last_active_at": 1787974504.0,
       "online": false
     },
@@ -276,7 +261,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/06/14/AozK11_1781471870.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/14/AozK11_1781471870.png",
       "last_active_at": 1785439860.0,
       "online": false
     },
@@ -291,7 +276,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/07/24/L5zVzg_1784862664.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/24/L5zVzg_1784862664.png",
       "last_active_at": 1786818818.0,
       "online": false
     },
@@ -351,7 +336,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/02/26/KGjowG_1772143015.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/26/KGjowG_1772143015.png",
       "last_active_at": 1786529771.0,
       "online": false
     },
@@ -360,16 +345,16 @@
       "governor_id": 397303388,
       "fid": 397303388,
       "nick_name": "babykitty",
-      "power": 106850,
-      "town_center_level": 6,
+      "power": 345031,
+      "town_center_level": 10,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1189,
-      "avatar_url": "/cdn/avatar/2026/08/24/OvkQqL_1787538115.png",
-      "last_active_at": 1787597275.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/15/OvkQqL_1789438476.png",
+      "last_active_at": 1789439045.0,
       "online": false
     }
   ],
-  "member_count": 23
+  "member_count": 22
 }

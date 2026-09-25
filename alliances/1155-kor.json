@@ -8,8 +8,8 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417552.8802738,
-  "age_seconds": 0,
+  "cached_at": 1790372260.1607776,
+  "age_seconds": 7,
   "alliance": {
     "aid": 116400393,
     "name": "대한민국연맹",
@@ -21,7 +21,7 @@
     "leader_uid": 42070090,
     "leader_governor_id": null,
     "flag_url": "/assets/icons/capital_icon_got_4.png",
-    "power_rank": 9,
+    "power_rank": 7,
     "permalink": "/1155/kor"
   },
   "members": [
@@ -266,6 +266,21 @@
       "online": false
     },
     {
+      "uid": 42086057,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1155,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
       "uid": 42060634,
       "governor_id": null,
       "fid": null,
@@ -365,21 +380,6 @@
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
-      "kid": 1155,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 42086057,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
       "kid": 1155,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,

@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419829.135286,
+  "cached_at": 1790375219.4416304,
   "age_seconds": 0,
   "alliance": {
     "aid": 122300132,
     "name": "MOON",
     "abbr": "SSS",
     "kid": 1214,
-    "power": 406162999,
-    "count": 24,
+    "power": 437389714,
+    "count": 25,
     "leader_name": "lord179717855",
     "leader_uid": 44152761,
     "leader_governor_id": 179717855,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 9,
+    "power_rank": 7,
     "permalink": "/1214/SSS"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 178292157,
       "fid": 178292157,
       "nick_name": "Rob_PIA",
-      "power": 68615790,
+      "power": 65466666,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1214,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788835307.0,
+      "last_active_at": 1789447764.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 179717855,
       "fid": 179717855,
       "nick_name": "lord179717855",
-      "power": 64068982,
+      "power": 58566941,
       "town_center_level": 35,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1214,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1788837143.0,
+      "last_active_at": 1789452555.0,
       "online": false
     },
     {
@@ -60,14 +60,14 @@
       "governor_id": 179717349,
       "fid": 179717349,
       "nick_name": "Shizuka",
-      "power": 59941093,
+      "power": 56354976,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2026/08/18/nNpDjp_1787024207.png",
-      "last_active_at": 1788830514.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/18/nNpDjp_1787024207.png",
+      "last_active_at": 1789428101.0,
       "online": false
     },
     {
@@ -90,14 +90,14 @@
       "governor_id": 180012670,
       "fid": 180012670,
       "nick_name": "Mac2",
-      "power": 33384749,
+      "power": 33440432,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788817673.0,
+      "last_active_at": 1789326474.0,
       "online": false
     },
     {
@@ -146,18 +146,33 @@
       "online": false
     },
     {
+      "uid": 74346161,
+      "governor_id": 297155000,
+      "fid": 297155000,
+      "nick_name": "aeri",
+      "power": 15696956,
+      "town_center_level": 25,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1214,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/13/D7m5BA_1776086039.png",
+      "last_active_at": 1787252106.0,
+      "online": false
+    },
+    {
       "uid": 44127053,
       "governor_id": 178832719,
       "fid": 178832719,
       "nick_name": "ox Killer xo",
-      "power": 13972519,
+      "power": 15218010,
       "town_center_level": 25,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788835488.0,
+      "last_active_at": 1789453119.0,
       "online": false
     },
     {
@@ -180,14 +195,14 @@
       "governor_id": 176424793,
       "fid": 176424793,
       "nick_name": "Kolo",
-      "power": 11529538,
+      "power": 12031343,
       "town_center_level": 22,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1214,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1788040112.0,
+      "last_active_at": 1789261740.0,
       "online": false
     },
     {
@@ -345,14 +360,14 @@
       "governor_id": 179766840,
       "fid": 179766840,
       "nick_name": "lord179766840",
-      "power": 1804598,
-      "town_center_level": 11,
+      "power": 1988583,
+      "town_center_level": 12,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
-      "avatar_url": "/assets/icons/hero_headpic_50016.png",
-      "last_active_at": 1788651611.0,
+      "avatar_url": "/assets/icons/hero_headpic_50010.png",
+      "last_active_at": 1789269253.0,
       "online": false
     },
     {
@@ -386,5 +401,5 @@
       "online": false
     }
   ],
-  "member_count": 24
+  "member_count": 25
 }

@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "aid": 110200192,
+  "kid": 1093,
+  "tag": "YAG",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": false,
+  "cached_at": 1790318241.784787,
+  "age_seconds": 49859,
+  "alliance": {
+    "aid": 110200192,
+    "name": "gaypeace",
+    "abbr": "YAG",
+    "kid": 1093,
+    "power": 9670501,
+    "count": 2,
+    "leader_name": "Gaylord",
+    "leader_uid": 48574063,
+    "leader_governor_id": 195810489,
+    "flag_url": "/assets/icons/capital_icon_got_6.png",
+    "power_rank": 64,
+    "permalink": "/1093/YAG"
+  },
+  "members": [
+    {
+      "uid": 48574063,
+      "governor_id": 195810489,
+      "fid": 195810489,
+      "nick_name": "Riddler931",
+      "power": 9130911,
+      "town_center_level": 23,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1093,
+      "avatar_url": "/assets/icons/hero_headpic_50018.png",
+      "last_active_at": 1781953884.0,
+      "online": false
+    },
+    {
+      "uid": 69186338,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1093,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 2
+}

@@ -8,23 +8,68 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417346.6589622,
+  "cached_at": 1790371746.0276847,
   "age_seconds": 0,
   "alliance": {
     "aid": 115500065,
     "name": "BigYeetsCemetery",
     "abbr": "RlP",
     "kid": 1146,
-    "power": 342431293,
-    "count": 4,
+    "power": 870156875,
+    "count": 7,
     "leader_name": "MicroHolm",
     "leader_uid": 94876664,
     "leader_governor_id": 378986188,
     "flag_url": "/assets/icons/capital_icon_got_8.png",
-    "power_rank": 14,
+    "power_rank": 8,
     "permalink": "/1146/RlP"
   },
   "members": [
+    {
+      "uid": 38978472,
+      "governor_id": 155601678,
+      "fid": 155601678,
+      "nick_name": "Mad Gabenland",
+      "power": 297770677,
+      "town_center_level": 55,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1146,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/06/R8XvDK_1788720432.png",
+      "last_active_at": 1789432580.0,
+      "online": false
+    },
+    {
+      "uid": 56705602,
+      "governor_id": 226592011,
+      "fid": 226592011,
+      "nick_name": "MiniHolm",
+      "power": 169155998,
+      "town_center_level": 54,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1146,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/05/kM2vZv_1788625459.png",
+      "last_active_at": 1789453536.0,
+      "online": false
+    },
+    {
+      "uid": 60364802,
+      "governor_id": 239150178,
+      "fid": 239150178,
+      "nick_name": "Gabefarm",
+      "power": 50519068,
+      "town_center_level": 30,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1146,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789442158.0,
+      "online": false
+    },
     {
       "uid": 43844441,
       "governor_id": 175174668,
@@ -36,7 +81,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1146,
-      "avatar_url": "/cdn/avatar/2026/01/22/8BZZkr_1769122827.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/22/8BZZkr_1769122827.png",
       "last_active_at": 1787596230.0,
       "online": false
     },
@@ -45,14 +90,14 @@
       "governor_id": 378986188,
       "fid": 378986188,
       "nick_name": "MicroHolm",
-      "power": 6205841,
-      "town_center_level": 21,
+      "power": 8730408,
+      "town_center_level": 22,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1146,
       "avatar_url": "/assets/icons/hero_headpic_50003.png",
-      "last_active_at": 1788822127.0,
+      "last_active_at": 1789443232.0,
       "online": false
     },
     {
@@ -60,14 +105,14 @@
       "governor_id": 381466060,
       "fid": 381466060,
       "nick_name": "Micro Mari0",
-      "power": 1603995,
+      "power": 1595248,
       "town_center_level": 10,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1146,
-      "avatar_url": "/cdn/avatar/2026/09/02/DKrY8x_1788361700.png",
-      "last_active_at": 1788652366.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/02/DKrY8x_1788361700.png",
+      "last_active_at": 1789341599.0,
       "online": false
     },
     {
@@ -86,5 +131,5 @@
       "online": false
     }
   ],
-  "member_count": 4
+  "member_count": 7
 }

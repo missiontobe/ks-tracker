@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414212.3655286,
+  "cached_at": 1790367998.5337937,
   "age_seconds": 0,
   "alliance": {
     "aid": 110000156,
     "name": "내향인",
     "abbr": "Shy",
     "kid": 1091,
-    "power": 1062261033,
-    "count": 36,
+    "power": 1111384302,
+    "count": 37,
     "leader_name": "comicmaker",
     "leader_uid": 39840287,
     "leader_governor_id": 158957481,
     "flag_url": "/assets/icons/capital_icon_got_2.png",
-    "power_rank": 8,
+    "power_rank": 6,
     "permalink": "/1091/Shy"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 158957481,
       "fid": 158957481,
       "nick_name": "comicmaker",
-      "power": 224221754,
-      "town_center_level": 54,
+      "power": 229922512,
+      "town_center_level": 55,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1091,
       "avatar_url": "/assets/icons/hero_headpic_50010.png",
-      "last_active_at": 1789371242.0,
+      "last_active_at": 1789426444.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 210570531,
       "fid": 210570531,
       "nick_name": "공치성",
-      "power": 157756815,
-      "town_center_level": 47,
+      "power": 162570562,
+      "town_center_level": 49,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1091,
       "avatar_url": "/assets/icons/hero_headpic_50020.png",
-      "last_active_at": 1789371242.0,
+      "last_active_at": 1789442634.0,
       "online": false
     },
     {
@@ -60,14 +60,14 @@
       "governor_id": 157531556,
       "fid": 157531556,
       "nick_name": "슬라임",
-      "power": 149056600,
+      "power": 162005394,
       "town_center_level": 50,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1091,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1789376387.0,
+      "last_active_at": 1789450873.0,
       "online": false
     },
     {
@@ -81,7 +81,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/03/07/p9pVxr_1772858568.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/07/p9pVxr_1772858568.png",
       "last_active_at": 1781945792.0,
       "online": false
     },
@@ -90,13 +90,13 @@
       "governor_id": 156614252,
       "fid": 156614252,
       "nick_name": "민기늼",
-      "power": 101298272,
+      "power": 103122397,
       "town_center_level": 45,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2025/10/06/93oyGP_1759721854.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/06/93oyGP_1759721854.png",
       "last_active_at": 1789359347.0,
       "online": false
     },
@@ -111,7 +111,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/03/11/1VOZpP_1773229414.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/11/1VOZpP_1773229414.png",
       "last_active_at": 1780403510.0,
       "online": false
     },
@@ -126,8 +126,23 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/02/20/qAq9Yy_1771590500.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/20/qAq9Yy_1771590500.png",
       "last_active_at": 1779533317.0,
+      "online": false
+    },
+    {
+      "uid": 90985085,
+      "governor_id": 364573001,
+      "fid": 364573001,
+      "nick_name": "학사신공",
+      "power": 43736180,
+      "town_center_level": 25,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1091,
+      "avatar_url": "/assets/icons/hero_headpic_50028.png",
+      "last_active_at": 1789425137.0,
       "online": false
     },
     {
@@ -146,21 +161,6 @@
       "online": false
     },
     {
-      "uid": 90985085,
-      "governor_id": 364573001,
-      "fid": 364573001,
-      "nick_name": "학사신공",
-      "power": 40687803,
-      "town_center_level": 25,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1091,
-      "avatar_url": "/assets/icons/hero_headpic_50028.png",
-      "last_active_at": 1788949956.0,
-      "online": false
-    },
-    {
       "uid": 39842866,
       "governor_id": 156450770,
       "fid": 156450770,
@@ -171,7 +171,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2025/10/16/LAOEMr_1760609743.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/16/LAOEMr_1760609743.png",
       "last_active_at": 1773318721.0,
       "online": false
     },
@@ -186,7 +186,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2025/10/22/vmymGM_1761149584.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/22/vmymGM_1761149584.png",
       "last_active_at": 1766064670.0,
       "online": false
     },
@@ -195,14 +195,14 @@
       "governor_id": 198384716,
       "fid": 198384716,
       "nick_name": "랏차차",
-      "power": 15171827,
+      "power": 15206927,
       "town_center_level": 24,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2025/12/09/5V1JkZ_1765295488.png",
-      "last_active_at": 1778159250.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/09/5V1JkZ_1765295488.png",
+      "last_active_at": 1789135211.0,
       "online": false
     },
     {
@@ -564,7 +564,22 @@
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1774527480.0,
       "online": false
+    },
+    {
+      "uid": 39802121,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1091,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
     }
   ],
-  "member_count": 36
+  "member_count": 37
 }

@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "aid": 120300036,
+  "kid": 1194,
+  "tag": "SB2",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1790373975.5081024,
+  "age_seconds": 3,
+  "alliance": {
+    "aid": 120300036,
+    "name": "SHDBannerClan2",
+    "abbr": "SB2",
+    "kid": 1194,
+    "power": 118747,
+    "count": 2,
+    "leader_name": "lord337553325",
+    "leader_uid": 84536308,
+    "leader_governor_id": 337553325,
+    "flag_url": "/assets/icons/capital_icon_got_1.png",
+    "power_rank": 244,
+    "permalink": "/1194/SB2"
+  },
+  "members": [
+    {
+      "uid": 84536308,
+      "governor_id": 337553325,
+      "fid": 337553325,
+      "nick_name": "lord337553325",
+      "power": 64382,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1194,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1780930579.0,
+      "online": false
+    },
+    {
+      "uid": 84539707,
+      "governor_id": 338913254,
+      "fid": 338913254,
+      "nick_name": "lord338913254",
+      "power": 54365,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1194,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1780930550.0,
+      "online": false
+    }
+  ],
+  "member_count": 2
+}

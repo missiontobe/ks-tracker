@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419925.241175,
+  "cached_at": 1790375316.4271882,
   "age_seconds": 0,
   "alliance": {
     "aid": 122700025,
     "name": "HighOctaneE110",
     "abbr": "110",
     "kid": 1218,
-    "power": 822016872,
+    "power": 821060271,
     "count": 20,
     "leader_name": "JNS",
     "leader_uid": 44233861,
     "leader_governor_id": 179047377,
     "flag_url": "/assets/icons/capital_icon_got_3.png",
-    "power_rank": 8,
+    "power_rank": 10,
     "permalink": "/1218/110"
   },
   "members": [

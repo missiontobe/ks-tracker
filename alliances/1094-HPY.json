@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414278.5953646,
-  "age_seconds": 0,
+  "cached_at": 1790368145.6412046,
+  "age_seconds": 1,
   "alliance": {
     "aid": 110300064,
     "name": "開心聯盟",
     "abbr": "HPY",
     "kid": 1094,
-    "power": 697746378,
+    "power": 697806378,
     "count": 24,
     "leader_name": "༒ Rosie ༒ ᴿˢᴹ",
     "leader_uid": 75260813,
     "leader_governor_id": 300708237,
     "flag_url": "/assets/icons/capital_icon_got_4.png",
-    "power_rank": 7,
+    "power_rank": 8,
     "permalink": "/1094/HPY"
   },
   "members": [
@@ -36,23 +36,8 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1094,
-      "avatar_url": "/cdn/avatar/2026/06/14/yDrxzP_1781423968.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/14/yDrxzP_1781423968.png",
       "last_active_at": 1784886291.0,
-      "online": false
-    },
-    {
-      "uid": 39915314,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1094,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
       "online": false
     },
     {
@@ -357,6 +342,21 @@
     },
     {
       "uid": 44446183,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1094,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 39915314,
       "governor_id": null,
       "fid": null,
       "nick_name": null,

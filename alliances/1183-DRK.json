@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418402.1830997,
-  "age_seconds": 1,
+  "cached_at": 1790373370.9271407,
+  "age_seconds": 0,
   "alliance": {
     "aid": 119200004,
     "name": "DragonKings",
     "abbr": "DRK",
     "kid": 1183,
-    "power": 960258129,
-    "count": 31,
+    "power": 920995424,
+    "count": 30,
     "leader_name": "Konnor",
     "leader_uid": 43065687,
     "leader_governor_id": 175735941,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 6,
+    "power_rank": 5,
     "permalink": "/1183/DRK"
   },
   "members": [
@@ -51,7 +51,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1183,
-      "avatar_url": "/cdn/avatar/2025/11/13/51gMGZ_1763030276.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/13/51gMGZ_1763030276.png",
       "last_active_at": 1787475385.0,
       "online": false
     },
@@ -81,7 +81,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1183,
-      "avatar_url": "/cdn/avatar/2025/12/19/jOrWWW_1766182327.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/19/jOrWWW_1766182327.png",
       "last_active_at": 1781811074.0,
       "online": false
     },
@@ -141,7 +141,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1183,
-      "avatar_url": "/cdn/avatar/2026/01/22/K5RjwY_1769048992.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/22/K5RjwY_1769048992.png",
       "last_active_at": 1781811510.0,
       "online": false
     },
@@ -156,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1183,
-      "avatar_url": "/cdn/avatar/2025/10/25/mMP93G_1761394565.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/25/mMP93G_1761394565.png",
       "last_active_at": 1784230710.0,
       "online": false
     },
@@ -173,21 +173,6 @@
       "kid": 1183,
       "avatar_url": "/assets/icons/hero_headpic_50006.png",
       "last_active_at": 1782847980.0,
-      "online": false
-    },
-    {
-      "uid": 64934981,
-      "governor_id": 258521937,
-      "fid": 258521937,
-      "nick_name": "Abandoned chaos",
-      "power": 32429656,
-      "town_center_level": 26,
-      "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1183,
-      "avatar_url": "/assets/icons/hero_headpic_50024.png",
-      "last_active_at": 1788815112.0,
       "online": false
     },
     {
@@ -216,7 +201,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1183,
-      "avatar_url": "/cdn/avatar/2026/06/02/J7J1r9_1780395527.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/02/J7J1r9_1780395527.png",
       "last_active_at": 1783020700.0,
       "online": false
     },
@@ -231,23 +216,8 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1183,
-      "avatar_url": "/cdn/avatar/2026/05/21/P5vypw_1779404803.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/21/P5vypw_1779404803.png",
       "last_active_at": 1785451849.0,
-      "online": false
-    },
-    {
-      "uid": 43014761,
-      "governor_id": 174244201,
-      "fid": 174244201,
-      "nick_name": "Elzynca",
-      "power": 26522808,
-      "town_center_level": 27,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1183,
-      "avatar_url": "/assets/icons/hero_headpic_50027.png",
-      "last_active_at": 1788249648.0,
       "online": false
     },
     {
@@ -306,8 +276,23 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1183,
-      "avatar_url": "/cdn/avatar/2026/03/10/zlvn1Z_1773178168.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/10/zlvn1Z_1773178168.png",
       "last_active_at": 1784230287.0,
+      "online": false
+    },
+    {
+      "uid": 43014761,
+      "governor_id": 174244201,
+      "fid": 174244201,
+      "nick_name": "Elzynca",
+      "power": 24640597,
+      "town_center_level": 27,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1183,
+      "avatar_url": "/assets/icons/hero_headpic_50027.png",
+      "last_active_at": 1789237723.0,
       "online": false
     },
     {
@@ -491,5 +476,5 @@
       "online": false
     }
   ],
-  "member_count": 31
+  "member_count": 30
 }

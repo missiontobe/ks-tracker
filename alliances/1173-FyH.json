@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418149.103942,
+  "cached_at": 1790373113.2715962,
   "age_seconds": 0,
   "alliance": {
     "aid": 118200260,
     "name": "FYHacademy",
     "abbr": "FyH",
     "kid": 1173,
-    "power": 303356211,
+    "power": 289595923,
     "count": 23,
     "leader_name": "loutix",
     "leader_uid": 42698129,
     "leader_governor_id": 171191828,
     "flag_url": "/assets/icons/capital_icon_got_2.png",
-    "power_rank": 15,
+    "power_rank": 14,
     "permalink": "/1173/FyH"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 169406422,
       "fid": 169406422,
       "nick_name": "Viking 77",
-      "power": 105932167,
-      "town_center_level": 40,
+      "power": 109456647,
+      "town_center_level": 41,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1173,
       "avatar_url": "/assets/icons/hero_headpic_50003.png",
-      "last_active_at": 1789389136.0,
+      "last_active_at": 1789451857.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 171191828,
       "fid": 171191828,
       "nick_name": "loutix",
-      "power": 103230238,
+      "power": 108465267,
       "town_center_level": 45,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1173,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789391792.0,
+      "last_active_at": 1789436270.0,
       "online": false
     },
     {
@@ -66,7 +66,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1173,
-      "avatar_url": "/cdn/avatar/2025/11/15/M5XWBm_1763230005.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/15/M5XWBm_1763230005.png",
       "last_active_at": 1787807666.0,
       "online": false
     },

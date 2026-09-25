@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418355.7490458,
+  "cached_at": 1790373310.9109914,
   "age_seconds": 0,
   "alliance": {
     "aid": 119000005,
     "name": "SKYacademy",
     "abbr": "sky",
     "kid": 1181,
-    "power": 1491741571,
-    "count": 37,
+    "power": 1419011885,
+    "count": 36,
     "leader_name": "MARSUPILAMI",
     "leader_uid": 59652193,
     "leader_governor_id": 237156579,
@@ -36,7 +36,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1181,
-      "avatar_url": "/cdn/avatar/2026/05/24/vD7LA8_1779625516.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/24/vD7LA8_1779625516.png",
       "last_active_at": 1787484609.0,
       "online": false
     },
@@ -51,7 +51,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1181,
-      "avatar_url": "/cdn/avatar/2026/08/05/1BnN8q_1785926201.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/05/1BnN8q_1785926201.png",
       "last_active_at": 1786653060.0,
       "online": false
     },
@@ -75,29 +75,14 @@
       "governor_id": 174342327,
       "fid": 174342327,
       "nick_name": "Krzysiuc239",
-      "power": 97379724,
+      "power": 83829079,
       "town_center_level": 35,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1181,
       "avatar_url": "/assets/icons/hero_headpic_50017.png",
-      "last_active_at": 1789397570.0,
-      "online": false
-    },
-    {
-      "uid": 42984122,
-      "governor_id": 169312136,
-      "fid": 169312136,
-      "nick_name": "MichaelJordan",
-      "power": 69342522,
-      "town_center_level": 29,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1181,
-      "avatar_url": "/assets/icons/hero_headpic_50023.png",
-      "last_active_at": 1788717451.0,
+      "last_active_at": 1789450294.0,
       "online": false
     },
     {
@@ -120,14 +105,14 @@
       "governor_id": 241591348,
       "fid": 241591348,
       "nick_name": "V0ID",
-      "power": 61049205,
+      "power": 61112135,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1181,
-      "avatar_url": "/cdn/avatar/2026/01/30/rq8GA2_1769813147.png",
-      "last_active_at": 1787030289.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/30/rq8GA2_1769813147.png",
+      "last_active_at": 1789233000.0,
       "online": false
     },
     {
@@ -345,14 +330,14 @@
       "governor_id": 237156579,
       "fid": 237156579,
       "nick_name": "MARSUPILAMI",
-      "power": 23295335,
+      "power": 25630116,
       "town_center_level": 25,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1181,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788820540.0,
+      "last_active_at": 1789440974.0,
       "online": false
     },
     {
@@ -381,7 +366,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1181,
-      "avatar_url": "/cdn/avatar/2026/01/18/rXNVlk_1768767249.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/18/rXNVlk_1768767249.png",
       "last_active_at": 1774725600.0,
       "online": false
     },
@@ -396,7 +381,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1181,
-      "avatar_url": "/cdn/avatar/2025/12/02/yJjoQz_1764688979.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/02/yJjoQz_1764688979.png",
       "last_active_at": 1776976650.0,
       "online": false
     },
@@ -426,7 +411,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1181,
-      "avatar_url": "/cdn/avatar/2025/11/21/Ylnmz2_1763717573.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/21/Ylnmz2_1763717573.png",
       "last_active_at": 1773351443.0,
       "online": false
     },
@@ -581,5 +566,5 @@
       "online": false
     }
   ],
-  "member_count": 37
+  "member_count": 36
 }

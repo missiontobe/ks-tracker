@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418192.7656531,
+  "cached_at": 1790373152.334173,
   "age_seconds": 0,
   "alliance": {
     "aid": 118400303,
     "name": "AroundTheWorld",
     "abbr": "ATW",
     "kid": 1175,
-    "power": 223753536,
-    "count": 11,
+    "power": 237537708,
+    "count": 16,
     "leader_name": "CsigaChad",
     "leader_uid": 42789154,
     "leader_governor_id": 167981988,
@@ -30,14 +30,14 @@
       "governor_id": 167981988,
       "fid": 167981988,
       "nick_name": "CsigaChad",
-      "power": 108640946,
-      "town_center_level": 45,
+      "power": 114231099,
+      "town_center_level": 47,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1175,
       "avatar_url": "/assets/icons/hero_headpic_50012.png",
-      "last_active_at": 1789335201.0,
+      "last_active_at": 1789444035.0,
       "online": false
     },
     {
@@ -60,14 +60,14 @@
       "governor_id": 182941497,
       "fid": 182941497,
       "nick_name": "BabyBoyd",
-      "power": 22797978,
+      "power": 24128492,
       "town_center_level": 25,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1175,
-      "avatar_url": "/cdn/avatar/2026/06/19/0OX4gV_1781844147.png",
-      "last_active_at": 1788143115.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/19/0OX4gV_1781844147.png",
+      "last_active_at": 1789384100.0,
       "online": false
     },
     {
@@ -98,6 +98,21 @@
       "kid": 1175,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1785396370.0,
+      "online": false
+    },
+    {
+      "uid": 51415384,
+      "governor_id": 206619174,
+      "fid": 206619174,
+      "nick_name": "Sukuna bot",
+      "power": 778914,
+      "town_center_level": 11,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1175,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789414289.0,
       "online": false
     },
     {
@@ -146,7 +161,22 @@
       "online": false
     },
     {
-      "uid": 51415384,
+      "uid": 42792004,
+      "governor_id": 168342481,
+      "fid": 168342481,
+      "nick_name": "lord168342481",
+      "power": 85418,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1175,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789398615.0,
+      "online": false
+    },
+    {
+      "uid": 42795807,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -161,7 +191,52 @@
       "online": false
     },
     {
-      "uid": 42792004,
+      "uid": 42750784,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1175,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 42783365,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1175,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 42769797,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1175,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 42754196,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -191,5 +266,5 @@
       "online": false
     }
   ],
-  "member_count": 11
+  "member_count": 16
 }

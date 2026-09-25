@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418413.9460316,
+  "cached_at": 1790373379.4225562,
   "age_seconds": 0,
   "alliance": {
     "aid": 119200002,
     "name": "AMÉRICALATINA",
     "abbr": "ATR",
     "kid": 1183,
-    "power": 371374053,
+    "power": 371634146,
     "count": 21,
     "leader_name": "gian49",
     "leader_uid": 43016632,
     "leader_governor_id": 173425028,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 11,
+    "power_rank": 10,
     "permalink": "/1183/ATR"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 173425028,
       "fid": 173425028,
       "nick_name": "gian49",
-      "power": 120275939,
+      "power": 119913401,
       "town_center_level": 35,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1183,
-      "avatar_url": "/cdn/avatar/2026/03/23/YlnoqK_1774271781.png",
-      "last_active_at": 1789263572.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/23/YlnoqK_1774271781.png",
+      "last_active_at": 1789446135.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 172458501,
       "fid": 172458501,
       "nick_name": "unnamed",
-      "power": 98234500,
+      "power": 99622102,
       "town_center_level": 40,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1183,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789259277.0,
+      "last_active_at": 1789365665.0,
       "online": false
     },
     {

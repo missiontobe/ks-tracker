@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415439.43482,
-  "age_seconds": 0,
+  "cached_at": 1790368697.8461497,
+  "age_seconds": 7,
   "alliance": {
     "aid": 110800036,
     "name": "DarkMatter",
     "abbr": "DMT",
     "kid": 1099,
-    "power": 1289406468,
-    "count": 26,
+    "power": 1297043762,
+    "count": 27,
     "leader_name": "Sometimes Bankai",
     "leader_uid": 62144114,
     "leader_governor_id": 248746235,
     "flag_url": "/assets/icons/capital_icon_got_3.png",
-    "power_rank": 11,
+    "power_rank": 10,
     "permalink": "/1099/DMT"
   },
   "members": [
@@ -36,7 +36,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1099,
-      "avatar_url": "/cdn/avatar/2026/01/01/EKwRp0_1767309026.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/01/EKwRp0_1767309026.png",
       "last_active_at": 1786271156.0,
       "online": false
     },
@@ -45,14 +45,29 @@
       "governor_id": 206736314,
       "fid": 206736314,
       "nick_name": "Kaan",
-      "power": 46626846,
+      "power": 65250862,
       "town_center_level": 32,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1099,
       "avatar_url": "/assets/icons/hero_headpic_50004.png",
-      "last_active_at": 1786818099.0,
+      "last_active_at": 1789404435.0,
+      "online": false
+    },
+    {
+      "uid": 75255787,
+      "governor_id": 300413246,
+      "fid": 300413246,
+      "nick_name": "Fawn",
+      "power": 7571994,
+      "town_center_level": 21,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1099,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/18/0mVyQG_1789706251.png",
+      "last_active_at": 1789210062.0,
       "online": false
     },
     {
@@ -60,29 +75,14 @@
       "governor_id": 248746235,
       "fid": 248746235,
       "nick_name": "Sometimes Bankai",
-      "power": 614635,
+      "power": 654574,
       "town_center_level": 9,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1099,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1786789333.0,
-      "online": false
-    },
-    {
-      "uid": 40116481,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1099,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
+      "last_active_at": 1789234560.0,
       "online": false
     },
     {
@@ -401,6 +401,21 @@
       "online": false
     },
     {
+      "uid": 40116481,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1099,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
       "uid": 41641401,
       "governor_id": null,
       "fid": null,
@@ -416,5 +431,5 @@
       "online": false
     }
   ],
-  "member_count": 26
+  "member_count": 27
 }

@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417090.2132785,
+  "cached_at": 1790371263.7447453,
   "age_seconds": 1,
   "alliance": {
     "aid": 114600521,
     "name": "TheWildHunt",
     "abbr": "Hzv",
     "kid": 1137,
-    "power": 298608882,
+    "power": 306217213,
     "count": 34,
     "leader_name": "The Gaffer",
     "leader_uid": 41448920,
     "leader_governor_id": 164946389,
     "flag_url": "/assets/icons/capital_icon_got_2.png",
-    "power_rank": 14,
+    "power_rank": 13,
     "permalink": "/1137/Hzv"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 164946389,
       "fid": 164946389,
       "nick_name": "The Gaffer",
-      "power": 101850805,
+      "power": 105526332,
       "town_center_level": 29,
       "kills": 83521,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1137,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789261349.0,
+      "last_active_at": 1789452338.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 179373988,
       "fid": 179373988,
       "nick_name": "Morticia",
-      "power": 77700249,
+      "power": 78757690,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1137,
       "avatar_url": "/assets/icons/hero_headpic_50021.png",
-      "last_active_at": 1788833402.0,
+      "last_active_at": 1789436142.0,
       "online": false
     },
     {
@@ -60,14 +60,14 @@
       "governor_id": 202061289,
       "fid": 202061289,
       "nick_name": "ElectricHorseman",
-      "power": 57298406,
+      "power": 57948176,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1137,
       "avatar_url": "/assets/icons/hero_headpic_50005.png",
-      "last_active_at": 1788822910.0,
+      "last_active_at": 1789444747.0,
       "online": false
     },
     {
@@ -206,6 +206,21 @@
       "online": false
     },
     {
+      "uid": 41450442,
+      "governor_id": 163963373,
+      "fid": 163963373,
+      "nick_name": "lord163963373",
+      "power": 1347718,
+      "town_center_level": 15,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1137,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789269014.0,
+      "online": false
+    },
+    {
       "uid": 41427066,
       "governor_id": 164880514,
       "fid": 164880514,
@@ -323,21 +338,6 @@
       "kid": 1137,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1764864533.0,
-      "online": false
-    },
-    {
-      "uid": 41450442,
-      "governor_id": 163963373,
-      "fid": 163963373,
-      "nick_name": "lord163963373",
-      "power": 877215,
-      "town_center_level": 13,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1137,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1775696997.0,
       "online": false
     },
     {

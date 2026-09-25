@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414703.510728,
-  "age_seconds": 0,
+  "cached_at": 1790368486.7098744,
+  "age_seconds": 1,
   "alliance": {
     "aid": 110600092,
     "name": "TMEAcademy",
     "abbr": "tme",
     "kid": 1097,
-    "power": 662022746,
+    "power": 674488542,
     "count": 23,
     "leader_name": "Basti",
     "leader_uid": 40057503,
     "leader_governor_id": 163400936,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 8,
+    "power_rank": 7,
     "permalink": "/1097/tme"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 163400936,
       "fid": 163400936,
       "nick_name": "Basti",
-      "power": 95124734,
-      "town_center_level": 42,
+      "power": 104170192,
+      "town_center_level": 45,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1097,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789317783.0,
+      "last_active_at": 1789445453.0,
       "online": false
     },
     {
@@ -45,7 +45,7 @@
       "governor_id": 162335961,
       "fid": 162335961,
       "nick_name": "Breogam",
-      "power": 94193070,
+      "power": 95647042,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 4,
@@ -60,14 +60,14 @@
       "governor_id": 162450604,
       "fid": 162450604,
       "nick_name": "黎明之战",
-      "power": 66599875,
+      "power": 66949695,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1097,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1788819838.0,
+      "last_active_at": 1789408108.0,
       "online": false
     },
     {
@@ -75,14 +75,14 @@
       "governor_id": 163057932,
       "fid": 163057932,
       "nick_name": "Kombo",
-      "power": 54088828,
+      "power": 55883858,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1097,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788810784.0,
+      "last_active_at": 1788943377.0,
       "online": false
     },
     {
@@ -156,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1097,
-      "avatar_url": "/cdn/avatar/2025/10/13/Gwm8XJ_1760342989.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/13/Gwm8XJ_1760342989.png",
       "last_active_at": 1765583702.0,
       "online": false
     },
@@ -171,7 +171,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1097,
-      "avatar_url": "/cdn/avatar/2025/12/08/oAz2nz_1765192010.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/08/oAz2nz_1765192010.png",
       "last_active_at": 1786711254.0,
       "online": false
     },
@@ -216,7 +216,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1097,
-      "avatar_url": "/cdn/avatar/2025/10/21/l84j1J_1761040601.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/21/l84j1J_1761040601.png",
       "last_active_at": 1766124958.0,
       "online": false
     },
@@ -276,7 +276,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1097,
-      "avatar_url": "/cdn/avatar/2025/11/16/l8wOo7_1763312885.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/16/l8wOo7_1763312885.png",
       "last_active_at": 1765300675.0,
       "online": false
     },
@@ -336,7 +336,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1097,
-      "avatar_url": "/cdn/avatar/2025/11/16/OJBKgN_1763327502.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/16/OJBKgN_1763327502.png",
       "last_active_at": 1769883783.0,
       "online": false
     },
@@ -345,14 +345,14 @@
       "governor_id": 160599319,
       "fid": 160599319,
       "nick_name": "العراقي",
-      "power": 3345010,
+      "power": 3638207,
       "town_center_level": 19,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1097,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1783060615.0,
+      "last_active_at": 1789390744.0,
       "online": false
     },
     {
@@ -366,7 +366,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1097,
-      "avatar_url": "/cdn/avatar/2025/12/08/3OP4wA_1765216002.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/08/3OP4wA_1765216002.png",
       "last_active_at": 1786813538.0,
       "online": false
     }

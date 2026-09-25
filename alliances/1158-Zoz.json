@@ -8,53 +8,23 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417630.393022,
+  "cached_at": 1790372416.9751787,
   "age_seconds": 0,
   "alliance": {
     "aid": 116700418,
     "name": "TheUnbroken",
     "abbr": "Zoz",
     "kid": 1158,
-    "power": 520644461,
-    "count": 14,
-    "leader_name": "ZOZO_2",
-    "leader_uid": 96802989,
-    "leader_governor_id": 388912225,
+    "power": 95847845,
+    "count": 9,
+    "leader_name": "Ameer turk",
+    "leader_uid": 42201112,
+    "leader_governor_id": 168841153,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 14,
+    "power_rank": 37,
     "permalink": "/1158/Zoz"
   },
   "members": [
-    {
-      "uid": 42172891,
-      "governor_id": 171298310,
-      "fid": 171298310,
-      "nick_name": "ALFAHEET",
-      "power": 269194026,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1158,
-      "avatar_url": "/cdn/avatar/2026/07/17/lMM5Nr_1784288532.png",
-      "last_active_at": 1789360828.0,
-      "online": false
-    },
-    {
-      "uid": 40232091,
-      "governor_id": 162879377,
-      "fid": 162879377,
-      "nick_name": "ZOZO",
-      "power": 135787935,
-      "town_center_level": 45,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1158,
-      "avatar_url": "/cdn/avatar/2026/09/07/l83XY1_1788793105.png",
-      "last_active_at": 1789337959.0,
-      "online": false
-    },
     {
       "uid": 42201112,
       "governor_id": 168841153,
@@ -63,8 +33,8 @@
       "power": 59688467,
       "town_center_level": 40,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
       "kid": 1158,
       "avatar_url": "/assets/icons/hero_headpic_50006.png",
       "last_active_at": 1784378485.0,
@@ -86,51 +56,6 @@
       "online": false
     },
     {
-      "uid": 96802989,
-      "governor_id": 388912225,
-      "fid": 388912225,
-      "nick_name": "ZOZO_2",
-      "power": 12645596,
-      "town_center_level": 21,
-      "kills": null,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1158,
-      "avatar_url": "/cdn/avatar/2026/09/05/jWoBKy_1788638947.png",
-      "last_active_at": 1788898840.0,
-      "online": false
-    },
-    {
-      "uid": 77367308,
-      "governor_id": 306737697,
-      "fid": 306737697,
-      "nick_name": "11 Joker",
-      "power": 189994,
-      "town_center_level": 10,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1158,
-      "avatar_url": "/cdn/avatar/2026/08/29/qr0AXG_1788011393.png",
-      "last_active_at": 1787759659.0,
-      "online": false
-    },
-    {
-      "uid": 42200566,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1158,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
       "uid": 42169461,
       "governor_id": null,
       "fid": null,
@@ -146,7 +71,7 @@
       "online": false
     },
     {
-      "uid": 102653457,
+      "uid": 42203363,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -161,7 +86,7 @@
       "online": false
     },
     {
-      "uid": 42195035,
+      "uid": 42186046,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -183,15 +108,15 @@
       "power": null,
       "town_center_level": null,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
       "kid": 1158,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,
       "online": false
     },
     {
-      "uid": 42186046,
+      "uid": 42200566,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -221,7 +146,7 @@
       "online": false
     },
     {
-      "uid": 42203363,
+      "uid": 42195035,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -236,5 +161,5 @@
       "online": false
     }
   ],
-  "member_count": 14
+  "member_count": 9
 }

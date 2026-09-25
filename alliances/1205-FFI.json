@@ -8,8 +8,8 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419454.015001,
-  "age_seconds": 0,
+  "cached_at": 1790374940.2245283,
+  "age_seconds": 1,
   "alliance": {
     "aid": 121400029,
     "name": "FédérationFrance",
@@ -21,7 +21,7 @@
     "leader_uid": 43844144,
     "leader_governor_id": null,
     "flag_url": "/assets/icons/capital_icon_got_2.png",
-    "power_rank": 10,
+    "power_rank": 12,
     "permalink": "/1205/FFI"
   },
   "members": [
@@ -36,7 +36,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2025/11/25/YlLqr9_1764099408.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/25/YlLqr9_1764099408.png",
       "last_active_at": 1786294424.0,
       "online": false
     },
@@ -66,7 +66,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2026/01/17/vJLZEg_1768661959.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/17/vJLZEg_1768661959.png",
       "last_active_at": 1785510967.0,
       "online": false
     },

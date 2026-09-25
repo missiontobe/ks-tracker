@@ -8,8 +8,8 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416038.9833052,
-  "age_seconds": 1,
+  "cached_at": 1790370295.9971414,
+  "age_seconds": 7,
   "alliance": {
     "aid": 113100246,
     "name": "PolskaHusaria",
@@ -21,7 +21,7 @@
     "leader_uid": 40939500,
     "leader_governor_id": 164545215,
     "flag_url": "/assets/icons/capital_icon_got_3.png",
-    "power_rank": 14,
+    "power_rank": 13,
     "permalink": "/1122/HPL"
   },
   "members": [

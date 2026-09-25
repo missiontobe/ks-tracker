@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416243.6101658,
-  "age_seconds": 0,
+  "cached_at": 1790370714.3774772,
+  "age_seconds": 5,
   "alliance": {
     "aid": 113800060,
     "name": "AAA",
     "abbr": "AAA",
     "kid": 1129,
-    "power": 397476069,
+    "power": 363741152,
     "count": 55,
     "leader_name": "Sir Hiaselot",
     "leader_uid": 41152595,
     "leader_governor_id": 166825920,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 14,
+    "power_rank": 13,
     "permalink": "/1129/AAA"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 166825920,
       "fid": 166825920,
       "nick_name": "Sir Hiaselot",
-      "power": 99545670,
-      "town_center_level": 49,
+      "power": 64958050,
+      "town_center_level": 50,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1129,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789407088.0,
+      "last_active_at": 1789459510.0,
       "online": false
     },
     {
@@ -171,7 +171,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1129,
-      "avatar_url": "/cdn/avatar/2025/10/17/wRZr4r_1760723466.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/17/wRZr4r_1760723466.png",
       "last_active_at": 1780686305.0,
       "online": false
     },
@@ -306,7 +306,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1129,
-      "avatar_url": "/cdn/avatar/2025/10/07/2GzWoM_1759851704.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/07/2GzWoM_1759851704.png",
       "last_active_at": 1762555324.0,
       "online": false
     },

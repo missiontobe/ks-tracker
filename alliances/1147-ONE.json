@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417361.34841,
-  "age_seconds": 0,
+  "cached_at": 1790371802.3968668,
+  "age_seconds": 2,
   "alliance": {
     "aid": 115600142,
     "name": "Eternals",
     "abbr": "ONE",
     "kid": 1147,
-    "power": 147819985,
+    "power": 147835969,
     "count": 1,
     "leader_name": "This",
     "leader_uid": 41005495,
     "leader_governor_id": 167708358,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 15,
+    "power_rank": 14,
     "permalink": "/1147/ONE"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 167708358,
       "fid": 167708358,
       "nick_name": "This",
-      "power": 147043111,
+      "power": 147835969,
       "town_center_level": 50,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1147,
-      "avatar_url": "/cdn/avatar/2026/05/18/p9GomQ_1779062892.png",
-      "last_active_at": 1789201548.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/18/p9GomQ_1779062892.png",
+      "last_active_at": 1789388066.0,
       "online": false
     }
   ],

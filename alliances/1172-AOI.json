@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418116.216763,
+  "cached_at": 1790373087.8242803,
   "age_seconds": 0,
   "alliance": {
     "aid": 118100195,
     "name": "SUGO",
     "abbr": "AOI",
     "kid": 1172,
-    "power": 390763447,
-    "count": 58,
+    "power": 417263576,
+    "count": 59,
     "leader_name": "게임의 신",
     "leader_uid": 42653449,
     "leader_governor_id": 169896796,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 14,
+    "power_rank": 13,
     "permalink": "/1172/AOI"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 169896796,
       "fid": 169896796,
       "nick_name": "게임의 신",
-      "power": 131148586,
+      "power": 141118635,
       "town_center_level": 46,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1172,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789389858.0,
+      "last_active_at": 1789451401.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 170437646,
       "fid": 170437646,
       "nick_name": "jhin448",
-      "power": 85203265,
+      "power": 99780207,
       "town_center_level": 45,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1172,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789385583.0,
+      "last_active_at": 1789440196.0,
       "online": false
     },
     {
@@ -246,7 +246,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1172,
-      "avatar_url": "/cdn/avatar/2025/10/16/L51O2W_1760617367.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/16/L51O2W_1760617367.png",
       "last_active_at": 1763728544.0,
       "online": false
     },
@@ -306,7 +306,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1172,
-      "avatar_url": "/cdn/avatar/2026/03/01/GABJZ7_1772360466.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/01/GABJZ7_1772360466.png",
       "last_active_at": 1780663964.0,
       "online": false
     },
@@ -491,6 +491,21 @@
       "online": false
     },
     {
+      "uid": 42667725,
+      "governor_id": 170716216,
+      "fid": 170716216,
+      "nick_name": "Van City",
+      "power": 1131603,
+      "town_center_level": 10,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1172,
+      "avatar_url": "/assets/icons/hero_headpic_50012.png",
+      "last_active_at": 1789389009.0,
+      "online": false
+    },
+    {
       "uid": 42673761,
       "governor_id": 170044570,
       "fid": 170044570,
@@ -540,14 +555,14 @@
       "governor_id": 170913057,
       "fid": 170913057,
       "nick_name": "lilith24",
-      "power": 980398,
+      "power": 1019032,
       "town_center_level": 10,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1172,
       "avatar_url": "/assets/icons/hero_headpic_50027.png",
-      "last_active_at": 1783004543.0,
+      "last_active_at": 1789139537.0,
       "online": false
     },
     {
@@ -741,7 +756,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1172,
-      "avatar_url": "/cdn/avatar/2025/10/16/WjK23o_1760608612.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/16/WjK23o_1760608612.png",
       "last_active_at": 1788030754.0,
       "online": false
     },
@@ -896,5 +911,5 @@
       "online": false
     }
   ],
-  "member_count": 58
+  "member_count": 59
 }

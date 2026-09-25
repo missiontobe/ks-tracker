@@ -8,8 +8,8 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416272.9136562,
-  "age_seconds": 1,
+  "cached_at": 1790370768.5575695,
+  "age_seconds": 7,
   "alliance": {
     "aid": 113900317,
     "name": "UnderDogs",
@@ -21,7 +21,7 @@
     "leader_uid": 41197661,
     "leader_governor_id": 167301760,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 15,
+    "power_rank": 14,
     "permalink": "/1130/TMP"
   },
   "members": [
@@ -53,6 +53,21 @@
       "kid": 1130,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1786777584.0,
+      "online": false
+    },
+    {
+      "uid": 41199529,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1130,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
       "online": false
     },
     {
@@ -131,15 +146,15 @@
       "online": false
     },
     {
-      "uid": 41190633,
+      "uid": 41867890,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
       "power": null,
       "town_center_level": null,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
       "kid": 1130,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,
@@ -206,30 +221,15 @@
       "online": false
     },
     {
-      "uid": 41867890,
+      "uid": 41190633,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
       "power": null,
       "town_center_level": null,
       "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1130,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 41199529,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
       "kid": 1130,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,

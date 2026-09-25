@@ -1,0 +1,60 @@
+{
+  "ok": true,
+  "aid": 111000804,
+  "kid": 1101,
+  "tag": "JAY",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1790368879.7509592,
+  "age_seconds": 2,
+  "alliance": {
+    "aid": 111000804,
+    "name": "OnlyJays",
+    "abbr": "JAY",
+    "kid": 1101,
+    "power": 424250807,
+    "count": 2,
+    "leader_name": "Jelly Roll",
+    "leader_uid": 52748988,
+    "leader_governor_id": 211702666,
+    "flag_url": "/assets/icons/capital_icon_got_4.png",
+    "power_rank": 9,
+    "permalink": "/1101/JAY"
+  },
+  "members": [
+    {
+      "uid": 40205600,
+      "governor_id": 159520247,
+      "fid": 159520247,
+      "nick_name": "Free Agent Jay",
+      "power": 357096039,
+      "town_center_level": 58,
+      "kills": 31342590,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1101,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/28/g701Xj_1787932240.png",
+      "last_active_at": 1789429377.0,
+      "online": false
+    },
+    {
+      "uid": 52748988,
+      "governor_id": 211702666,
+      "fid": 211702666,
+      "nick_name": "Jelly Roll",
+      "power": 95842543,
+      "town_center_level": 35,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1101,
+      "avatar_url": "/assets/icons/hero_headpic_50018.png",
+      "last_active_at": 1789424566.0,
+      "online": false
+    }
+  ],
+  "member_count": 2
+}

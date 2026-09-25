@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419865.028071,
+  "cached_at": 1790375247.2789242,
   "age_seconds": 0,
   "alliance": {
     "aid": 122400424,
     "name": "GameofThrones",
     "abbr": "GoT",
     "kid": 1215,
-    "power": 549931182,
+    "power": 559989993,
     "count": 32,
     "leader_name": "Akira",
     "leader_uid": 44177511,
@@ -30,14 +30,14 @@
       "governor_id": 179013731,
       "fid": 179013731,
       "nick_name": "Akira",
-      "power": 80889144,
+      "power": 86235932,
       "town_center_level": 35,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1215,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789410585.0,
+      "last_active_at": 1789440329.0,
       "online": false
     },
     {
@@ -66,7 +66,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1215,
-      "avatar_url": "/cdn/avatar/2026/05/01/nNK3RP_1777612145.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/01/nNK3RP_1777612145.png",
       "last_active_at": 1789271331.0,
       "online": false
     },
@@ -201,7 +201,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1215,
-      "avatar_url": "/cdn/avatar/2025/12/17/kOEo96_1765966597.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/17/kOEo96_1765966597.png",
       "last_active_at": 1778207703.0,
       "online": false
     },
@@ -336,7 +336,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1215,
-      "avatar_url": "/cdn/avatar/2025/11/07/jODMxW_1762521240.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/07/jODMxW_1762521240.png",
       "last_active_at": 1768685651.0,
       "online": false
     },
@@ -471,7 +471,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1215,
-      "avatar_url": "/cdn/avatar/2025/10/26/BR4yEW_1761462540.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/26/BR4yEW_1761462540.png",
       "last_active_at": 1774516169.0,
       "online": false
     },

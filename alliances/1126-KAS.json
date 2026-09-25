@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416120.7389228,
+  "cached_at": 1790370504.64179,
   "age_seconds": 0,
   "alliance": {
     "aid": 113500037,
     "name": "국가대표",
     "abbr": "KAS",
     "kid": 1126,
-    "power": 2538054909,
-    "count": 21,
-    "leader_name": "WHITE",
-    "leader_uid": 41072554,
-    "leader_governor_id": 164055774,
+    "power": 2402171325,
+    "count": 20,
+    "leader_name": "싱이연맹장용",
+    "leader_uid": 83398760,
+    "leader_governor_id": 331539008,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 3,
+    "power_rank": 4,
     "permalink": "/1126/KAS"
   },
   "members": [
@@ -36,7 +36,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1126,
-      "avatar_url": "/cdn/avatar/2025/12/23/yp1mgw_1766482964.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/23/yp1mgw_1766482964.png",
       "last_active_at": 1785063032.0,
       "online": false
     },
@@ -56,21 +56,6 @@
       "online": false
     },
     {
-      "uid": 41072554,
-      "governor_id": 164055774,
-      "fid": 164055774,
-      "nick_name": "WHITE",
-      "power": 193512942,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1126,
-      "avatar_url": "/cdn/avatar/2026/08/28/vmXZZ8_1787914511.png",
-      "last_active_at": 1789395647.0,
-      "online": false
-    },
-    {
       "uid": 41024586,
       "governor_id": 163694578,
       "fid": 163694578,
@@ -81,7 +66,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1126,
-      "avatar_url": "/cdn/avatar/2026/04/05/93nzAx_1775363751.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/05/93nzAx_1775363751.png",
       "last_active_at": 1780586933.0,
       "online": false
     },
@@ -96,8 +81,23 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1126,
-      "avatar_url": "/cdn/avatar/2026/02/01/XY3ypm_1769951304.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/01/XY3ypm_1769951304.png",
       "last_active_at": 1778341186.0,
+      "online": false
+    },
+    {
+      "uid": 40171521,
+      "governor_id": 161485795,
+      "fid": 161485795,
+      "nick_name": "Mina_우리는하나다",
+      "power": 121781209,
+      "town_center_level": 40,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1126,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/02/KADln8_1782965350.png",
+      "last_active_at": 1789412967.0,
       "online": false
     },
     {
@@ -126,7 +126,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1126,
-      "avatar_url": "/cdn/avatar/2026/04/16/DwLDk5_1776349937.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/16/DwLDk5_1776349937.png",
       "last_active_at": 1779815329.0,
       "online": false
     },
@@ -176,21 +176,6 @@
       "online": false
     },
     {
-      "uid": 46418268,
-      "governor_id": 186175783,
-      "fid": 186175783,
-      "nick_name": "Green",
-      "power": 71802754,
-      "town_center_level": 29,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1126,
-      "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1788917727.0,
-      "online": false
-    },
-    {
       "uid": 43447753,
       "governor_id": 174382038,
       "fid": 174382038,
@@ -216,7 +201,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1126,
-      "avatar_url": "/cdn/avatar/2026/04/25/5AqVqY_1777136024.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/25/5AqVqY_1777136024.png",
       "last_active_at": 1779572721.0,
       "online": false
     },
@@ -240,14 +225,14 @@
       "governor_id": 272314511,
       "fid": 272314511,
       "nick_name": "Purple",
-      "power": 52766505,
+      "power": 54472882,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1126,
       "avatar_url": "/assets/icons/hero_headpic_50007.png",
-      "last_active_at": 1788920581.0,
+      "last_active_at": 1789398300.0,
       "online": false
     },
     {
@@ -255,14 +240,14 @@
       "governor_id": 216728581,
       "fid": 216728581,
       "nick_name": "Black_II",
-      "power": 48933479,
+      "power": 51548795,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1126,
-      "avatar_url": "/cdn/avatar/2026/08/28/pL7jpQ_1787912649.png",
-      "last_active_at": 1788918667.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/28/pL7jpQ_1787912649.png",
+      "last_active_at": 1789380695.0,
       "online": false
     },
     {
@@ -270,14 +255,14 @@
       "governor_id": 331539008,
       "fid": 331539008,
       "nick_name": "싱이연맹장용",
-      "power": 39931444,
-      "town_center_level": 27,
+      "power": 40695953,
+      "town_center_level": 28,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
       "kid": 1126,
       "avatar_url": "/assets/icons/hero_headpic_50023.png",
-      "last_active_at": 1788930861.0,
+      "last_active_at": 1789427519.0,
       "online": false
     },
     {
@@ -300,14 +285,14 @@
       "governor_id": 309681569,
       "fid": 309681569,
       "nick_name": "hereiam",
-      "power": 4836829,
+      "power": 5970770,
       "town_center_level": 21,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1126,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788922931.0,
+      "last_active_at": 1789282194.0,
       "online": false
     },
     {
@@ -330,16 +315,16 @@
       "governor_id": 309886316,
       "fid": 309886316,
       "nick_name": "SaIar",
-      "power": 535497,
+      "power": 534838,
       "town_center_level": 14,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1126,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788901660.0,
+      "last_active_at": 1789058933.0,
       "online": false
     }
   ],
-  "member_count": 21
+  "member_count": 20
 }

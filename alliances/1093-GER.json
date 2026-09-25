@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414258.864243,
+  "cached_at": 1790368096.7659295,
   "age_seconds": 0,
   "alliance": {
     "aid": 110200126,
     "name": "DieGermanen",
     "abbr": "GER",
     "kid": 1093,
-    "power": 1050595646,
-    "count": 18,
+    "power": 907167809,
+    "count": 16,
     "leader_name": "Farmer MacGERver",
     "leader_uid": 62576189,
     "leader_governor_id": 251292507,
@@ -30,29 +30,14 @@
       "governor_id": 163431428,
       "fid": 163431428,
       "nick_name": "Kosinus",
-      "power": 135946811,
+      "power": 142364519,
       "town_center_level": 55,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1093,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789322771.0,
-      "online": false
-    },
-    {
-      "uid": 39886152,
-      "governor_id": 159433333,
-      "fid": 159433333,
-      "nick_name": "King78",
-      "power": 98222386,
-      "town_center_level": 35,
-      "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1093,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789341653.0,
+      "last_active_at": 1789399406.0,
       "online": false
     },
     {
@@ -75,14 +60,14 @@
       "governor_id": 161284720,
       "fid": 161284720,
       "nick_name": "CR7",
-      "power": 75857390,
+      "power": 76537217,
       "town_center_level": 40,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2025/11/04/WWyWjv_1762268151.png",
-      "last_active_at": 1789278038.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/04/WWyWjv_1762268151.png",
+      "last_active_at": 1789449909.0,
       "online": false
     },
     {
@@ -161,21 +146,6 @@
       "online": false
     },
     {
-      "uid": 56568661,
-      "governor_id": 226016429,
-      "fid": 226016429,
-      "nick_name": "●LuckyHILL●",
-      "power": 56277933,
-      "town_center_level": 30,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1093,
-      "avatar_url": "/cdn/avatar/2026/06/10/DE19Ex_1781072990.png",
-      "last_active_at": 1788774701.0,
-      "online": false
-    },
-    {
       "uid": 39888323,
       "governor_id": 161841813,
       "fid": 161841813,
@@ -186,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2025/10/25/M7l523_1761378615.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/25/M7l523_1761378615.png",
       "last_active_at": 1777141128.0,
       "online": false
     },
@@ -195,14 +165,14 @@
       "governor_id": 161841376,
       "fid": 161841376,
       "nick_name": "Gandalf",
-      "power": 49561683,
+      "power": 50197021,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1093,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788721067.0,
+      "last_active_at": 1789282301.0,
       "online": false
     },
     {
@@ -216,7 +186,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2025/11/04/0AkBo3_1762265125.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/04/0AkBo3_1762265125.png",
       "last_active_at": 1787145202.0,
       "online": false
     },
@@ -225,14 +195,14 @@
       "governor_id": 233422780,
       "fid": 233422780,
       "nick_name": "AbGERissfarmNico",
-      "power": 46520796,
+      "power": 47008092,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2026/04/13/XVOnRm_1776071664.png",
-      "last_active_at": 1788758114.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/13/XVOnRm_1776071664.png",
+      "last_active_at": 1789415194.0,
       "online": false
     },
     {
@@ -270,14 +240,14 @@
       "governor_id": 251292507,
       "fid": 251292507,
       "nick_name": "Farmer MacGERver",
-      "power": 19614145,
+      "power": 19614213,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1093,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788200156.0,
+      "last_active_at": 1789242172.0,
       "online": false
     },
     {
@@ -296,5 +266,5 @@
       "online": false
     }
   ],
-  "member_count": 18
+  "member_count": 16
 }

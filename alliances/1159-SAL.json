@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417652.8788242,
-  "age_seconds": 0,
+  "cached_at": 1790372467.3323772,
+  "age_seconds": 4,
   "alliance": {
     "aid": 116800161,
     "name": "SallyLaborForce",
     "abbr": "SAL",
     "kid": 1159,
-    "power": 615107972,
-    "count": 27,
+    "power": 620002616,
+    "count": 28,
     "leader_name": "Celestial Being",
     "leader_uid": 42236623,
     "leader_governor_id": 170775018,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 12,
+    "power_rank": 11,
     "permalink": "/1159/SAL"
   },
   "members": [
@@ -45,14 +45,14 @@
       "governor_id": 170775018,
       "fid": 170775018,
       "nick_name": "Celestial Being",
-      "power": 67089999,
+      "power": 76409452,
       "town_center_level": 49,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1159,
-      "avatar_url": "/cdn/avatar/2025/10/26/M55ym5_1761439823.png",
-      "last_active_at": 1789249164.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/26/M55ym5_1761439823.png",
+      "last_active_at": 1789414150.0,
       "online": false
     },
     {
@@ -66,7 +66,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1159,
-      "avatar_url": "/cdn/avatar/2026/06/07/QgDrZ5_1780807227.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/07/QgDrZ5_1780807227.png",
       "last_active_at": 1785131996.0,
       "online": false
     },
@@ -75,14 +75,14 @@
       "governor_id": 169234699,
       "fid": 169234699,
       "nick_name": "SirErNN",
-      "power": 30393876,
+      "power": 30423126,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1159,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788938386.0,
+      "last_active_at": 1789063888.0,
       "online": false
     },
     {
@@ -90,14 +90,14 @@
       "governor_id": 238739059,
       "fid": 238739059,
       "nick_name": "WittleQueenSally",
-      "power": 5154645,
+      "power": 4952107,
       "town_center_level": 20,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1159,
       "avatar_url": "/assets/icons/hero_headpic_50027.png",
-      "last_active_at": 1785650596.0,
+      "last_active_at": 1789235321.0,
       "online": false
     },
     {
@@ -135,14 +135,44 @@
       "governor_id": 365332309,
       "fid": 365332309,
       "nick_name": "Duchess Sally",
-      "power": 938270,
+      "power": 925623,
       "town_center_level": 12,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1159,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1785694396.0,
+      "last_active_at": 1789235715.0,
+      "online": false
+    },
+    {
+      "uid": 95135792,
+      "governor_id": 378678946,
+      "fid": 378678946,
+      "nick_name": "Baby Sol :3",
+      "power": 61396,
+      "town_center_level": 6,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1159,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/25/mW0rkO_1784982289.png",
+      "last_active_at": 1789292319.0,
+      "online": false
+    },
+    {
+      "uid": 42328208,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1159,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
       "online": false
     },
     {
@@ -222,6 +252,21 @@
     },
     {
       "uid": 42222240,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1159,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 42203256,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -326,37 +371,7 @@
       "online": false
     },
     {
-      "uid": 42193759,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1159,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 43268282,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1159,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 42212302,
+      "uid": 42218041,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -386,7 +401,7 @@
       "online": false
     },
     {
-      "uid": 42218041,
+      "uid": 42212302,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -401,7 +416,7 @@
       "online": false
     },
     {
-      "uid": 42203256,
+      "uid": 43268282,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -416,20 +431,20 @@
       "online": false
     },
     {
-      "uid": 42328208,
+      "uid": 42193759,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
       "power": null,
       "town_center_level": null,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
       "kid": 1159,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,
       "online": false
     }
   ],
-  "member_count": 27
+  "member_count": 28
 }

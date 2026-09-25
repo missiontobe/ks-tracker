@@ -7,21 +7,21 @@
     "info",
     "roster"
   ],
-  "fresh": true,
-  "cached_at": 1789418231.0293388,
-  "age_seconds": 0,
+  "fresh": false,
+  "cached_at": 1790146400.815242,
+  "age_seconds": 226779,
   "alliance": {
     "aid": 118500041,
     "name": "UCHIHACLAN",
     "abbr": "Zvs",
     "kid": 1176,
-    "power": 213295833,
-    "count": 47,
+    "power": 326705012,
+    "count": 48,
     "leader_name": "Madara Uchiha",
     "leader_uid": 42806192,
     "leader_governor_id": null,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 12,
+    "power_rank": 10,
     "permalink": "/1176/Zvs"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 168522899,
       "fid": 168522899,
       "nick_name": "meandeano86",
-      "power": 146068456,
+      "power": 155113157,
       "town_center_level": 45,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1176,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789333864.0,
+      "last_active_at": 1789443338.0,
       "online": false
     },
     {
@@ -98,6 +98,36 @@
       "kid": 1176,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1786052255.0,
+      "online": false
+    },
+    {
+      "uid": 42822895,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1176,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 42818237,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1176,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
       "online": false
     },
     {
@@ -401,21 +431,6 @@
       "online": false
     },
     {
-      "uid": 42810290,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1176,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
       "uid": 42808944,
       "governor_id": null,
       "fid": null,
@@ -581,21 +596,6 @@
       "online": false
     },
     {
-      "uid": 42824144,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1176,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
       "uid": 42833281,
       "governor_id": null,
       "fid": null,
@@ -641,7 +641,7 @@
       "online": false
     },
     {
-      "uid": 42806258,
+      "uid": 42839773,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -656,7 +656,52 @@
       "online": false
     },
     {
-      "uid": 42839773,
+      "uid": 42810290,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1176,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 42824144,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1176,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 42320937,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1176,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 42806258,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -699,37 +744,7 @@
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,
       "online": false
-    },
-    {
-      "uid": 42822895,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1176,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 42818237,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1176,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
     }
   ],
-  "member_count": 47
+  "member_count": 48
 }

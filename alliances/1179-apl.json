@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418306.795773,
-  "age_seconds": 1,
+  "cached_at": 1790373256.1610355,
+  "age_seconds": 0,
   "alliance": {
     "aid": 118800174,
     "name": "RedApple",
     "abbr": "apl",
     "kid": 1179,
-    "power": 910920011,
+    "power": 937214685,
     "count": 57,
     "leader_name": "Deli Kadirrr",
     "leader_uid": 42884729,
@@ -30,14 +30,14 @@
       "governor_id": 171112824,
       "fid": 171112824,
       "nick_name": "Deli Kadirrr",
-      "power": 171843710,
-      "town_center_level": 45,
+      "power": 180856430,
+      "town_center_level": 47,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1179,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789328011.0,
+      "last_active_at": 1789452840.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 186300426,
       "fid": 186300426,
       "nick_name": "Menes 19",
-      "power": 147082812,
-      "town_center_level": 40,
+      "power": 155203531,
+      "town_center_level": 44,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1179,
       "avatar_url": "/assets/icons/hero_headpic_50006.png",
-      "last_active_at": 1789328011.0,
+      "last_active_at": 1789452484.0,
       "online": false
     },
     {
@@ -60,14 +60,14 @@
       "governor_id": 170489987,
       "fid": 170489987,
       "nick_name": "جود جرخ",
-      "power": 75830106,
+      "power": 78296387,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1179,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788811895.0,
+      "last_active_at": 1789453606.0,
       "online": false
     },
     {
@@ -201,7 +201,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1179,
-      "avatar_url": "/cdn/avatar/2025/11/18/wR8Z7R_1763501189.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/18/wR8Z7R_1763501189.png",
       "last_active_at": 1770953049.0,
       "online": false
     },
@@ -336,7 +336,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1179,
-      "avatar_url": "/cdn/avatar/2025/10/25/o691o3_1761396341.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/25/o691o3_1761396341.png",
       "last_active_at": 1773454090.0,
       "online": false
     },
@@ -431,6 +431,21 @@
       "online": false
     },
     {
+      "uid": 42860339,
+      "governor_id": 171128831,
+      "fid": 171128831,
+      "nick_name": "lord171128831",
+      "power": 6684616,
+      "town_center_level": 20,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1179,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789389231.0,
+      "online": false
+    },
+    {
       "uid": 42869934,
       "governor_id": 168786065,
       "fid": 168786065,
@@ -441,7 +456,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1179,
-      "avatar_url": "/cdn/avatar/2025/10/17/1BzBvZ_1760725753.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/17/1BzBvZ_1760725753.png",
       "last_active_at": 1764071858.0,
       "online": false
     },
@@ -473,21 +488,6 @@
       "kid": 1179,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
       "last_active_at": 1763815837.0,
-      "online": false
-    },
-    {
-      "uid": 42860339,
-      "governor_id": 171128831,
-      "fid": 171128831,
-      "nick_name": "lord171128831",
-      "power": 6297034,
-      "town_center_level": 20,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1179,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788785647.0,
       "online": false
     },
     {
@@ -591,7 +591,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1179,
-      "avatar_url": "/cdn/avatar/2025/10/18/WjzvW4_1760756457.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/18/WjzvW4_1760756457.png",
       "last_active_at": 1764362017.0,
       "online": false
     },
@@ -831,7 +831,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1179,
-      "avatar_url": "/cdn/avatar/2025/10/23/Q5qExM_1761257133.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/23/Q5qExM_1761257133.png",
       "last_active_at": 1762625311.0,
       "online": false
     },

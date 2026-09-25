@@ -8,23 +8,38 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415588.2566464,
-  "age_seconds": 0,
+  "cached_at": 1790369168.720623,
+  "age_seconds": 1,
   "alliance": {
     "aid": 111400350,
     "name": "GrimmTurtles",
     "abbr": "GmT",
     "kid": 1105,
-    "power": 122378242,
-    "count": 15,
+    "power": 248256066,
+    "count": 16,
     "leader_name": "Abbas25",
     "leader_uid": 94234463,
     "leader_governor_id": 377091999,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 22,
+    "power_rank": 16,
     "permalink": "/1105/GmT"
   },
   "members": [
+    {
+      "uid": 49994289,
+      "governor_id": 200420202,
+      "fid": 200420202,
+      "nick_name": "Orin",
+      "power": 115634713,
+      "town_center_level": 45,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1105,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/31/j56EPz_1785535048.png",
+      "last_active_at": 1789336339.0,
+      "online": false
+    },
     {
       "uid": 42109712,
       "governor_id": 168823343,
@@ -36,7 +51,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1105,
-      "avatar_url": "/cdn/avatar/2026/04/16/x7oLpP_1776381799.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/16/x7oLpP_1776381799.png",
       "last_active_at": 1786292427.0,
       "online": false
     },
@@ -45,14 +60,14 @@
       "governor_id": 376190873,
       "fid": 376190873,
       "nick_name": "EmreGun2",
-      "power": 18955550,
-      "town_center_level": 23,
+      "power": 22341309,
+      "town_center_level": 24,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1105,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788818757.0,
+      "last_active_at": 1789453614.0,
       "online": false
     },
     {
@@ -86,6 +101,21 @@
       "online": false
     },
     {
+      "uid": 94234463,
+      "governor_id": 377091999,
+      "fid": 377091999,
+      "nick_name": "Abbas25",
+      "power": 5972798,
+      "town_center_level": 20,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1105,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789439471.0,
+      "online": false
+    },
+    {
       "uid": 40290784,
       "governor_id": 159816487,
       "fid": 159816487,
@@ -101,33 +131,18 @@
       "online": false
     },
     {
-      "uid": 94234463,
-      "governor_id": 377091999,
-      "fid": 377091999,
-      "nick_name": "Abbas25",
-      "power": 5152150,
-      "town_center_level": 19,
-      "kills": null,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1105,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788810624.0,
-      "online": false
-    },
-    {
       "uid": 91150100,
       "governor_id": 362298206,
       "fid": 362298206,
       "nick_name": "Luci ֶָ",
-      "power": 4788432,
+      "power": 4829992,
       "town_center_level": 21,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1105,
-      "avatar_url": "/cdn/avatar/2026/08/09/g9MJ4k_1786291754.png",
-      "last_active_at": 1788332958.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/09/g9MJ4k_1786291754.png",
+      "last_active_at": 1789208977.0,
       "online": false
     },
     {
@@ -206,6 +221,21 @@
       "online": false
     },
     {
+      "uid": 98535796,
+      "governor_id": 391822885,
+      "fid": 391822885,
+      "nick_name": "Luci Luci",
+      "power": 641009,
+      "town_center_level": 10,
+      "kills": 1786707908,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1105,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/01/qED3WG_1788283069.png",
+      "last_active_at": 1789211418.0,
+      "online": false
+    },
+    {
       "uid": 40322022,
       "governor_id": 160406799,
       "fid": 160406799,
@@ -218,21 +248,6 @@
       "kid": 1105,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1762210281.0,
-      "online": false
-    },
-    {
-      "uid": 98535796,
-      "governor_id": 391822885,
-      "fid": 391822885,
-      "nick_name": "Luci Luci",
-      "power": 590129,
-      "town_center_level": 10,
-      "kills": 1786707908,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1105,
-      "avatar_url": "/cdn/avatar/2026/09/01/qED3WG_1788283069.png",
-      "last_active_at": 1788330476.0,
       "online": false
     },
     {
@@ -251,5 +266,5 @@
       "online": false
     }
   ],
-  "member_count": 15
+  "member_count": 16
 }

@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418059.4433308,
+  "cached_at": 1790373041.4059145,
   "age_seconds": 0,
   "alliance": {
     "aid": 117900033,
     "name": "PrimeRisingOrder",
     "abbr": "PRO",
     "kid": 1170,
-    "power": 311815137,
+    "power": 312262695,
     "count": 15,
     "leader_name": "Verbist",
     "leader_uid": 42609235,
     "leader_governor_id": 171026602,
     "flag_url": "/assets/icons/capital_icon_got_4.png",
-    "power_rank": 13,
+    "power_rank": 12,
     "permalink": "/1170/PRO"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 171026602,
       "fid": 171026602,
       "nick_name": "Verbist",
-      "power": 50119096,
+      "power": 51856310,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1170,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788738527.0,
+      "last_active_at": 1789424706.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 169764475,
       "fid": 169764475,
       "nick_name": "Green Peaceful",
-      "power": 33267629,
+      "power": 33037581,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1170,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788840633.0,
+      "last_active_at": 1789446557.0,
       "online": false
     },
     {

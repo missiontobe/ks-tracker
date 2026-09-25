@@ -8,90 +8,30 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418260.0070434,
+  "cached_at": 1790373201.2278898,
   "age_seconds": 0,
   "alliance": {
     "aid": 118600630,
     "name": "Flumen",
     "abbr": "SUN",
     "kid": 1177,
-    "power": 1147965954,
-    "count": 5,
+    "power": 5739306,
+    "count": 1,
     "leader_name": "SUP ally",
     "leader_uid": 69300713,
     "leader_governor_id": 279365060,
     "flag_url": "/assets/icons/capital_icon_got_3.png",
-    "power_rank": 10,
+    "power_rank": 71,
     "permalink": "/1177/SUN"
   },
   "members": [
-    {
-      "uid": 42876263,
-      "governor_id": 170637558,
-      "fid": 170637558,
-      "nick_name": "Kaiser",
-      "power": 429233363,
-      "town_center_level": 65,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1177,
-      "avatar_url": "/cdn/avatar/2026/08/30/GQ7Wpr_1788088156.png",
-      "last_active_at": 1789410888.0,
-      "online": false
-    },
-    {
-      "uid": 42850332,
-      "governor_id": 169375585,
-      "fid": 169375585,
-      "nick_name": "Zoroski",
-      "power": 291560473,
-      "town_center_level": 60,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1177,
-      "avatar_url": "/cdn/avatar/2025/10/22/YlBEBM_1761139787.png",
-      "last_active_at": 1789412886.0,
-      "online": false
-    },
-    {
-      "uid": 42751190,
-      "governor_id": 169718099,
-      "fid": 169718099,
-      "nick_name": "erSexyAlfy",
-      "power": 280333682,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1177,
-      "avatar_url": "/cdn/avatar/2026/09/13/kOgYwJ_1789263229.png",
-      "last_active_at": 1789410255.0,
-      "online": false
-    },
-    {
-      "uid": 46810060,
-      "governor_id": 185395471,
-      "fid": 185395471,
-      "nick_name": "Zr²",
-      "power": 140807446,
-      "town_center_level": 50,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1177,
-      "avatar_url": "/assets/icons/hero_headpic_50024.png",
-      "last_active_at": 1789401743.0,
-      "online": false
-    },
     {
       "uid": 69300713,
       "governor_id": 279365060,
       "fid": 279365060,
       "nick_name": "SUP ally",
-      "power": 3058193,
-      "town_center_level": 16,
+      "power": 5537586,
+      "town_center_level": 18,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
@@ -101,5 +41,5 @@
       "online": false
     }
   ],
-  "member_count": 5
+  "member_count": 1
 }

@@ -8,66 +8,36 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417526.7610009,
+  "cached_at": 1790372212.5840094,
   "age_seconds": 0,
   "alliance": {
     "aid": 116300206,
     "name": "Phoenix",
     "abbr": "RIP",
     "kid": 1154,
-    "power": 654251430,
-    "count": 37,
+    "power": 484725933,
+    "count": 35,
     "leader_name": "JuicyMeow",
     "leader_uid": 67103658,
     "leader_governor_id": 264732588,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 10,
+    "power_rank": 12,
     "permalink": "/1154/RIP"
   },
   "members": [
-    {
-      "uid": 41841060,
-      "governor_id": 164510150,
-      "fid": 164510150,
-      "nick_name": "LongNeckVbCnt",
-      "power": 135316424,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1154,
-      "avatar_url": "/cdn/avatar/2026/08/22/BR6nrn_1787370293.png",
-      "last_active_at": 1789360250.0,
-      "online": false
-    },
-    {
-      "uid": 48969558,
-      "governor_id": 194620636,
-      "fid": 194620636,
-      "nick_name": "scubaaaa",
-      "power": 40879943,
-      "town_center_level": 29,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1154,
-      "avatar_url": "/cdn/avatar/2026/06/22/zQmrny_1782152188.png",
-      "last_active_at": 1789365401.0,
-      "online": false
-    },
     {
       "uid": 67103658,
       "governor_id": 264732588,
       "fid": 264732588,
       "nick_name": "JuicyMeow",
-      "power": 33348930,
+      "power": 33506469,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1154,
-      "avatar_url": "/cdn/avatar/2026/07/24/zA13V7_1784892277.png",
-      "last_active_at": 1789116998.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/24/zA13V7_1784892277.png",
+      "last_active_at": 1789445576.0,
       "online": false
     },
     {
@@ -81,7 +51,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1154,
-      "avatar_url": "/cdn/avatar/2026/07/29/vDn7Bn_1785348664.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/29/vDn7Bn_1785348664.png",
       "last_active_at": 1788423556.0,
       "online": false
     },
@@ -90,14 +60,14 @@
       "governor_id": 309652516,
       "fid": 309652516,
       "nick_name": "juiced bat",
-      "power": 6136525,
+      "power": 6243405,
       "town_center_level": 22,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1154,
-      "avatar_url": "/cdn/avatar/2026/04/29/K2NZ0Y_1777423129.png",
-      "last_active_at": 1787139114.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/29/K2NZ0Y_1777423129.png",
+      "last_active_at": 1789434153.0,
       "online": false
     },
     {
@@ -105,14 +75,14 @@
       "governor_id": 307883062,
       "fid": 307883062,
       "nick_name": "Juiced",
-      "power": 4370629,
+      "power": 4449419,
       "town_center_level": 19,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1154,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1787033685.0,
+      "last_active_at": 1789433770.0,
       "online": false
     },
     {
@@ -120,14 +90,14 @@
       "governor_id": 307211824,
       "fid": 307211824,
       "nick_name": "Labubu",
-      "power": 4153043,
+      "power": 4172673,
       "town_center_level": 19,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1154,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788750142.0,
+      "last_active_at": 1789433883.0,
       "online": false
     },
     {
@@ -143,6 +113,21 @@
       "kid": 1154,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1788826906.0,
+      "online": false
+    },
+    {
+      "uid": 42039494,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1154,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
       "online": false
     },
     {
@@ -266,7 +251,7 @@
       "online": false
     },
     {
-      "uid": 42038103,
+      "uid": 42053018,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -491,37 +476,22 @@
       "online": false
     },
     {
-      "uid": 42025309,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1154,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 42053018,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1154,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
       "uid": 42021094,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1154,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 42038103,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -551,7 +521,7 @@
       "online": false
     },
     {
-      "uid": 42030736,
+      "uid": 42025309,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -566,7 +536,7 @@
       "online": false
     },
     {
-      "uid": 42039494,
+      "uid": 42030736,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -581,5 +551,5 @@
       "online": false
     }
   ],
-  "member_count": 37
+  "member_count": 35
 }

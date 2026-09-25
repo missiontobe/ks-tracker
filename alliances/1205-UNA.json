@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419445.4090753,
+  "cached_at": 1790374929.891008,
   "age_seconds": 0,
   "alliance": {
     "aid": 121400053,
     "name": "UnitedAlliances",
     "abbr": "UNA",
     "kid": 1205,
-    "power": 1185176800,
+    "power": 1185378030,
     "count": 21,
     "leader_name": "Deviłs farm",
     "leader_uid": 57271782,
     "leader_governor_id": 227518356,
     "flag_url": "/assets/icons/capital_icon_got_4.png",
-    "power_rank": 5,
+    "power_rank": 6,
     "permalink": "/1205/UNA"
   },
   "members": [
@@ -53,6 +53,21 @@
       "kid": 1205,
       "avatar_url": "/assets/icons/hero_headpic_50023.png",
       "last_active_at": 1783061600.0,
+      "online": false
+    },
+    {
+      "uid": 43850543,
+      "governor_id": 174814316,
+      "fid": 174814316,
+      "nick_name": "Lord Sasha",
+      "power": 83170925,
+      "town_center_level": 40,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1205,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/10/0XZQVX_1778428778.png",
+      "last_active_at": 1788994000.0,
       "online": false
     },
     {
@@ -96,7 +111,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2026/05/03/4YZjV2_1777833019.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/03/4YZjV2_1777833019.png",
       "last_active_at": 1782422033.0,
       "online": false
     },
@@ -111,7 +126,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2026/05/28/0XZk2L_1780000494.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/28/0XZk2L_1780000494.png",
       "last_active_at": 1783047254.0,
       "online": false
     },
@@ -126,7 +141,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2026/01/19/qMBLjG_1768860427.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/19/qMBLjG_1768860427.png",
       "last_active_at": 1787884307.0,
       "online": false
     },
@@ -173,21 +188,6 @@
       "kid": 1205,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1784391384.0,
-      "online": false
-    },
-    {
-      "uid": 43850543,
-      "governor_id": 174814316,
-      "fid": 174814316,
-      "nick_name": "Lord Sasha",
-      "power": 56907785,
-      "town_center_level": 40,
-      "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1205,
-      "avatar_url": "/cdn/avatar/2026/05/10/0XZQVX_1778428778.png",
-      "last_active_at": 1784401445.0,
       "online": false
     },
     {
@@ -246,7 +246,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2026/06/08/J7p2xl_1780936298.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/08/J7p2xl_1780936298.png",
       "last_active_at": 1782255195.0,
       "online": false
     },
@@ -255,14 +255,14 @@
       "governor_id": 227518356,
       "fid": 227518356,
       "nick_name": "Deviłs farm",
-      "power": 48458411,
+      "power": 49039994,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1205,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788838042.0,
+      "last_active_at": 1789402092.0,
       "online": false
     },
     {
@@ -276,7 +276,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2025/10/28/WjJlZv_1761668299.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/28/WjJlZv_1761668299.png",
       "last_active_at": 1781821590.0,
       "online": false
     },
@@ -306,7 +306,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2026/06/12/0PwzpV_1781290192.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/12/0PwzpV_1781290192.png",
       "last_active_at": 1785806764.0,
       "online": false
     },
@@ -321,7 +321,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2026/05/07/rMwwWL_1778146792.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/07/rMwwWL_1778146792.png",
       "last_active_at": 1781820690.0,
       "online": false
     },
@@ -336,7 +336,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1205,
-      "avatar_url": "/cdn/avatar/2026/06/11/nj2k04_1781199203.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/11/nj2k04_1781199203.png",
       "last_active_at": 1784983299.0,
       "online": false
     }

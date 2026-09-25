@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419318.18463,
-  "age_seconds": 0,
+  "cached_at": 1790374579.2804463,
+  "age_seconds": 3,
   "alliance": {
     "aid": 120800002,
     "name": "ForFxxxSake",
     "abbr": "FFS",
     "kid": 1199,
-    "power": 1517984443,
+    "power": 1519319574,
     "count": 17,
     "leader_name": "Luci",
     "leader_uid": 49298470,
     "leader_governor_id": 197853424,
     "flag_url": "/assets/icons/capital_icon_got_4.png",
-    "power_rank": 6,
+    "power_rank": 5,
     "permalink": "/1199/FFS"
   },
   "members": [
@@ -36,7 +36,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1199,
-      "avatar_url": "/cdn/avatar/2026/03/19/XkvR65_1773893138.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/19/XkvR65_1773893138.png",
       "last_active_at": 1789178926.0,
       "online": false
     },
@@ -81,7 +81,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1199,
-      "avatar_url": "/cdn/avatar/2026/05/07/M5PmK5_1778124633.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/07/M5PmK5_1778124633.png",
       "last_active_at": 1781747175.0,
       "online": false
     },
@@ -111,7 +111,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1199,
-      "avatar_url": "/cdn/avatar/2025/12/03/M5PpNR_1764735173.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/03/M5PpNR_1764735173.png",
       "last_active_at": 1780537265.0,
       "online": false
     },
@@ -141,7 +141,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1199,
-      "avatar_url": "/cdn/avatar/2025/12/05/Xk86PV_1764924265.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/05/Xk86PV_1764924265.png",
       "last_active_at": 1788041305.0,
       "online": false
     },
@@ -156,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1199,
-      "avatar_url": "/cdn/avatar/2025/12/20/o6o5Rz_1766199568.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/20/o6o5Rz_1766199568.png",
       "last_active_at": 1781747281.0,
       "online": false
     },
@@ -186,7 +186,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1199,
-      "avatar_url": "/cdn/avatar/2025/10/22/v9yK7g_1761173769.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/22/v9yK7g_1761173769.png",
       "last_active_at": 1784401280.0,
       "online": false
     },
@@ -216,7 +216,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1199,
-      "avatar_url": "/cdn/avatar/2025/10/22/V0q4Y1_1761118768.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/22/V0q4Y1_1761118768.png",
       "last_active_at": 1787882642.0,
       "online": false
     },
@@ -240,14 +240,14 @@
       "governor_id": 233200394,
       "fid": 233200394,
       "nick_name": "Firefly",
-      "power": 29428216,
+      "power": 31854313,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1199,
-      "avatar_url": "/cdn/avatar/2026/01/23/VZK51o_1769157706.png",
-      "last_active_at": 1788831910.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/23/VZK51o_1769157706.png",
+      "last_active_at": 1789451284.0,
       "online": false
     },
     {
@@ -255,14 +255,14 @@
       "governor_id": 197853424,
       "fid": 197853424,
       "nick_name": "Luci",
-      "power": 12367692,
+      "power": 11898341,
       "town_center_level": 24,
-      "kills": null,
+      "kills": 91266,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1199,
       "avatar_url": "/assets/icons/hero_headpic_50027.png",
-      "last_active_at": 1788423139.0,
+      "last_active_at": 1789325798.0,
       "online": false
     },
     {

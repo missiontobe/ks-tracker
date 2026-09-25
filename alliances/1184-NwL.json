@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418436.574835,
+  "cached_at": 1790373403.9912052,
   "age_seconds": 0,
   "alliance": {
     "aid": 119300043,
     "name": "Nightwalkers",
     "abbr": "NwL",
     "kid": 1184,
-    "power": 441201997,
+    "power": 445554600,
     "count": 41,
     "leader_name": "Kay",
     "leader_uid": 43057629,
     "leader_governor_id": 175948806,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 10,
+    "power_rank": 12,
     "permalink": "/1184/NwL"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 175948806,
       "fid": 175948806,
       "nick_name": "Kay",
-      "power": 126936814,
-      "town_center_level": 50,
+      "power": 136561700,
+      "town_center_level": 51,
       "kills": 1806086,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1184,
       "avatar_url": "/assets/icons/hero_headpic_50029.png",
-      "last_active_at": 1789394992.0,
+      "last_active_at": 1789462384.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 175900634,
       "fid": 175900634,
       "nick_name": "lordbyron",
-      "power": 45641972,
+      "power": 53460904,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1184,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1787903770.0,
+      "last_active_at": 1789293387.0,
       "online": false
     },
     {
@@ -66,7 +66,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1184,
-      "avatar_url": "/cdn/avatar/2026/02/07/EWxNxK_1770507055.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/07/EWxNxK_1770507055.png",
       "last_active_at": 1787942665.0,
       "online": false
     },
@@ -126,7 +126,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1184,
-      "avatar_url": "/cdn/avatar/2025/10/27/o6P93K_1761601361.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/27/o6P93K_1761601361.png",
       "last_active_at": 1770993850.0,
       "online": false
     },
@@ -156,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1184,
-      "avatar_url": "/cdn/avatar/2025/11/03/WjRDr4_1762166073.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/03/WjRDr4_1762166073.png",
       "last_active_at": 1765418311.0,
       "online": false
     },
@@ -246,7 +246,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1184,
-      "avatar_url": "/cdn/avatar/2025/10/22/v9rmkr_1761121953.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/22/v9rmkr_1761121953.png",
       "last_active_at": 1787827140.0,
       "online": false
     },
@@ -441,7 +441,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1184,
-      "avatar_url": "/cdn/avatar/2025/10/23/XkRgRv_1761212386.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/23/XkRgRv_1761212386.png",
       "last_active_at": 1768682935.0,
       "online": false
     },

@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419896.8192081,
+  "cached_at": 1790375278.8618672,
   "age_seconds": 0,
   "alliance": {
     "aid": 122500013,
     "name": "DawnOfMayhem",
     "abbr": "DOM",
     "kid": 1216,
-    "power": 272957784,
+    "power": 271562590,
     "count": 10,
     "leader_name": "~Loki~",
     "leader_uid": 46489930,
@@ -36,7 +36,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1216,
-      "avatar_url": "/cdn/avatar/2026/05/08/qMzOjr_1778275231.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/08/qMzOjr_1778275231.png",
       "last_active_at": 1785705429.0,
       "online": false
     },
@@ -45,14 +45,14 @@
       "governor_id": 226260556,
       "fid": 226260556,
       "nick_name": "Hisoka",
-      "power": 18407506,
+      "power": 18442606,
       "town_center_level": 25,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1216,
-      "avatar_url": "/cdn/avatar/2026/01/16/8Yqj7o_1768577525.png",
-      "last_active_at": 1786968891.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/16/8Yqj7o_1768577525.png",
+      "last_active_at": 1789403502.0,
       "online": false
     },
     {
@@ -66,7 +66,7 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1216,
-      "avatar_url": "/cdn/avatar/2026/03/28/Wm1D1o_1774659774.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/28/Wm1D1o_1774659774.png",
       "last_active_at": 1782156181.0,
       "online": false
     },
@@ -81,7 +81,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1216,
-      "avatar_url": "/cdn/avatar/2026/06/12/GoPN2y_1781281217.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/12/GoPN2y_1781281217.png",
       "last_active_at": 1788515231.0,
       "online": false
     },

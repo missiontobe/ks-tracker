@@ -8,16 +8,16 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419641.6238086,
+  "cached_at": 1790375043.643042,
   "age_seconds": 0,
   "alliance": {
     "aid": 121600024,
     "name": "MinasTirith",
     "abbr": "RUT",
     "kid": 1207,
-    "power": 1054008576,
-    "count": 27,
-    "leader_name": "Nazgûl",
+    "power": 1004156243,
+    "count": 26,
+    "leader_name": "Nazarwulf",
     "leader_uid": 67134029,
     "leader_governor_id": 271106442,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
@@ -36,7 +36,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2026/02/14/V0RoXW_1771069524.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/14/V0RoXW_1771069524.png",
       "last_active_at": 1773337276.0,
       "online": false
     },
@@ -51,7 +51,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2026/03/18/zxNqNq_1773826240.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/18/zxNqNq_1773826240.png",
       "last_active_at": 1786446111.0,
       "online": false
     },
@@ -81,7 +81,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2025/10/28/WjVRmJ_1761680123.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/28/WjVRmJ_1761680123.png",
       "last_active_at": 1778006310.0,
       "online": false
     },
@@ -96,7 +96,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2025/11/26/9LWjKD_1764144705.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/26/9LWjKD_1764144705.png",
       "last_active_at": 1779392310.0,
       "online": false
     },
@@ -113,21 +113,6 @@
       "kid": 1207,
       "avatar_url": "/assets/icons/hero_headpic_50018.png",
       "last_active_at": 1770090094.0,
-      "online": false
-    },
-    {
-      "uid": 43887786,
-      "governor_id": 172455600,
-      "fid": 172455600,
-      "nick_name": "Darkven66",
-      "power": 49470535,
-      "town_center_level": 28,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1207,
-      "avatar_url": "/cdn/avatar/2025/11/08/9LWpGZ_1762619815.png",
-      "last_active_at": 1789057592.0,
       "online": false
     },
     {
@@ -156,7 +141,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2026/01/02/8BVVwg_1767320149.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/02/8BVVwg_1767320149.png",
       "last_active_at": 1769701530.0,
       "online": false
     },
@@ -171,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2025/12/16/A9pWXz_1765908106.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/16/A9pWXz_1765908106.png",
       "last_active_at": 1782244896.0,
       "online": false
     },
@@ -180,7 +165,7 @@
       "governor_id": 172799771,
       "fid": 172799771,
       "nick_name": "Krolewicz",
-      "power": 44435715,
+      "power": 44446665,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 1,
@@ -216,7 +201,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2026/01/13/RB6WYq_1768288024.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/13/RB6WYq_1768288024.png",
       "last_active_at": 1780598250.0,
       "online": false
     },
@@ -306,7 +291,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2025/10/26/V0R0Kv_1761512007.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/26/V0R0Kv_1761512007.png",
       "last_active_at": 1784369209.0,
       "online": false
     },
@@ -351,7 +336,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2026/01/29/YXRXGO_1769688196.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/29/YXRXGO_1769688196.png",
       "last_active_at": 1784406453.0,
       "online": false
     },
@@ -360,13 +345,13 @@
       "governor_id": 174225128,
       "fid": 174225128,
       "nick_name": "SGS",
-      "power": 20462278,
+      "power": 20497378,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2025/10/24/8BVB1o_1761299080.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/24/8BVB1o_1761299080.png",
       "last_active_at": 1784398235.0,
       "online": false
     },
@@ -381,7 +366,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2026/04/24/G28JM7_1777052125.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/24/G28JM7_1777052125.png",
       "last_active_at": 1780597920.0,
       "online": false
     },
@@ -390,14 +375,14 @@
       "governor_id": 173930480,
       "fid": 173930480,
       "nick_name": "Lui4567",
-      "power": 18260677,
+      "power": 18414375,
       "town_center_level": 25,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1207,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789148973.0,
+      "last_active_at": 1789367023.0,
       "online": false
     },
     {
@@ -405,13 +390,13 @@
       "governor_id": 271106442,
       "fid": 271106442,
       "nick_name": "Nazgûl",
-      "power": 16314769,
-      "town_center_level": 26,
+      "power": 16533369,
+      "town_center_level": 27,
       "kills": 8,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1207,
-      "avatar_url": "/cdn/avatar/2026/09/06/VWYAMW_1788707236.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/06/VWYAMW_1788707236.png",
       "last_active_at": 1789038931.0,
       "online": false
     },
@@ -431,5 +416,5 @@
       "online": false
     }
   ],
-  "member_count": 27
+  "member_count": 26
 }

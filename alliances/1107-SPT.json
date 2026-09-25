@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415654.3708925,
+  "cached_at": 1790369356.6560528,
   "age_seconds": 1,
   "alliance": {
     "aid": 111600003,
     "name": "SPARTA",
     "abbr": "SPT",
     "kid": 1107,
-    "power": 388733915,
+    "power": 388930418,
     "count": 45,
     "leader_name": "الدوله العثمانيه",
     "leader_uid": 40398773,
     "leader_governor_id": 163455422,
     "flag_url": "/assets/icons/capital_icon_got_4.png",
-    "power_rank": 14,
+    "power_rank": 16,
     "permalink": "/1107/SPT"
   },
   "members": [
@@ -32,11 +32,11 @@
       "nick_name": "الدوله العثمانيه",
       "power": 30481250,
       "town_center_level": 27,
-      "kills": null,
+      "kills": 141213,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1107,
-      "avatar_url": "/cdn/avatar/2025/10/10/VJ60v1_1760091429.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/10/VJ60v1_1760091429.png",
       "last_active_at": 1786958112.0,
       "online": false
     },
@@ -51,7 +51,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1107,
-      "avatar_url": "/cdn/avatar/2025/10/03/wnBMvr_1759526086.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/03/wnBMvr_1759526086.png",
       "last_active_at": 1775402649.0,
       "online": false
     },
@@ -581,15 +581,15 @@
       "online": false
     },
     {
-      "uid": 40387789,
+      "uid": 40340592,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
       "power": null,
       "town_center_level": null,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
       "kid": 1107,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,
@@ -641,7 +641,7 @@
       "online": false
     },
     {
-      "uid": 40340592,
+      "uid": 40382863,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -656,15 +656,15 @@
       "online": false
     },
     {
-      "uid": 40382863,
+      "uid": 40387789,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
       "power": null,
       "town_center_level": null,
       "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
       "kid": 1107,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,

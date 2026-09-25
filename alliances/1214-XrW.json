@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419824.5526547,
+  "cached_at": 1790375211.9343097,
   "age_seconds": 0,
   "alliance": {
     "aid": 122300137,
     "name": "XxxMegatronxxx",
     "abbr": "XrW",
     "kid": 1214,
-    "power": 569425032,
+    "power": 595598861,
     "count": 92,
     "leader_name": "Eisbeinpraliene",
     "leader_uid": 44113378,
     "leader_governor_id": 176653430,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 6,
+    "power_rank": 5,
     "permalink": "/1214/XrW"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 176653430,
       "fid": 176653430,
       "nick_name": "Eisbeinpraliene",
-      "power": 65795024,
+      "power": 61469071,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1214,
       "avatar_url": "/assets/icons/hero_headpic_50010.png",
-      "last_active_at": 1788778692.0,
+      "last_active_at": 1789424279.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 180176613,
       "fid": 180176613,
       "nick_name": "Ozzy",
-      "power": 40508794,
+      "power": 42910625,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1214,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788830273.0,
+      "last_active_at": 1789438848.0,
       "online": false
     },
     {
@@ -66,7 +66,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2025/10/26/ZmjXm5_1761506043.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/26/ZmjXm5_1761506043.png",
       "last_active_at": 1782302690.0,
       "online": false
     },
@@ -111,7 +111,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2026/01/12/lMGE2M_1768220509.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/12/lMGE2M_1768220509.png",
       "last_active_at": 1785006157.0,
       "online": false
     },
@@ -171,23 +171,8 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2025/10/28/0XQ8w7_1761691025.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/28/0XQ8w7_1761691025.png",
       "last_active_at": 1786825789.0,
-      "online": false
-    },
-    {
-      "uid": 44131083,
-      "governor_id": 178341263,
-      "fid": 178341263,
-      "nick_name": "Slowmengonts",
-      "power": 17479110,
-      "town_center_level": 25,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1214,
-      "avatar_url": "/cdn/avatar/2025/11/11/6zZ6L9_1762898096.png",
-      "last_active_at": 1788830533.0,
       "online": false
     },
     {
@@ -195,14 +180,29 @@
       "governor_id": 178488763,
       "fid": 178488763,
       "nick_name": "SuperSu",
-      "power": 15817459,
+      "power": 17907164,
       "town_center_level": 22,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
       "avatar_url": "/assets/icons/hero_headpic_50003.png",
-      "last_active_at": 1788790158.0,
+      "last_active_at": 1789412619.0,
+      "online": false
+    },
+    {
+      "uid": 44131083,
+      "governor_id": 178341263,
+      "fid": 178341263,
+      "nick_name": "Slowmengonts",
+      "power": 17579158,
+      "town_center_level": 25,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1214,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/11/6zZ6L9_1762898096.png",
+      "last_active_at": 1789320426.0,
       "online": false
     },
     {
@@ -210,14 +210,14 @@
       "governor_id": 176178399,
       "fid": 176178399,
       "nick_name": "lord176178399",
-      "power": 15069085,
+      "power": 15203085,
       "town_center_level": 24,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1214,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788796600.0,
+      "last_active_at": 1789385160.0,
       "online": false
     },
     {
@@ -276,7 +276,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2025/10/28/3K5ZVQ_1761691149.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/28/3K5ZVQ_1761691149.png",
       "last_active_at": 1778333047.0,
       "online": false
     },
@@ -308,21 +308,6 @@
       "kid": 1214,
       "avatar_url": "/assets/icons/hero_headpic_50014.png",
       "last_active_at": 1787622849.0,
-      "online": false
-    },
-    {
-      "uid": 44146517,
-      "governor_id": 179865215,
-      "fid": 179865215,
-      "nick_name": "Maulwurfhausen",
-      "power": 7240700,
-      "town_center_level": 21,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1214,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788393134.0,
       "online": false
     },
     {
@@ -368,6 +353,21 @@
       "kid": 1214,
       "avatar_url": "/assets/icons/hero_headpic_50003.png",
       "last_active_at": 1784162432.0,
+      "online": false
+    },
+    {
+      "uid": 44146517,
+      "governor_id": 179865215,
+      "fid": 179865215,
+      "nick_name": "Maulwurfhausen",
+      "power": 6867832,
+      "town_center_level": 21,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1214,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789101729.0,
       "online": false
     },
     {
@@ -426,7 +426,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2026/08/19/9L4903_1787142453.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/19/9L4903_1787142453.png",
       "last_active_at": 1787622459.0,
       "online": false
     },
@@ -441,7 +441,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2025/11/02/zxZgJY_1762094365.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/02/zxZgJY_1762094365.png",
       "last_active_at": 1784853872.0,
       "online": false
     },
@@ -456,7 +456,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2026/03/20/Q54JnY_1774002239.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/20/Q54JnY_1774002239.png",
       "last_active_at": 1784371126.0,
       "online": false
     },
@@ -486,7 +486,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2025/10/30/9L4OOY_1761856475.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/30/9L4OOY_1761856475.png",
       "last_active_at": 1764932579.0,
       "online": false
     },
@@ -546,7 +546,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2025/10/27/rMONVK_1761528685.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/27/rMONVK_1761528685.png",
       "last_active_at": 1764920538.0,
       "online": false
     },
@@ -585,14 +585,14 @@
       "governor_id": 178095377,
       "fid": 178095377,
       "nick_name": "lord178095377",
-      "power": 2637268,
-      "town_center_level": 15,
+      "power": 2658120,
+      "town_center_level": 16,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1214,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788087283.0,
+      "last_active_at": 1789101641.0,
       "online": false
     },
     {
@@ -696,7 +696,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1214,
-      "avatar_url": "/cdn/avatar/2026/06/29/pXMqZr_1782725005.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/29/pXMqZr_1782725005.png",
       "last_active_at": 1783110927.0,
       "online": false
     },
@@ -791,6 +791,21 @@
       "online": false
     },
     {
+      "uid": 44123491,
+      "governor_id": 178488596,
+      "fid": 178488596,
+      "nick_name": "lord178488596",
+      "power": 1350498,
+      "town_center_level": 11,
+      "kills": 1761418508,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1214,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789261256.0,
+      "online": false
+    },
+    {
       "uid": 44131780,
       "governor_id": 176981396,
       "fid": 176981396,
@@ -833,21 +848,6 @@
       "kid": 1214,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1764860970.0,
-      "online": false
-    },
-    {
-      "uid": 44123491,
-      "governor_id": 178488596,
-      "fid": 178488596,
-      "nick_name": "lord178488596",
-      "power": 894912,
-      "town_center_level": 10,
-      "kills": 1761418508,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1214,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788792772.0,
       "online": false
     },
     {

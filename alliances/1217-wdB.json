@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419907.4201603,
+  "cached_at": 1790375293.486908,
   "age_seconds": 0,
   "alliance": {
     "aid": 122600003,
     "name": "wonderersBAR",
     "abbr": "wdB",
     "kid": 1217,
-    "power": 803140209,
-    "count": 10,
+    "power": 840565039,
+    "count": 11,
     "leader_name": "NORI3",
     "leader_uid": 44528706,
     "leader_governor_id": 176266704,
@@ -68,6 +68,21 @@
       "kid": 1217,
       "avatar_url": "/assets/icons/hero_headpic_50004.png",
       "last_active_at": 1789232873.0,
+      "online": false
+    },
+    {
+      "uid": 53147742,
+      "governor_id": 211413984,
+      "fid": 211413984,
+      "nick_name": "ぴのこ",
+      "power": 122944896,
+      "town_center_level": 52,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1217,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/14/9YglX3_1778800059.png",
+      "last_active_at": 1789462305.0,
       "online": false
     },
     {
@@ -176,5 +191,5 @@
       "online": false
     }
   ],
-  "member_count": 10
+  "member_count": 11
 }

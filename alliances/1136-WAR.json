@@ -8,8 +8,8 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416451.9626186,
-  "age_seconds": 0,
+  "cached_at": 1790371154.9704492,
+  "age_seconds": 1,
   "alliance": {
     "aid": 114500010,
     "name": "WolvesAlwaysRule",
@@ -36,7 +36,7 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1136,
-      "avatar_url": "/cdn/avatar/2025/12/03/VlYoVX_1764777581.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/03/VlYoVX_1764777581.png",
       "last_active_at": 1787679707.0,
       "online": false
     },
@@ -51,7 +51,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1136,
-      "avatar_url": "/cdn/avatar/2026/05/22/MoEJyB_1779460344.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/22/MoEJyB_1779460344.png",
       "last_active_at": 1785619458.0,
       "online": false
     },

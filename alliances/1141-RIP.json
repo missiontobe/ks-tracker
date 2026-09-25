@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "aid": 115000213,
+  "kid": 1141,
+  "tag": "RIP",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1790371492.5481808,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 115000213,
+    "name": "graveyard",
+    "abbr": "RIP",
+    "kid": 1141,
+    "power": 339031,
+    "count": 1,
+    "leader_name": "TheLaw",
+    "leader_uid": 100142965,
+    "leader_governor_id": 402300989,
+    "flag_url": "/assets/icons/capital_icon_got_5.png",
+    "power_rank": 223,
+    "permalink": "/1141/RIP"
+  },
+  "members": [
+    {
+      "uid": 100142965,
+      "governor_id": 402300989,
+      "fid": 402300989,
+      "nick_name": "TheLaw",
+      "power": 293331,
+      "town_center_level": 10,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1141,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/13/KoDopR_1789303873.png",
+      "last_active_at": 1789277869.0,
+      "online": false
+    }
+  ],
+  "member_count": 1
+}

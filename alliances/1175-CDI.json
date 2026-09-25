@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418183.0171525,
+  "cached_at": 1790373142.9013927,
   "age_seconds": 0,
   "alliance": {
     "aid": 118400159,
     "name": "CarpeDiem",
     "abbr": "CDI",
     "kid": 1175,
-    "power": 426345838,
+    "power": 426324297,
     "count": 54,
     "leader_name": "Ivy",
     "leader_uid": 42767040,
@@ -96,7 +96,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1175,
-      "avatar_url": "/cdn/avatar/2025/11/15/51xl88_1763194067.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/15/51xl88_1763194067.png",
       "last_active_at": 1767062310.0,
       "online": false
     },
@@ -156,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1175,
-      "avatar_url": "/cdn/avatar/2025/12/12/pXKZgV_1765499193.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/12/pXKZgV_1765499193.png",
       "last_active_at": 1767465967.0,
       "online": false
     },
@@ -411,7 +411,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1175,
-      "avatar_url": "/cdn/avatar/2025/11/15/L5D5jr_1763224932.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/15/L5D5jr_1763224932.png",
       "last_active_at": 1766025120.0,
       "online": false
     },
@@ -711,7 +711,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1175,
-      "avatar_url": "/cdn/avatar/2025/11/26/rXKQ74_1764136968.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/26/rXKQ74_1764136968.png",
       "last_active_at": 1767060810.0,
       "online": false
     },

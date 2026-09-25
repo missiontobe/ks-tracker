@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414257.7663267,
+  "cached_at": 1790368095.5164354,
   "age_seconds": 0,
   "alliance": {
     "aid": 110200030,
     "name": "焱雨",
     "abbr": "Qoo",
     "kid": 1093,
-    "power": 1200878415,
+    "power": 1200913515,
     "count": 35,
     "leader_name": "焱雨Baby",
     "leader_uid": 42160258,
@@ -36,7 +36,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2026/06/13/m75vW9_1781363154.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/13/m75vW9_1781363154.png",
       "last_active_at": 1783318721.0,
       "online": false
     },
@@ -51,7 +51,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2026/06/10/kO6yqX_1781097500.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/10/kO6yqX_1781097500.png",
       "last_active_at": 1782378609.0,
       "online": false
     },
@@ -66,7 +66,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2026/01/11/l7LyLr_1768103382.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/11/l7LyLr_1768103382.png",
       "last_active_at": 1784376000.0,
       "online": false
     },
@@ -81,7 +81,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2026/04/16/QvgmjG_1776340126.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/16/QvgmjG_1776340126.png",
       "last_active_at": 1782326155.0,
       "online": false
     },
@@ -90,14 +90,14 @@
       "governor_id": 168103232,
       "fid": 168103232,
       "nick_name": "焱雨Baby",
-      "power": 69695087,
+      "power": 51565377,
       "town_center_level": 35,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1093,
       "avatar_url": "/assets/icons/hero_headpic_50023.png",
-      "last_active_at": 1787903540.0,
+      "last_active_at": 1789232868.0,
       "online": false
     },
     {
@@ -291,7 +291,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2025/10/01/QApg4L_1759320863.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/01/QApg4L_1759320863.png",
       "last_active_at": 1761310455.0,
       "online": false
     },
@@ -321,7 +321,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2025/10/12/1Vlqmo_1760248776.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/12/1Vlqmo_1760248776.png",
       "last_active_at": 1761611868.0,
       "online": false
     },

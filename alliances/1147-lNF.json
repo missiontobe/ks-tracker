@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 115600756,
+  "kid": 1147,
+  "tag": "lNF",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1790371800.5773246,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 115600756,
+    "name": "lNFarm",
+    "abbr": "lNF",
+    "kid": 1147,
+    "power": 11652582,
+    "count": 3,
+    "leader_name": "Ssssss",
+    "leader_uid": 102761512,
+    "leader_governor_id": 411189265,
+    "flag_url": "/assets/icons/capital_icon_got_1.png",
+    "power_rank": 45,
+    "permalink": "/1147/lNF"
+  },
+  "members": [
+    {
+      "uid": 73871106,
+      "governor_id": 293674175,
+      "fid": 293674175,
+      "nick_name": "Barone",
+      "power": 4782805,
+      "town_center_level": 19,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1147,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789433903.0,
+      "online": false
+    },
+    {
+      "uid": 102761512,
+      "governor_id": 411189265,
+      "fid": 411189265,
+      "nick_name": "Ssssss",
+      "power": 1791199,
+      "town_center_level": 13,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1147,
+      "avatar_url": "/assets/icons/hero_headpic_50021.png",
+      "last_active_at": 1789459250.0,
+      "online": false
+    },
+    {
+      "uid": 102747526,
+      "governor_id": 407715637,
+      "fid": 407715637,
+      "nick_name": "sssss",
+      "power": 1595674,
+      "town_center_level": 13,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1147,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789459413.0,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417364.444022,
-  "age_seconds": 0,
+  "cached_at": 1790371793.7215567,
+  "age_seconds": 2,
   "alliance": {
     "aid": 115600182,
     "name": "Wolfpack",
     "abbr": "256",
     "kid": 1147,
-    "power": 272509800,
-    "count": 29,
+    "power": 268901804,
+    "count": 30,
     "leader_name": "DIKCHHH",
     "leader_uid": 41782623,
     "leader_governor_id": 167376436,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 12,
+    "power_rank": 11,
     "permalink": "/1147/256"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 167376436,
       "fid": 167376436,
       "nick_name": "DIKCHHH",
-      "power": 88301552,
-      "town_center_level": 40,
+      "power": 79100482,
+      "town_center_level": 41,
       "kills": 684010,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1147,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789218816.0,
+      "last_active_at": 1789451204.0,
       "online": false
     },
     {
@@ -126,7 +126,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1147,
-      "avatar_url": "/cdn/avatar/2025/12/04/7OW1xw_1764845437.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/04/7OW1xw_1764845437.png",
       "last_active_at": 1785576137.0,
       "online": false
     },
@@ -221,6 +221,36 @@
       "online": false
     },
     {
+      "uid": 41804443,
+      "governor_id": 167081867,
+      "fid": 167081867,
+      "nick_name": "lord167081867",
+      "power": 6212209,
+      "town_center_level": 12,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1147,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789447843.0,
+      "online": false
+    },
+    {
+      "uid": 41790336,
+      "governor_id": 163853999,
+      "fid": 163853999,
+      "nick_name": "Nadine_taha11",
+      "power": 4322065,
+      "town_center_level": 19,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1147,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/16/3Kym4r_1760621951.png",
+      "last_active_at": 1789252492.0,
+      "online": false
+    },
+    {
       "uid": 41781697,
       "governor_id": 165983780,
       "fid": 165983780,
@@ -233,21 +263,6 @@
       "kid": 1147,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1771434860.0,
-      "online": false
-    },
-    {
-      "uid": 41790336,
-      "governor_id": 163853999,
-      "fid": 163853999,
-      "nick_name": "Nadine_taha11",
-      "power": 4118473,
-      "town_center_level": 19,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1147,
-      "avatar_url": "/cdn/avatar/2025/10/16/3Kym4r_1760621951.png",
-      "last_active_at": 1788356593.0,
       "online": false
     },
     {
@@ -321,7 +336,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1147,
-      "avatar_url": "/cdn/avatar/2025/10/12/0X0PWL_1760291591.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/12/0X0PWL_1760291591.png",
       "last_active_at": 1775859826.0,
       "online": false
     },
@@ -396,7 +411,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1147,
-      "avatar_url": "/cdn/avatar/2025/10/18/0X0mWG_1760777308.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/18/0X0mWG_1760777308.png",
       "last_active_at": 1785958591.0,
       "online": false
     },
@@ -456,10 +471,10 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1147,
-      "avatar_url": "/cdn/avatar/2026/07/19/O5PxgE_1784474425.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/19/O5PxgE_1784474425.png",
       "last_active_at": 1784474977.0,
       "online": false
     }
   ],
-  "member_count": 29
+  "member_count": 30
 }

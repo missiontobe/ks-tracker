@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 111200756,
+  "kid": 1103,
+  "tag": "AbC",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1790369042.433117,
+  "age_seconds": 1,
+  "alliance": {
+    "aid": 111200756,
+    "name": "AnyBodyCan",
+    "abbr": "AbC",
+    "kid": 1103,
+    "power": 22639590,
+    "count": 3,
+    "leader_name": "THOR",
+    "leader_uid": 93974497,
+    "leader_governor_id": 375826364,
+    "flag_url": "/assets/icons/capital_icon_got_3.png",
+    "power_rank": 39,
+    "permalink": "/1103/AbC"
+  },
+  "members": [
+    {
+      "uid": 93974497,
+      "governor_id": 375826364,
+      "fid": 375826364,
+      "nick_name": "THOR",
+      "power": 17884212,
+      "town_center_level": 22,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1103,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/26/rWRYlk_1785107480.png",
+      "last_active_at": 1789424955.0,
+      "online": false
+    },
+    {
+      "uid": 41412236,
+      "governor_id": 164388763,
+      "fid": 164388763,
+      "nick_name": "Lord Inosuke",
+      "power": 615630,
+      "town_center_level": 10,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1103,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789215322.0,
+      "online": false
+    },
+    {
+      "uid": 40225410,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1103,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

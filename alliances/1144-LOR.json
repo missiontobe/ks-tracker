@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417287.7874384,
+  "cached_at": 1790371650.6637504,
   "age_seconds": 0,
   "alliance": {
     "aid": 115300539,
     "name": "Gondor",
     "abbr": "LOR",
     "kid": 1144,
-    "power": 253064167,
+    "power": 268349472,
     "count": 4,
     "leader_name": "zbob",
     "leader_uid": 41686580,
     "leader_governor_id": null,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 13,
+    "power_rank": 14,
     "permalink": "/1144/LOR"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 166883238,
       "fid": 166883238,
       "nick_name": "The Bruce",
-      "power": 28170368,
-      "town_center_level": 24,
+      "power": 31275662,
+      "town_center_level": 25,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1144,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788836388.0,
+      "last_active_at": 1789442412.0,
       "online": false
     },
     {

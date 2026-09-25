@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417318.4929488,
-  "age_seconds": 1,
+  "cached_at": 1790371705.2174006,
+  "age_seconds": 0,
   "alliance": {
     "aid": 115400299,
     "name": "VALKYRIE",
     "abbr": "VLK",
     "kid": 1145,
-    "power": 500179137,
+    "power": 508873651,
     "count": 16,
     "leader_name": "mbcaft",
     "leader_uid": 41732135,
     "leader_governor_id": 166408993,
     "flag_url": "/assets/icons/capital_icon_got_2.png",
-    "power_rank": 14,
+    "power_rank": 15,
     "permalink": "/1145/VLK"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 166408993,
       "fid": 166408993,
       "nick_name": "mbcaft",
-      "power": 95320936,
-      "town_center_level": 37,
+      "power": 99436257,
+      "town_center_level": 40,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1145,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789371543.0,
+      "last_active_at": 1789448206.0,
       "online": false
     },
     {
@@ -51,7 +51,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1145,
-      "avatar_url": "/cdn/avatar/2025/12/07/XkQ2oW_1765109059.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/07/XkQ2oW_1765109059.png",
       "last_active_at": 1785770062.0,
       "online": false
     },

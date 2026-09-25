@@ -8,66 +8,36 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415976.0368013,
+  "cached_at": 1790370187.1546469,
   "age_seconds": 0,
   "alliance": {
     "aid": 112900034,
     "name": "TheFrenchKing",
     "abbr": "TFK",
     "kid": 1120,
-    "power": 887689238,
-    "count": 6,
+    "power": 192706759,
+    "count": 4,
     "leader_name": "Aikoquelicot",
     "leader_uid": 40832616,
     "leader_governor_id": null,
     "flag_url": "/assets/icons/capital_icon_got_4.png",
-    "power_rank": 7,
+    "power_rank": 21,
     "permalink": "/1120/TFK"
   },
   "members": [
     {
-      "uid": 39908314,
-      "governor_id": 160809935,
-      "fid": 160809935,
-      "nick_name": "JFeco",
-      "power": 415607053,
-      "town_center_level": 60,
+      "uid": 36488888,
+      "governor_id": 144077592,
+      "fid": 144077592,
+      "nick_name": "Urumi2",
+      "power": 160480084,
+      "town_center_level": 50,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1120,
-      "avatar_url": "/cdn/avatar/2026/02/20/zqJoM7_1771608629.png",
-      "last_active_at": 1789400566.0,
-      "online": false
-    },
-    {
-      "uid": 40319949,
-      "governor_id": 162323695,
-      "fid": 162323695,
-      "nick_name": "ahhh non oupssy",
-      "power": 339574985,
-      "town_center_level": 60,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1120,
-      "avatar_url": "/cdn/avatar/2025/12/23/nGp6XP_1766450753.png",
-      "last_active_at": 1789402847.0,
-      "online": false
-    },
-    {
-      "uid": 61039452,
-      "governor_id": 244895116,
-      "fid": 244895116,
-      "nick_name": "Feco",
-      "power": 102487883,
-      "town_center_level": 36,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1120,
-      "avatar_url": "/assets/icons/hero_headpic_50023.png",
-      "last_active_at": 1789407317.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/23/gx3X9r_1787500607.png",
+      "last_active_at": 1789458526.0,
       "online": false
     },
     {
@@ -75,14 +45,14 @@
       "governor_id": 394644759,
       "fid": 394644759,
       "nick_name": "Urumi2Farm",
-      "power": 12486284,
-      "town_center_level": 22,
+      "power": 16728998,
+      "town_center_level": 23,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1120,
       "avatar_url": "/assets/icons/hero_headpic_50003.png",
-      "last_active_at": 1788828647.0,
+      "last_active_at": 1789433176.0,
       "online": false
     },
     {
@@ -116,5 +86,5 @@
       "online": false
     }
   ],
-  "member_count": 6
+  "member_count": 4
 }

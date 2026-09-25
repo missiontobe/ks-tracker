@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415706.199977,
-  "age_seconds": 1,
+  "cached_at": 1790369471.8356223,
+  "age_seconds": 9,
   "alliance": {
     "aid": 111800482,
     "name": "MONARCH",
     "abbr": "SKY",
     "kid": 1109,
-    "power": 813917184,
-    "count": 22,
+    "power": 643426145,
+    "count": 21,
     "leader_name": "Fafda Jalebi",
     "leader_uid": 33460040,
     "leader_governor_id": 130087485,
@@ -25,21 +25,6 @@
     "permalink": "/1109/SKY"
   },
   "members": [
-    {
-      "uid": 40369138,
-      "governor_id": 160931822,
-      "fid": 160931822,
-      "nick_name": "TakaNoMatter",
-      "power": 171579353,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1109,
-      "avatar_url": "/cdn/avatar/2025/11/23/5A5mOx_1763915548.png",
-      "last_active_at": 1789341587.0,
-      "online": false
-    },
     {
       "uid": 40447991,
       "governor_id": 163554495,
@@ -75,14 +60,14 @@
       "governor_id": 159884581,
       "fid": 159884581,
       "nick_name": "ProLord",
-      "power": 52138698,
+      "power": 52391448,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1109,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788792665.0,
+      "last_active_at": 1789378601.0,
       "online": false
     },
     {
@@ -126,7 +111,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1109,
-      "avatar_url": "/cdn/avatar/2025/10/27/wnWPAX_1761576201.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/27/wnWPAX_1761576201.png",
       "last_active_at": 1774553880.0,
       "online": false
     },
@@ -225,14 +210,14 @@
       "governor_id": 130087485,
       "fid": 130087485,
       "nick_name": "Fafda Jalebi",
-      "power": 34222993,
+      "power": 34258093,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1109,
-      "avatar_url": "/cdn/avatar/2025/11/26/7AjPLw_1764131851.png",
-      "last_active_at": 1785258660.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/26/7AjPLw_1764131851.png",
+      "last_active_at": 1789366693.0,
       "online": false
     },
     {
@@ -276,7 +261,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1109,
-      "avatar_url": "/cdn/avatar/2026/04/30/5wvGDA_1777567035.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/30/5wvGDA_1777567035.png",
       "last_active_at": 1787110340.0,
       "online": false
     },
@@ -321,7 +306,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1109,
-      "avatar_url": "/cdn/avatar/2026/03/05/x5GGAq_1772669077.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/05/x5GGAq_1772669077.png",
       "last_active_at": 1781129300.0,
       "online": false
     },
@@ -356,5 +341,5 @@
       "online": false
     }
   ],
-  "member_count": 22
+  "member_count": 21
 }

@@ -8,53 +8,38 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415690.5804713,
-  "age_seconds": 0,
+  "cached_at": 1790369432.9807556,
+  "age_seconds": 2,
   "alliance": {
     "aid": 111700518,
     "name": "OneBigAlliance",
     "abbr": "OBA",
     "kid": 1108,
-    "power": 18929160,
-    "count": 2,
-    "leader_name": "DU M0K",
-    "leader_uid": 40575192,
-    "leader_governor_id": 160754819,
+    "power": 531331,
+    "count": 1,
+    "leader_name": "DU MOK R",
+    "leader_uid": 68434431,
+    "leader_governor_id": 276812007,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 50,
+    "power_rank": 276,
     "permalink": "/1108/OBA"
   },
   "members": [
-    {
-      "uid": 40575192,
-      "governor_id": 160754819,
-      "fid": 160754819,
-      "nick_name": "DU M0K",
-      "power": 16323989,
-      "town_center_level": 28,
-      "kills": null,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1108,
-      "avatar_url": "/cdn/avatar/2026/08/25/m7rNMn_1787666198.png",
-      "last_active_at": 1789236142.0,
-      "online": false
-    },
     {
       "uid": 68434431,
       "governor_id": 276812007,
       "fid": 276812007,
       "nick_name": "DU MOK R",
-      "power": 230975,
-      "town_center_level": 10,
+      "power": 531367,
+      "town_center_level": 16,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
       "kid": 1108,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788534753.0,
+      "last_active_at": 1789205862.0,
       "online": false
     }
   ],
-  "member_count": 2
+  "member_count": 1
 }

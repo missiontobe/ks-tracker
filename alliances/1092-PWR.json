@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414246.0369825,
-  "age_seconds": 0,
+  "cached_at": 1790368051.7666466,
+  "age_seconds": 7,
   "alliance": {
     "aid": 110100038,
     "name": "HighPower",
     "abbr": "PWR",
     "kid": 1092,
-    "power": 190167024,
-    "count": 12,
+    "power": 223296128,
+    "count": 11,
     "leader_name": "ridakt",
     "leader_uid": 39846402,
     "leader_governor_id": 159449096,
     "flag_url": "/assets/icons/capital_icon_got_3.png",
-    "power_rank": 12,
+    "power_rank": 11,
     "permalink": "/1092/PWR"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 159449096,
       "fid": 159449096,
       "nick_name": "ridakt",
-      "power": 95208393,
-      "town_center_level": 43,
+      "power": 129199927,
+      "town_center_level": 45,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1092,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789404467.0,
+      "last_active_at": 1789453405.0,
       "online": false
     },
     {
@@ -53,21 +53,6 @@
       "kid": 1092,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1787836528.0,
-      "online": false
-    },
-    {
-      "uid": 61047625,
-      "governor_id": 245419535,
-      "fid": 245419535,
-      "nick_name": "Slave",
-      "power": 1541433,
-      "town_center_level": 14,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1092,
-      "avatar_url": "/cdn/avatar/2026/07/30/OXqnmY_1785423518.png",
-      "last_active_at": 1787632338.0,
       "online": false
     },
     {
@@ -131,7 +116,7 @@
       "online": false
     },
     {
-      "uid": 39819810,
+      "uid": 39854244,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -191,7 +176,7 @@
       "online": false
     },
     {
-      "uid": 39854244,
+      "uid": 39819810,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -206,5 +191,5 @@
       "online": false
     }
   ],
-  "member_count": 12
+  "member_count": 11
 }

@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415955.3292747,
-  "age_seconds": 0,
+  "cached_at": 1790370149.1130884,
+  "age_seconds": 4,
   "alliance": {
     "aid": 112800255,
     "name": "AZADİSTAN",
     "abbr": "AZD",
     "kid": 1119,
-    "power": 328474764,
+    "power": 341146731,
     "count": 27,
     "leader_name": "艾蜜拉",
     "leader_uid": 43884036,
     "leader_governor_id": 172504699,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 12,
+    "power_rank": 13,
     "permalink": "/1119/AZD"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 162757156,
       "fid": 162757156,
       "nick_name": "艾利特",
-      "power": 145802492,
-      "town_center_level": 46,
+      "power": 152354625,
+      "town_center_level": 48,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1119,
-      "avatar_url": "/cdn/avatar/2026/07/09/M7k0P1_1783610977.png",
-      "last_active_at": 1789381333.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/09/M7k0P1_1783610977.png",
+      "last_active_at": 1789446370.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 172504699,
       "fid": 172504699,
       "nick_name": "艾蜜拉",
-      "power": 129674433,
-      "town_center_level": 42,
+      "power": 134902611,
+      "town_center_level": 44,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1119,
-      "avatar_url": "/cdn/avatar/2026/04/11/3KNwrp_1775872699.png",
-      "last_active_at": 1789381830.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/11/3KNwrp_1775872699.png",
+      "last_active_at": 1789427245.0,
       "online": false
     },
     {
@@ -191,21 +191,6 @@
       "online": false
     },
     {
-      "uid": 40786655,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1119,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
       "uid": 40818648,
       "governor_id": null,
       "fid": null,
@@ -236,7 +221,7 @@
       "online": false
     },
     {
-      "uid": 40807583,
+      "uid": 40786655,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -402,6 +387,21 @@
     },
     {
       "uid": 40792810,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1119,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 40807583,
       "governor_id": null,
       "fid": null,
       "nick_name": null,

@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418158.6188316,
+  "cached_at": 1790373122.097536,
   "age_seconds": 0,
   "alliance": {
     "aid": 118300169,
     "name": "CheckM8",
     "abbr": "TUF",
     "kid": 1174,
-    "power": 848919712,
+    "power": 848931412,
     "count": 15,
     "leader_name": "Led AFK",
     "leader_uid": 34801779,
@@ -111,7 +111,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1174,
-      "avatar_url": "/cdn/avatar/2026/03/14/P5GRkA_1773514313.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/14/P5GRkA_1773514313.png",
       "last_active_at": 1787929486.0,
       "online": false
     },
@@ -141,7 +141,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1174,
-      "avatar_url": "/cdn/avatar/2025/11/12/7WM58O_1762960927.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/12/7WM58O_1762960927.png",
       "last_active_at": 1787126090.0,
       "online": false
     },
@@ -191,21 +191,6 @@
       "online": false
     },
     {
-      "uid": 42762113,
-      "governor_id": 170144255,
-      "fid": 170144255,
-      "nick_name": "DARKFORCE",
-      "power": 46979218,
-      "town_center_level": 28,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1174,
-      "avatar_url": "/assets/icons/hero_headpic_50006.png",
-      "last_active_at": 1787813742.0,
-      "online": false
-    },
-    {
       "uid": 42734414,
       "governor_id": 168423500,
       "fid": 168423500,
@@ -236,18 +221,33 @@
       "online": false
     },
     {
+      "uid": 42762113,
+      "governor_id": 170144255,
+      "fid": 170144255,
+      "nick_name": "DARKFORCE",
+      "power": 32528003,
+      "town_center_level": 28,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1174,
+      "avatar_url": "/assets/icons/hero_headpic_50006.png",
+      "last_active_at": 1789233096.0,
+      "online": false
+    },
+    {
       "uid": 34801779,
       "governor_id": 141790241,
       "fid": 141790241,
       "nick_name": "Led AFK",
-      "power": 29223923,
+      "power": 29208323,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1174,
       "avatar_url": "/assets/icons/hero_headpic_50004.png",
-      "last_active_at": 1787929471.0,
+      "last_active_at": 1789242592.0,
       "online": false
     }
   ],

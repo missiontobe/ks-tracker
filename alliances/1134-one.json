@@ -8,38 +8,23 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416409.5234404,
+  "cached_at": 1790371048.845551,
   "age_seconds": 0,
   "alliance": {
     "aid": 114300702,
     "name": "ONEProtection",
     "abbr": "one",
     "kid": 1134,
-    "power": 351481777,
-    "count": 16,
-    "leader_name": "Mr J",
-    "leader_uid": 51757799,
-    "leader_governor_id": 208639753,
+    "power": 301683597,
+    "count": 15,
+    "leader_name": "Dima mini",
+    "leader_uid": 57714951,
+    "leader_governor_id": 233374374,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 12,
+    "power_rank": 13,
     "permalink": "/1134/one"
   },
   "members": [
-    {
-      "uid": 51757799,
-      "governor_id": 208639753,
-      "fid": 208639753,
-      "nick_name": "Mr J",
-      "power": 65114498,
-      "town_center_level": 30,
-      "kills": null,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1134,
-      "avatar_url": "/cdn/avatar/2026/03/28/w2JNxz_1774688915.png",
-      "last_active_at": 1787878500.0,
-      "online": false
-    },
     {
       "uid": 56397005,
       "governor_id": 225243698,
@@ -60,14 +45,14 @@
       "governor_id": 233374374,
       "fid": 233374374,
       "nick_name": "Dima mini",
-      "power": 41055816,
+      "power": 41987898,
       "town_center_level": 26,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
       "kid": 1134,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1786479071.0,
+      "last_active_at": 1789316298.0,
       "online": false
     },
     {
@@ -135,14 +120,14 @@
       "governor_id": 205736098,
       "fid": 205736098,
       "nick_name": "DadyLilMonster",
-      "power": 20852612,
+      "power": 20922812,
       "town_center_level": 25,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1134,
-      "avatar_url": "/cdn/avatar/2026/04/25/1EyKpm_1777101738.png",
-      "last_active_at": 1786885663.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/25/1EyKpm_1777101738.png",
+      "last_active_at": 1789262217.0,
       "online": false
     },
     {
@@ -156,7 +141,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1134,
-      "avatar_url": "/cdn/avatar/2026/03/10/WvKOMv_1773164138.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/10/WvKOMv_1773164138.png",
       "last_active_at": 1778531616.0,
       "online": false
     },
@@ -266,5 +251,5 @@
       "online": false
     }
   ],
-  "member_count": 16
+  "member_count": 15
 }

@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415935.873171,
-  "age_seconds": 0,
+  "cached_at": 1790370087.2165952,
+  "age_seconds": 4,
   "alliance": {
     "aid": 112700187,
     "name": "Getwrecked",
     "abbr": "DyN",
     "kid": 1118,
-    "power": 227450692,
+    "power": 229320472,
     "count": 27,
     "leader_name": "Dr Zyzx MD",
     "leader_uid": 98941881,
     "leader_governor_id": 397825772,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 15,
+    "power_rank": 16,
     "permalink": "/1118/DyN"
   },
   "members": [
@@ -45,14 +45,14 @@
       "governor_id": 397825772,
       "fid": 397825772,
       "nick_name": "Dr Zyzx MD",
-      "power": 611679,
-      "town_center_level": 14,
+      "power": 2581428,
+      "town_center_level": 17,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1118,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788839711.0,
+      "last_active_at": 1789450500.0,
       "online": false
     },
     {

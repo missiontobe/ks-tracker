@@ -8,7 +8,7 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419993.1450186,
+  "cached_at": 1790375386.0458093,
   "age_seconds": 0,
   "alliance": {
     "aid": 123000245,
@@ -21,7 +21,7 @@
     "leader_uid": 44401958,
     "leader_governor_id": 176887319,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 13,
+    "power_rank": 11,
     "permalink": "/1221/KAK"
   },
   "members": [
@@ -36,7 +36,7 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1221,
-      "avatar_url": "/cdn/avatar/2025/12/25/zxWq15_1766672233.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/25/zxWq15_1766672233.png",
       "last_active_at": 1783416301.0,
       "online": false
     },

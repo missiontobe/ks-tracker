@@ -8,7 +8,7 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418170.8847673,
+  "cached_at": 1790373132.4549506,
   "age_seconds": 0,
   "alliance": {
     "aid": 118300694,
@@ -21,7 +21,7 @@
     "leader_uid": 42736445,
     "leader_governor_id": 171602028,
     "flag_url": "/assets/icons/capital_icon_got_3.png",
-    "power_rank": 13,
+    "power_rank": 16,
     "permalink": "/1174/BYE"
   },
   "members": [
@@ -36,7 +36,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1174,
-      "avatar_url": "/cdn/avatar/2026/01/17/pXnrkX_1768647206.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/17/pXnrkX_1768647206.png",
       "last_active_at": 1771940550.0,
       "online": false
     },
@@ -51,7 +51,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1174,
-      "avatar_url": "/cdn/avatar/2025/12/11/jOBoLz_1765435670.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/11/jOBoLz_1765435670.png",
       "last_active_at": 1786792535.0,
       "online": false
     },
@@ -66,7 +66,7 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1174,
-      "avatar_url": "/cdn/avatar/2026/01/01/jOBrwz_1767288980.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/01/jOBrwz_1767288980.png",
       "last_active_at": 1786792301.0,
       "online": false
     },
@@ -81,7 +81,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1174,
-      "avatar_url": "/cdn/avatar/2026/01/21/yJ0gp7_1768999278.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/21/yJ0gp7_1768999278.png",
       "last_active_at": 1773154916.0,
       "online": false
     }

@@ -8,66 +8,36 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419386.7869155,
-  "age_seconds": 0,
+  "cached_at": 1790374792.2816768,
+  "age_seconds": 3,
   "alliance": {
     "aid": 121100371,
     "name": "EMP2",
     "abbr": "eMp",
     "kid": 1202,
-    "power": 794793303,
-    "count": 5,
+    "power": 185505438,
+    "count": 4,
     "leader_name": "Sataguni4",
     "leader_uid": 63165247,
     "leader_governor_id": 255545167,
     "flag_url": "/assets/icons/capital_icon_got_2.png",
-    "power_rank": 11,
+    "power_rank": 21,
     "permalink": "/1202/eMp"
   },
   "members": [
-    {
-      "uid": 43700805,
-      "governor_id": 174631754,
-      "fid": 174631754,
-      "nick_name": "Sataguni",
-      "power": 366724582,
-      "town_center_level": 55,
-      "kills": 129750565,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1202,
-      "avatar_url": "/cdn/avatar/2026/09/12/nN4Q3R_1789228377.png",
-      "last_active_at": 1789379331.0,
-      "online": false
-    },
-    {
-      "uid": 43686602,
-      "governor_id": 172354154,
-      "fid": 172354154,
-      "nick_name": "MosTaFa",
-      "power": 289651847,
-      "town_center_level": 56,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1202,
-      "avatar_url": "/cdn/avatar/2026/05/09/kOnAgX_1778304119.png",
-      "last_active_at": 1789415286.0,
-      "online": false
-    },
     {
       "uid": 43706275,
       "governor_id": 174533532,
       "fid": 174533532,
       "nick_name": "QQQ",
-      "power": 77732099,
+      "power": 85305321,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1202,
       "avatar_url": "/assets/icons/hero_headpic_50012.png",
-      "last_active_at": 1788826148.0,
+      "last_active_at": 1789442027.0,
       "online": false
     },
     {
@@ -75,14 +45,29 @@
       "governor_id": 295743451,
       "fid": 295743451,
       "nick_name": "KosLee3",
-      "power": 56765936,
+      "power": 57747858,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1202,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788803209.0,
+      "last_active_at": 1789422831.0,
+      "online": false
+    },
+    {
+      "uid": 44338479,
+      "governor_id": 178999860,
+      "fid": 178999860,
+      "nick_name": "Sataguni farm",
+      "power": 37974867,
+      "town_center_level": 29,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1202,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/16/21LQxM_1781638177.png",
+      "last_active_at": 1789356730.0,
       "online": false
     },
     {
@@ -96,10 +81,10 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1202,
-      "avatar_url": "/cdn/avatar/2026/02/14/lkBN4r_1771054980.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/14/lkBN4r_1771054980.png",
       "last_active_at": 1787096638.0,
       "online": false
     }
   ],
-  "member_count": 5
+  "member_count": 4
 }

@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414263.2813997,
+  "cached_at": 1790368107.766206,
   "age_seconds": 0,
   "alliance": {
     "aid": 110200298,
     "name": "BloodscaleLegion",
     "abbr": "BLD",
     "kid": 1093,
-    "power": 663974175,
+    "power": 681835428,
     "count": 13,
     "leader_name": "lord161071580",
     "leader_uid": 39876446,
     "leader_governor_id": 161071580,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 9,
+    "power_rank": 8,
     "permalink": "/1093/BLD"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 160759885,
       "fid": 160759885,
       "nick_name": "super cool",
-      "power": 129335676,
+      "power": 139298588,
       "town_center_level": 45,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1093,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1789361124.0,
+      "last_active_at": 1789390708.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 161661924,
       "fid": 161661924,
       "nick_name": "Rusty",
-      "power": 114034902,
+      "power": 116292055,
       "town_center_level": 40,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1093,
       "avatar_url": "/assets/icons/hero_headpic_50018.png",
-      "last_active_at": 1789300778.0,
+      "last_active_at": 1789386759.0,
       "online": false
     },
     {
@@ -60,14 +60,14 @@
       "governor_id": 161071580,
       "fid": 161071580,
       "nick_name": "lord161071580",
-      "power": 99053995,
+      "power": 102816466,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1093,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789365880.0,
+      "last_active_at": 1789442271.0,
       "online": false
     },
     {
@@ -90,14 +90,14 @@
       "governor_id": 156778380,
       "fid": 156778380,
       "nick_name": "SemperFi63",
-      "power": 64193898,
+      "power": 64985564,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1093,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788834824.0,
+      "last_active_at": 1789436563.0,
       "online": false
     },
     {
@@ -111,7 +111,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2025/10/05/P6oM11_1759700077.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/05/P6oM11_1759700077.png",
       "last_active_at": 1786073468.0,
       "online": false
     },
@@ -141,7 +141,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2025/10/06/2GmrwA_1759735343.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/06/2GmrwA_1759735343.png",
       "last_active_at": 1788514868.0,
       "online": false
     },
@@ -171,7 +171,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1093,
-      "avatar_url": "/cdn/avatar/2025/11/14/442XV6_1763120355.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/14/442XV6_1763120355.png",
       "last_active_at": 1784992999.0,
       "online": false
     },

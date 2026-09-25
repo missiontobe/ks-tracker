@@ -8,50 +8,35 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415568.3541005,
-  "age_seconds": 0,
+  "cached_at": 1790369108.903594,
+  "age_seconds": 1,
   "alliance": {
     "aid": 111300098,
     "name": "LegionOfLunatics",
     "abbr": "LOL",
     "kid": 1104,
-    "power": 576037385,
-    "count": 5,
-    "leader_name": "Rafaela",
-    "leader_uid": 40030907,
-    "leader_governor_id": 163007305,
+    "power": 289035228,
+    "count": 4,
+    "leader_name": "cariciu",
+    "leader_uid": 81090192,
+    "leader_governor_id": 324277592,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 11,
+    "power_rank": 16,
     "permalink": "/1104/LOL"
   },
   "members": [
-    {
-      "uid": 40030907,
-      "governor_id": 163007305,
-      "fid": 163007305,
-      "nick_name": "Rafaela",
-      "power": 245405989,
-      "town_center_level": 56,
-      "kills": 7562893,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1104,
-      "avatar_url": "/cdn/avatar/2026/09/12/p95GZV_1789240937.png",
-      "last_active_at": 1789341125.0,
-      "online": false
-    },
     {
       "uid": 39565879,
       "governor_id": 159067880,
       "fid": 159067880,
       "nick_name": "whup",
-      "power": 106503289,
+      "power": 77261757,
       "town_center_level": 40,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1104,
-      "avatar_url": "/cdn/avatar/2026/03/06/2Gwo3N_1772805017.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/06/2Gwo3N_1772805017.png",
       "last_active_at": 1785697971.0,
       "online": false
     },
@@ -63,8 +48,8 @@
       "power": 531143,
       "town_center_level": 16,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
       "kid": 1104,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1787918921.0,
@@ -101,5 +86,5 @@
       "online": false
     }
   ],
-  "member_count": 5
+  "member_count": 4
 }

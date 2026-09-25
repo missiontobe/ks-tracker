@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417729.2632656,
+  "cached_at": 1790372625.7265775,
   "age_seconds": 0,
   "alliance": {
     "aid": 117100089,
     "name": "HitandRun",
     "abbr": "Run",
     "kid": 1162,
-    "power": 715815012,
-    "count": 15,
+    "power": 726368986,
+    "count": 14,
     "leader_name": "NAK",
     "leader_uid": 50328764,
     "leader_governor_id": 199131088,
@@ -30,29 +30,14 @@
       "governor_id": 229499781,
       "fid": 229499781,
       "nick_name": "AgricolaDomini",
-      "power": 107545260,
+      "power": 108641512,
       "town_center_level": 35,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1162,
-      "avatar_url": "/cdn/avatar/2026/01/24/wgRqKr_1769294994.png",
-      "last_active_at": 1789087567.0,
-      "online": false
-    },
-    {
-      "uid": 42313770,
-      "governor_id": 167990946,
-      "fid": 167990946,
-      "nick_name": "Reumster",
-      "power": 93461763,
-      "town_center_level": 35,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1162,
-      "avatar_url": "/cdn/avatar/2026/01/05/P5rxrw_1767571392.png",
-      "last_active_at": 1787537835.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/24/wgRqKr_1769294994.png",
+      "last_active_at": 1789303266.0,
       "online": false
     },
     {
@@ -75,14 +60,29 @@
       "governor_id": 167876484,
       "fid": 167876484,
       "nick_name": "IornHidePrime",
-      "power": 68201692,
+      "power": 60444869,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1162,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788620515.0,
+      "last_active_at": 1789238942.0,
+      "online": false
+    },
+    {
+      "uid": 42313770,
+      "governor_id": 167990946,
+      "fid": 167990946,
+      "nick_name": "Reumster",
+      "power": 55589092,
+      "town_center_level": 35,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1162,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/05/P5rxrw_1767571392.png",
+      "last_active_at": 1787537835.0,
       "online": false
     },
     {
@@ -90,14 +90,14 @@
       "governor_id": 199131088,
       "fid": 199131088,
       "nick_name": "NAK",
-      "power": 47238206,
+      "power": 51392703,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1162,
-      "avatar_url": "/cdn/avatar/2026/03/13/JzAv79_1773367480.png",
-      "last_active_at": 1788778491.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/11/JzAv79_1789109840.png",
+      "last_active_at": 1789393682.0,
       "online": false
     },
     {
@@ -105,14 +105,29 @@
       "governor_id": 354471127,
       "fid": 354471127,
       "nick_name": "mink",
-      "power": 37591565,
+      "power": 43675078,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1162,
       "avatar_url": "/assets/icons/hero_headpic_50026.png",
-      "last_active_at": 1788829174.0,
+      "last_active_at": 1789445256.0,
+      "online": false
+    },
+    {
+      "uid": 74194075,
+      "governor_id": 297103472,
+      "fid": 297103472,
+      "nick_name": "misok",
+      "power": 39342638,
+      "town_center_level": 26,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1162,
+      "avatar_url": "/assets/icons/hero_headpic_50014.png",
+      "last_active_at": 1789444551.0,
       "online": false
     },
     {
@@ -126,23 +141,8 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1162,
-      "avatar_url": "/cdn/avatar/2026/03/30/OLp5mE_1774882146.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/30/OLp5mE_1774882146.png",
       "last_active_at": 1787038839.0,
-      "online": false
-    },
-    {
-      "uid": 74194075,
-      "governor_id": 297103472,
-      "fid": 297103472,
-      "nick_name": "misok",
-      "power": 33924142,
-      "town_center_level": 26,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1162,
-      "avatar_url": "/assets/icons/hero_headpic_50014.png",
-      "last_active_at": 1788828904.0,
       "online": false
     },
     {
@@ -173,21 +173,6 @@
       "kid": 1162,
       "avatar_url": "/assets/icons/hero_headpic_50023.png",
       "last_active_at": 1786454430.0,
-      "online": false
-    },
-    {
-      "uid": 45920849,
-      "governor_id": 183546568,
-      "fid": 183546568,
-      "nick_name": "Jusi_xx",
-      "power": 10675586,
-      "town_center_level": 23,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1162,
-      "avatar_url": "/assets/icons/hero_headpic_50021.png",
-      "last_active_at": 1787080946.0,
       "online": false
     },
     {
@@ -251,5 +236,5 @@
       "online": false
     }
   ],
-  "member_count": 15
+  "member_count": 14
 }

@@ -7,9 +7,9 @@
     "info",
     "roster"
   ],
-  "fresh": true,
+  "fresh": false,
   "cached_at": 1789418239.7581599,
-  "age_seconds": 1,
+  "age_seconds": 954945,
   "alliance": {
     "aid": 118500428,
     "name": "DarkSide",
@@ -30,14 +30,14 @@
       "governor_id": 171324704,
       "fid": 171324704,
       "nick_name": "robo33",
-      "power": 62328493,
+      "power": 63251043,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1176,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788708574.0,
+      "last_active_at": 1789224177.0,
       "online": false
     },
     {
@@ -53,21 +53,6 @@
       "kid": 1176,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1787672490.0,
-      "online": false
-    },
-    {
-      "uid": 42827577,
-      "governor_id": 171079165,
-      "fid": 171079165,
-      "nick_name": "lord171079165",
-      "power": 8217032,
-      "town_center_level": 20,
-      "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1176,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788810470.0,
       "online": false
     },
     {
@@ -161,5 +146,5 @@
       "online": false
     }
   ],
-  "member_count": 9
+  "member_count": 8
 }

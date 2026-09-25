@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414207.964098,
-  "age_seconds": 0,
+  "cached_at": 1790367992.8837821,
+  "age_seconds": 4,
   "alliance": {
     "aid": 110000021,
     "name": "Apex",
     "abbr": "APX",
     "kid": 1091,
-    "power": 1758211894,
+    "power": 1758260434,
     "count": 24,
     "leader_name": "Bossman ID:73617",
     "leader_uid": 86842774,
@@ -36,7 +36,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/03/07/3YkwL9_1772919243.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/07/3YkwL9_1772919243.png",
       "last_active_at": 1780603315.0,
       "online": false
     },
@@ -51,7 +51,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/03/17/WW5Wkg_1773748768.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/17/WW5Wkg_1773748768.png",
       "last_active_at": 1781804936.0,
       "online": false
     },
@@ -81,7 +81,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/06/11/rgPoVp_1781208001.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/11/rgPoVp_1781208001.png",
       "last_active_at": 1783020667.0,
       "online": false
     },
@@ -141,7 +141,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/01/20/GwLW8K_1768873814.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/20/GwLW8K_1768873814.png",
       "last_active_at": 1784372341.0,
       "online": false
     },
@@ -156,7 +156,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2025/10/02/YVwEnK_1759431931.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/02/YVwEnK_1759431931.png",
       "last_active_at": 1783020660.0,
       "online": false
     },
@@ -186,7 +186,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/05/10/kOPprN_1778420185.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/10/kOPprN_1778420185.png",
       "last_active_at": 1786302534.0,
       "online": false
     },
@@ -201,7 +201,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/06/16/kDBV5v_1781626448.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/16/kDBV5v_1781626448.png",
       "last_active_at": 1784526334.0,
       "online": false
     },
@@ -216,7 +216,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2025/12/20/M7P7x5_1766274778.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/20/M7P7x5_1766274778.png",
       "last_active_at": 1784371035.0,
       "online": false
     },
@@ -246,7 +246,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2025/10/28/l8JV7V_1761672034.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/28/l8JV7V_1761672034.png",
       "last_active_at": 1780603380.0,
       "online": false
     },
@@ -261,7 +261,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2025/10/03/k6kO6x_1759476079.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/03/k6kO6x_1759476079.png",
       "last_active_at": 1784370717.0,
       "online": false
     },
@@ -291,7 +291,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1091,
-      "avatar_url": "/cdn/avatar/2026/07/23/P6BLww_1784832239.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/23/P6BLww_1784832239.png",
       "last_active_at": 1785424170.0,
       "online": false
     },

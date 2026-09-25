@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415756.3222322,
-  "age_seconds": 0,
+  "cached_at": 1790369614.7711294,
+  "age_seconds": 3,
   "alliance": {
     "aid": 112000231,
     "name": "KlNGDOM",
     "abbr": "ONE",
     "kid": 1111,
-    "power": 456217349,
+    "power": 459629219,
     "count": 18,
     "leader_name": "Mafalda",
     "leader_uid": 40538837,
     "leader_governor_id": 163359304,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 8,
+    "power_rank": 7,
     "permalink": "/1111/ONE"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 163359304,
       "fid": 163359304,
       "nick_name": "Mafalda",
-      "power": 72808786,
+      "power": 74638307,
       "town_center_level": 35,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1111,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788833747.0,
+      "last_active_at": 1789448661.0,
       "online": false
     },
     {
@@ -146,7 +146,7 @@
       "online": false
     },
     {
-      "uid": 40532175,
+      "uid": 40537704,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -251,7 +251,7 @@
       "online": false
     },
     {
-      "uid": 40537704,
+      "uid": 40495734,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -266,7 +266,7 @@
       "online": false
     },
     {
-      "uid": 40495734,
+      "uid": 40532175,
       "governor_id": null,
       "fid": null,
       "nick_name": null,

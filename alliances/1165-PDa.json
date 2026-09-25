@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417804.7847707,
+  "cached_at": 1790372782.8743372,
   "age_seconds": 1,
   "alliance": {
     "aid": 117400209,
     "name": "PandaAcademy",
     "abbr": "PDa",
     "kid": 1165,
-    "power": 347615841,
+    "power": 346565079,
     "count": 13,
     "leader_name": "Gnuuen",
     "leader_uid": 44243895,
     "leader_governor_id": 180292719,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 10,
+    "power_rank": 11,
     "permalink": "/1165/PDa"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 169581804,
       "fid": 169581804,
       "nick_name": "Wesam 2003",
-      "power": 43834804,
+      "power": 43906929,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1165,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788620563.0,
+      "last_active_at": 1789381875.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 168631567,
       "fid": 168631567,
       "nick_name": "XXX",
-      "power": 26315114,
+      "power": 26964954,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1165,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788839895.0,
+      "last_active_at": 1789369647.0,
       "online": false
     },
     {

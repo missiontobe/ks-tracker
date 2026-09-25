@@ -8,53 +8,23 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417780.5322552,
-  "age_seconds": 0,
+  "cached_at": 1790372718.3906355,
+  "age_seconds": 3,
   "alliance": {
     "aid": 117300083,
     "name": "LittleSTR",
     "abbr": "str",
     "kid": 1164,
-    "power": 890848143,
-    "count": 26,
+    "power": 289913429,
+    "count": 24,
     "leader_name": "NannyCam",
     "leader_uid": 70704104,
     "leader_governor_id": 281467757,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 11,
+    "power_rank": 17,
     "permalink": "/1164/str"
   },
   "members": [
-    {
-      "uid": 42378026,
-      "governor_id": 167991950,
-      "fid": 167991950,
-      "nick_name": "Keimo",
-      "power": 320168889,
-      "town_center_level": 61,
-      "kills": 23075840,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1164,
-      "avatar_url": "/cdn/avatar/2026/02/11/P5g892_1770776772.png",
-      "last_active_at": 1789414210.0,
-      "online": false
-    },
-    {
-      "uid": 42406524,
-      "governor_id": 169532489,
-      "fid": 169532489,
-      "nick_name": "Andij",
-      "power": 280765825,
-      "town_center_level": 60,
-      "kills": 9255885,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1164,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789400372.0,
-      "online": false
-    },
     {
       "uid": 42364436,
       "governor_id": 169351609,
@@ -366,7 +336,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1164,
-      "avatar_url": "/cdn/avatar/2025/12/15/Mog9NO_1765804064.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/15/Mog9NO_1765804064.png",
       "last_active_at": 1768125898.0,
       "online": false
     },
@@ -381,7 +351,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1164,
-      "avatar_url": "/cdn/avatar/2025/11/29/DJAYkn_1764423159.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/29/DJAYkn_1764423159.png",
       "last_active_at": 1767297240.0,
       "online": false
     },
@@ -390,14 +360,14 @@
       "governor_id": 281467757,
       "fid": 281467757,
       "nick_name": "NannyCam",
-      "power": 1331269,
+      "power": 1331509,
       "town_center_level": 18,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1164,
       "avatar_url": "/assets/icons/hero_headpic_50028.png",
-      "last_active_at": 1789067370.0,
+      "last_active_at": 1789391362.0,
       "online": false
     },
     {
@@ -416,5 +386,5 @@
       "online": false
     }
   ],
-  "member_count": 26
+  "member_count": 24
 }

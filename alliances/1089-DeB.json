@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414165.0620127,
-  "age_seconds": 0,
+  "cached_at": 1790367896.8544183,
+  "age_seconds": 1,
   "alliance": {
     "aid": 109800198,
     "name": "DevilBand",
     "abbr": "DeB",
     "kid": 1089,
-    "power": 601432121,
+    "power": 602000402,
     "count": 27,
     "leader_name": "Mini K",
     "leader_uid": 49944132,
@@ -36,7 +36,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/10/02/rgGnn2_1759419997.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/02/rgGnn2_1759419997.png",
       "last_active_at": 1768511661.0,
       "online": false
     },
@@ -51,7 +51,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/10/12/R8ywnO_1760296167.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/12/R8ywnO_1760296167.png",
       "last_active_at": 1772136748.0,
       "online": false
     },
@@ -66,7 +66,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/11/09/51Bp6X_1762682327.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/11/09/51Bp6X_1762682327.png",
       "last_active_at": 1768511661.0,
       "online": false
     },
@@ -111,7 +111,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/10/01/DwOVxq_1759317436.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/01/DwOVxq_1759317436.png",
       "last_active_at": 1767123105.0,
       "online": false
     },
@@ -186,7 +186,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/09/29/wnNEPX_1759149410.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/09/29/wnNEPX_1759149410.png",
       "last_active_at": 1768510840.0,
       "online": false
     },
@@ -231,7 +231,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2026/01/29/mMmXP0_1769661932.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/29/mMmXP0_1769661932.png",
       "last_active_at": 1770924704.0,
       "online": false
     },
@@ -261,7 +261,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/10/03/rgGovk_1759469784.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/03/rgGovk_1759469784.png",
       "last_active_at": 1767469889.0,
       "online": false
     },
@@ -276,7 +276,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/10/26/l8yg7g_1761498223.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/26/l8yg7g_1761498223.png",
       "last_active_at": 1763667520.0,
       "online": false
     },
@@ -336,7 +336,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/10/03/qAEWAD_1759522205.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/03/qAEWAD_1759522205.png",
       "last_active_at": 1767123510.0,
       "online": false
     },
@@ -366,7 +366,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/10/05/P6wwOl_1759693114.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/05/P6wwOl_1759693114.png",
       "last_active_at": 1766086380.0,
       "online": false
     },
@@ -411,7 +411,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1089,
-      "avatar_url": "/cdn/avatar/2025/09/29/0AnNg5_1759184101.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/09/29/0AnNg5_1759184101.png",
       "last_active_at": 1766186035.0,
       "online": false
     },

@@ -8,36 +8,36 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416227.5709486,
+  "cached_at": 1790370695.875246,
   "age_seconds": 3,
   "alliance": {
     "aid": 113800255,
     "name": "KvK",
     "abbr": "KvK",
     "kid": 1129,
-    "power": 403499014,
-    "count": 6,
+    "power": 283817799,
+    "count": 5,
     "leader_name": "MysteriousEntity",
     "leader_uid": 68763579,
     "leader_governor_id": 276260095,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 13,
+    "power_rank": 16,
     "permalink": "/1129/KvK"
   },
   "members": [
     {
-      "uid": 44032849,
-      "governor_id": 175161231,
-      "fid": 175161231,
-      "nick_name": "Earl Tim",
-      "power": 217753724,
-      "town_center_level": 55,
+      "uid": 60616380,
+      "governor_id": 241071035,
+      "fid": 241071035,
+      "nick_name": "Mini bread",
+      "power": 102824730,
+      "town_center_level": 44,
       "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
       "kid": 1129,
-      "avatar_url": "/cdn/avatar/2026/05/12/nN3BGW_1778573830.png",
-      "last_active_at": 1789405451.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/06/3rwq6R_1788702781.png",
+      "last_active_at": 1789069511.0,
       "online": false
     },
     {
@@ -51,7 +51,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1129,
-      "avatar_url": "/cdn/avatar/2026/02/03/213vrA_1770135235.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/03/213vrA_1770135235.png",
       "last_active_at": 1789207199.0,
       "online": false
     },
@@ -60,14 +60,14 @@
       "governor_id": 283723578,
       "fid": 283723578,
       "nick_name": "LORD B",
-      "power": 46016266,
+      "power": 48617933,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1129,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789214689.0,
+      "last_active_at": 1789378292.0,
       "online": false
     },
     {
@@ -75,7 +75,7 @@
       "governor_id": 222280251,
       "fid": 222280251,
       "nick_name": "Bipbip",
-      "power": 40797207,
+      "power": 40839089,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 4,
@@ -90,7 +90,7 @@
       "governor_id": 276260095,
       "fid": 276260095,
       "nick_name": "MysteriousEntity",
-      "power": 36383228,
+      "power": 36324390,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 5,
@@ -99,22 +99,7 @@
       "avatar_url": "/assets/icons/hero_headpic_50022.png",
       "last_active_at": 1789242678.0,
       "online": false
-    },
-    {
-      "uid": 67177187,
-      "governor_id": 271025194,
-      "fid": 271025194,
-      "nick_name": "RiBit",
-      "power": 7210057,
-      "town_center_level": 22,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1129,
-      "avatar_url": "/cdn/avatar/2026/04/07/0M1nlX_1775569828.png",
-      "last_active_at": 1788900166.0,
-      "online": false
     }
   ],
-  "member_count": 6
+  "member_count": 5
 }

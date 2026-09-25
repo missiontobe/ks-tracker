@@ -8,8 +8,8 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414349.4926612,
-  "age_seconds": 0,
+  "cached_at": 1790368427.8771038,
+  "age_seconds": 4,
   "alliance": {
     "aid": 110500691,
     "name": "GoneFishing",
@@ -21,7 +21,7 @@
     "leader_uid": 48269321,
     "leader_governor_id": 195052065,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 13,
+    "power_rank": 12,
     "permalink": "/1096/GnF"
   },
   "members": [
@@ -36,7 +36,7 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1096,
-      "avatar_url": "/cdn/avatar/2025/12/05/Kmgjvr_1764907166.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/05/Kmgjvr_1764907166.png",
       "last_active_at": 1787960741.0,
       "online": false
     },

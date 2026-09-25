@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416165.943538,
-  "age_seconds": 1,
+  "cached_at": 1790370587.5561388,
+  "age_seconds": 0,
   "alliance": {
     "aid": 113600026,
     "name": "黒猫騎士団",
     "abbr": "SGR",
     "kid": 1127,
-    "power": 501134994,
+    "power": 510656659,
     "count": 20,
     "leader_name": "azul。",
     "leader_uid": 46696543,
@@ -30,14 +30,14 @@
       "governor_id": 166776527,
       "fid": 166776527,
       "nick_name": "pupu",
-      "power": 168452147,
-      "town_center_level": 49,
+      "power": 177173825,
+      "town_center_level": 50,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1127,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789407489.0,
+      "last_active_at": 1789446409.0,
       "online": false
     },
     {
@@ -51,7 +51,7 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1127,
-      "avatar_url": "/cdn/avatar/2026/03/25/0Om98V_1774437806.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/25/0Om98V_1774437806.png",
       "last_active_at": 1787971976.0,
       "online": false
     },
@@ -68,6 +68,21 @@
       "kid": 1127,
       "avatar_url": "/assets/icons/hero_headpic_50012.png",
       "last_active_at": 1785979081.0,
+      "online": false
+    },
+    {
+      "uid": 41161678,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1127,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
       "online": false
     },
     {
@@ -297,21 +312,6 @@
     },
     {
       "uid": 41540466,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1127,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 41161678,
       "governor_id": null,
       "fid": null,
       "nick_name": null,

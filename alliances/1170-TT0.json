@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "aid": 117900232,
+  "kid": 1170,
+  "tag": "TT0",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1790373044.4457767,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 117900232,
+    "name": "TT0",
+    "abbr": "TT0",
+    "kid": 1170,
+    "power": 58695920,
+    "count": 1,
+    "leader_name": "Zen Farm",
+    "leader_uid": 82705157,
+    "leader_governor_id": 329791468,
+    "flag_url": "/assets/icons/capital_icon_got_3.png",
+    "power_rank": 38,
+    "permalink": "/1170/TT0"
+  },
+  "members": [
+    {
+      "uid": 82705157,
+      "governor_id": 329791468,
+      "fid": 329791468,
+      "nick_name": "Zen Farm",
+      "power": 54225600,
+      "town_center_level": 28,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1170,
+      "avatar_url": "/assets/icons/hero_headpic_50016.png",
+      "last_active_at": 1789452651.0,
+      "online": false
+    }
+  ],
+  "member_count": 1
+}

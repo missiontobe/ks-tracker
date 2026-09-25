@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417608.5662158,
-  "age_seconds": 0,
+  "cached_at": 1790372363.7530546,
+  "age_seconds": 2,
   "alliance": {
     "aid": 116600194,
     "name": "TemuVKS",
     "abbr": "vks",
     "kid": 1157,
-    "power": 277849971,
-    "count": 15,
+    "power": 330415325,
+    "count": 16,
     "leader_name": "Temu Challenger",
     "leader_uid": 65598660,
     "leader_governor_id": 260875218,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 15,
+    "power_rank": 13,
     "permalink": "/1157/vks"
   },
   "members": [
@@ -36,8 +36,23 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1157,
-      "avatar_url": "/cdn/avatar/2026/08/10/VWB70z_1786400499.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/10/VWB70z_1786400499.png",
       "last_active_at": 1789212557.0,
+      "online": false
+    },
+    {
+      "uid": 56659401,
+      "governor_id": 228901428,
+      "fid": 228901428,
+      "nick_name": "Mini HamzZ",
+      "power": 51551185,
+      "town_center_level": 28,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1157,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789450869.0,
       "online": false
     },
     {
@@ -45,14 +60,14 @@
       "governor_id": 266355196,
       "fid": 266355196,
       "nick_name": "lariak's farm",
-      "power": 43960595,
+      "power": 44067895,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1157,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789179549.0,
+      "last_active_at": 1789358969.0,
       "online": false
     },
     {
@@ -60,14 +75,14 @@
       "governor_id": 260875218,
       "fid": 260875218,
       "nick_name": "Temu Challenger",
-      "power": 18698630,
-      "town_center_level": 25,
+      "power": 18825130,
+      "town_center_level": 26,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1157,
-      "avatar_url": "/cdn/avatar/2026/02/27/BvjLMJ_1772212571.png",
-      "last_active_at": 1789213556.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/27/BvjLMJ_1772212571.png",
+      "last_active_at": 1789292310.0,
       "online": false
     },
     {
@@ -75,14 +90,14 @@
       "governor_id": 206147582,
       "fid": 206147582,
       "nick_name": "littleTONY",
-      "power": 4517278,
+      "power": 4552898,
       "town_center_level": 18,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1157,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789208614.0,
+      "last_active_at": 1789336633.0,
       "online": false
     },
     {
@@ -251,5 +266,5 @@
       "online": false
     }
   ],
-  "member_count": 15
+  "member_count": 16
 }

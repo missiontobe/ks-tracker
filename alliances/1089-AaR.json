@@ -8,8 +8,8 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414175.0849292,
-  "age_seconds": 0,
+  "cached_at": 1790367924.2868123,
+  "age_seconds": 1,
   "alliance": {
     "aid": 109800802,
     "name": "JustUs",
@@ -21,7 +21,7 @@
     "leader_uid": 43448578,
     "leader_governor_id": 172039141,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 13,
+    "power_rank": 14,
     "permalink": "/1089/AaR"
   },
   "members": [

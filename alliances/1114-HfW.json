@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415832.110118,
-  "age_seconds": 0,
+  "cached_at": 1790369828.786153,
+  "age_seconds": 1,
   "alliance": {
     "aid": 112300097,
     "name": "チビリ",
     "abbr": "HfW",
     "kid": 1114,
-    "power": 480972657,
+    "power": 504159378,
     "count": 10,
     "leader_name": "チビリ",
     "leader_uid": 40793962,
     "leader_governor_id": 159644127,
     "flag_url": "/assets/icons/capital_icon_got_2.png",
-    "power_rank": 14,
+    "power_rank": 13,
     "permalink": "/1114/HfW"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 159644127,
       "fid": 159644127,
       "nick_name": "チビリ",
-      "power": 152650930,
+      "power": 162332638,
       "town_center_level": 50,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1114,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789376294.0,
+      "last_active_at": 1789452145.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 162625424,
       "fid": 162625424,
       "nick_name": "きんた",
-      "power": 127063696,
-      "town_center_level": 44,
+      "power": 137197031,
+      "town_center_level": 45,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1114,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789386049.0,
+      "last_active_at": 1789429775.0,
       "online": false
     },
     {
@@ -60,14 +60,14 @@
       "governor_id": 160317310,
       "fid": 160317310,
       "nick_name": "みいこ",
-      "power": 70973778,
+      "power": 71905167,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1114,
       "avatar_url": "/assets/icons/hero_headpic_50012.png",
-      "last_active_at": 1788746294.0,
+      "last_active_at": 1789312980.0,
       "online": false
     },
     {
@@ -75,14 +75,14 @@
       "governor_id": 164218417,
       "fid": 164218417,
       "nick_name": "アナクロニスト",
-      "power": 60578337,
+      "power": 61582210,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1114,
       "avatar_url": "/assets/icons/hero_headpic_50012.png",
-      "last_active_at": 1788822378.0,
+      "last_active_at": 1789392797.0,
       "online": false
     },
     {
@@ -101,6 +101,21 @@
       "online": false
     },
     {
+      "uid": 40832081,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1114,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
       "uid": 40907134,
       "governor_id": null,
       "fid": null,
@@ -116,22 +131,7 @@
       "online": false
     },
     {
-      "uid": 40746130,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1114,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 40832081,
+      "uid": 41031749,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -161,7 +161,7 @@
       "online": false
     },
     {
-      "uid": 41031749,
+      "uid": 40746130,
       "governor_id": null,
       "fid": null,
       "nick_name": null,

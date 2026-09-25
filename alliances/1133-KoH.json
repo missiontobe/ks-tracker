@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416366.8673007,
-  "age_seconds": 0,
+  "cached_at": 1790370954.9516804,
+  "age_seconds": 1,
   "alliance": {
     "aid": 114200122,
     "name": "KingsofHonor",
     "abbr": "KoH",
     "kid": 1133,
-    "power": 1118588357,
+    "power": 1118326768,
     "count": 64,
     "leader_name": "Lord stark",
     "leader_uid": 41279988,
@@ -36,7 +36,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1133,
-      "avatar_url": "/cdn/avatar/2025/10/25/E6OW50_1761429157.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/25/E6OW50_1761429157.png",
       "last_active_at": 1782917379.0,
       "online": false
     },
@@ -396,7 +396,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1133,
-      "avatar_url": "/cdn/avatar/2025/10/17/GQnKA7_1760668122.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/17/GQnKA7_1760668122.png",
       "last_active_at": 1776799266.0,
       "online": false
     },
@@ -411,7 +411,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1133,
-      "avatar_url": "/cdn/avatar/2025/10/29/v9qOmn_1761728313.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/29/v9qOmn_1761728313.png",
       "last_active_at": 1767233286.0,
       "online": false
     },
@@ -426,7 +426,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1133,
-      "avatar_url": "/cdn/avatar/2025/10/11/mMRA8r_1760184134.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/11/mMRA8r_1760184134.png",
       "last_active_at": 1768350349.0,
       "online": false
     },
@@ -456,7 +456,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1133,
-      "avatar_url": "/cdn/avatar/2025/12/23/gQY3kr_1766454374.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/23/gQY3kr_1766454374.png",
       "last_active_at": 1769855522.0,
       "online": false
     },
@@ -486,7 +486,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1133,
-      "avatar_url": "/cdn/avatar/2025/12/24/K5XANG_1766540595.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/24/K5XANG_1766540595.png",
       "last_active_at": 1769885437.0,
       "online": false
     },
@@ -527,7 +527,7 @@
       "nick_name": "JOHNN",
       "power": 15722333,
       "town_center_level": 26,
-      "kills": null,
+      "kills": 1046535,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1133,
@@ -636,7 +636,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1133,
-      "avatar_url": "/cdn/avatar/2025/12/21/22Lxxz_1766323649.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/21/22Lxxz_1766323649.png",
       "last_active_at": 1768552380.0,
       "online": false
     },
@@ -786,7 +786,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1133,
-      "avatar_url": "/cdn/avatar/2025/10/08/rMZ4MB_1759928112.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/08/rMZ4MB_1759928112.png",
       "last_active_at": 1767231996.0,
       "online": false
     },
@@ -831,7 +831,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1133,
-      "avatar_url": "/cdn/avatar/2026/06/22/WjOV6o_1782162336.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/22/WjOV6o_1782162336.png",
       "last_active_at": 1782164308.0,
       "online": false
     },

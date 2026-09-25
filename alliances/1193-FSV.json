@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419205.2409136,
-  "age_seconds": 0,
+  "cached_at": 1790373847.344096,
+  "age_seconds": 6,
   "alliance": {
     "aid": 120200320,
     "name": "Freundestürmenvo",
     "abbr": "FSV",
     "kid": 1193,
-    "power": 368533294,
-    "count": 20,
+    "power": 389945753,
+    "count": 21,
     "leader_name": "Husky",
     "leader_uid": 43424637,
     "leader_governor_id": 175823469,
@@ -30,14 +30,14 @@
       "governor_id": 175823469,
       "fid": 175823469,
       "nick_name": "Husky",
-      "power": 77020501,
-      "town_center_level": 36,
+      "power": 82021407,
+      "town_center_level": 38,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1193,
       "avatar_url": "/assets/icons/hero_headpic_50006.png",
-      "last_active_at": 1789246815.0,
+      "last_active_at": 1789448789.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 252774298,
       "fid": 252774298,
       "nick_name": "Tja911",
-      "power": 75796370,
-      "town_center_level": 28,
+      "power": 77587276,
+      "town_center_level": 29,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1193,
       "avatar_url": "/assets/icons/hero_headpic_50003.png",
-      "last_active_at": 1789242468.0,
+      "last_active_at": 1789447265.0,
       "online": false
     },
     {
@@ -60,7 +60,7 @@
       "governor_id": 173283925,
       "fid": 173283925,
       "nick_name": "Overlord Jens",
-      "power": 53692931,
+      "power": 58196835,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 4,
@@ -71,30 +71,15 @@
       "online": false
     },
     {
-      "uid": 43411598,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
+      "uid": 43403856,
+      "governor_id": 173054248,
+      "fid": 173054248,
+      "nick_name": "lord173054248",
+      "power": 245789,
+      "town_center_level": 7,
       "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1193,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 43405030,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
       "kid": 1193,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,
@@ -191,7 +176,7 @@
       "online": false
     },
     {
-      "uid": 43403837,
+      "uid": 43395009,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -296,6 +281,21 @@
       "online": false
     },
     {
+      "uid": 43403837,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1193,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
       "uid": 43411008,
       "governor_id": null,
       "fid": null,
@@ -311,7 +311,22 @@
       "online": false
     },
     {
-      "uid": 43395009,
+      "uid": 43411598,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 2,
+      "alliance_rank_label": "R2",
+      "kid": 1193,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
+      "online": false
+    },
+    {
+      "uid": 43405030,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -326,5 +341,5 @@
       "online": false
     }
   ],
-  "member_count": 20
+  "member_count": 21
 }

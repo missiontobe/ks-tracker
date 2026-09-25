@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418343.3127491,
-  "age_seconds": 1,
+  "cached_at": 1790373294.430641,
+  "age_seconds": 0,
   "alliance": {
     "aid": 118900256,
     "name": "GreenScoutsWings",
     "abbr": "Elf",
     "kid": 1180,
-    "power": 479439976,
-    "count": 90,
+    "power": 496773438,
+    "count": 92,
     "leader_name": "molmy",
     "leader_uid": 42947307,
     "leader_governor_id": 170392904,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 15,
+    "power_rank": 13,
     "permalink": "/1180/Elf"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 170392904,
       "fid": 170392904,
       "nick_name": "molmy",
-      "power": 116167927,
+      "power": 125127647,
       "town_center_level": 50,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1180,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789375236.0,
+      "last_active_at": 1789461482.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 170573006,
       "fid": 170573006,
       "nick_name": "fox007",
-      "power": 66150345,
+      "power": 66860668,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1180,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789028325.0,
+      "last_active_at": 1789427634.0,
       "online": false
     },
     {
@@ -75,14 +75,14 @@
       "governor_id": 171129969,
       "fid": 171129969,
       "nick_name": "KIKI",
-      "power": 35329945,
+      "power": 36098460,
       "town_center_level": 26,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1180,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788871889.0,
+      "last_active_at": 1789427574.0,
       "online": false
     },
     {
@@ -186,7 +186,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1180,
-      "avatar_url": "/cdn/avatar/2025/10/18/pXqk1y_1760800921.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/18/pXqk1y_1760800921.png",
       "last_active_at": 1777929715.0,
       "online": false
     },
@@ -261,7 +261,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1180,
-      "avatar_url": "/cdn/avatar/2026/06/18/Q5q345_1781742464.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/06/18/Q5q345_1781742464.png",
       "last_active_at": 1783152517.0,
       "online": false
     },
@@ -366,7 +366,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1180,
-      "avatar_url": "/cdn/avatar/2025/10/21/zxE6mq_1761058220.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/21/zxE6mq_1761058220.png",
       "last_active_at": 1775891997.0,
       "online": false
     },
@@ -906,7 +906,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1180,
-      "avatar_url": "/cdn/avatar/2025/10/26/O5oOnY_1761455068.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/26/O5oOnY_1761455068.png",
       "last_active_at": 1761510480.0,
       "online": false
     },
@@ -932,7 +932,7 @@
       "nick_name": "piper",
       "power": 548244,
       "town_center_level": 7,
-      "kills": null,
+      "kills": 1760768362,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1180,
@@ -953,6 +953,21 @@
       "kid": 1180,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1783570203.0,
+      "online": false
+    },
+    {
+      "uid": 102376461,
+      "governor_id": 409495697,
+      "fid": 409495697,
+      "nick_name": "Gooseberry 46",
+      "power": 527506,
+      "town_center_level": 10,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1180,
+      "avatar_url": "/assets/icons/hero_headpic_50006.png",
+      "last_active_at": 1789246149.0,
       "online": false
     },
     {
@@ -1206,7 +1221,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1180,
-      "avatar_url": "/cdn/avatar/2025/10/18/kOlD3X_1760776457.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/18/kOlD3X_1760776457.png",
       "last_active_at": 1760838424.0,
       "online": false
     },
@@ -1223,6 +1238,21 @@
       "kid": 1180,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1760838533.0,
+      "online": false
+    },
+    {
+      "uid": 42924917,
+      "governor_id": 171621358,
+      "fid": 171621358,
+      "nick_name": "lord171621358",
+      "power": 253889,
+      "town_center_level": 8,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1180,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789429186.0,
       "online": false
     },
     {
@@ -1253,6 +1283,21 @@
       "kid": 1180,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1769427418.0,
+      "online": false
+    },
+    {
+      "uid": 42899596,
+      "governor_id": 168589920,
+      "fid": 168589920,
+      "nick_name": "lord168589920",
+      "power": 234634,
+      "town_center_level": 9,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1180,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789451387.0,
       "online": false
     },
     {
@@ -1346,22 +1391,7 @@
       "online": false
     },
     {
-      "uid": 42924917,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1180,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 102376461,
+      "uid": 42937952,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -1376,5 +1406,5 @@
       "online": false
     }
   ],
-  "member_count": 90
+  "member_count": 92
 }

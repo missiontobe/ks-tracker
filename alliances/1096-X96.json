@@ -8,81 +8,36 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414335.0301805,
-  "age_seconds": 0,
+  "cached_at": 1790368365.5268779,
+  "age_seconds": 4,
   "alliance": {
     "aid": 110500193,
     "name": "DisneyLand",
     "abbr": "X96",
     "kid": 1096,
-    "power": 871518894,
-    "count": 7,
+    "power": 192748090,
+    "count": 4,
     "leader_name": "Tushar's Farm 3",
     "leader_uid": 72593197,
     "leader_governor_id": 292179647,
     "flag_url": "/assets/icons/capital_icon_got_6.png",
-    "power_rank": 7,
+    "power_rank": 13,
     "permalink": "/1096/X96"
   },
   "members": [
-    {
-      "uid": 40124006,
-      "governor_id": 160141562,
-      "fid": 160141562,
-      "nick_name": "ɮʀօӄɛ օաʟ",
-      "power": 291546311,
-      "town_center_level": 60,
-      "kills": 36050173,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1096,
-      "avatar_url": "/cdn/avatar/2026/09/05/oA12vA_1788584588.png",
-      "last_active_at": 1789374741.0,
-      "online": false
-    },
-    {
-      "uid": 39990329,
-      "governor_id": 162678995,
-      "fid": 162678995,
-      "nick_name": "Beto98",
-      "power": 214947010,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1096,
-      "avatar_url": "/cdn/avatar/2026/09/12/VJMkQv_1789233604.png",
-      "last_active_at": 1789398223.0,
-      "online": false
-    },
-    {
-      "uid": 39984657,
-      "governor_id": 162531450,
-      "fid": 162531450,
-      "nick_name": "AxLean",
-      "power": 171863936,
-      "town_center_level": 55,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1096,
-      "avatar_url": "/cdn/avatar/2026/08/18/ypgzp6_1787012712.png",
-      "last_active_at": 1789395770.0,
-      "online": false
-    },
     {
       "uid": 72588730,
       "governor_id": 290934390,
       "fid": 290934390,
       "nick_name": "Tushar's Farm 2",
-      "power": 68198860,
+      "power": 68598898,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1096,
-      "avatar_url": "/cdn/avatar/2026/07/02/WzKQqx_1783021189.png",
-      "last_active_at": 1788806887.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/02/WzKQqx_1783021189.png",
+      "last_active_at": 1789443572.0,
       "online": false
     },
     {
@@ -90,14 +45,14 @@
       "governor_id": 292179647,
       "fid": 292179647,
       "nick_name": "Tushar's Farm 3",
-      "power": 67887801,
+      "power": 68245562,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1096,
-      "avatar_url": "/cdn/avatar/2026/07/02/rNqY6p_1783020950.png",
-      "last_active_at": 1788807131.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/02/rNqY6p_1783020950.png",
+      "last_active_at": 1789408511.0,
       "online": false
     },
     {
@@ -105,14 +60,14 @@
       "governor_id": 160417771,
       "fid": 160417771,
       "nick_name": "Terrortom",
-      "power": 36635713,
+      "power": 36748063,
       "town_center_level": 32,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1096,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788796604.0,
+      "last_active_at": 1789306561.0,
       "online": false
     },
     {
@@ -131,5 +86,5 @@
       "online": false
     }
   ],
-  "member_count": 7
+  "member_count": 4
 }

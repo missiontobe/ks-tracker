@@ -8,8 +8,8 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416404.0205765,
-  "age_seconds": 0,
+  "cached_at": 1790371030.9976118,
+  "age_seconds": 1,
   "alliance": {
     "aid": 114300016,
     "name": "BatShitLoco",
@@ -36,7 +36,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1134,
-      "avatar_url": "/cdn/avatar/2026/02/17/K5rB3J_1771338570.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/17/K5rB3J_1771338570.png",
       "last_active_at": 1776281086.0,
       "online": false
     },
@@ -66,7 +66,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1134,
-      "avatar_url": "/cdn/avatar/2025/10/11/J769kK_1760153880.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/11/J769kK_1760153880.png",
       "last_active_at": 1775787450.0,
       "online": false
     },
@@ -81,7 +81,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1134,
-      "avatar_url": "/cdn/avatar/2026/01/06/9Lrr63_1767660411.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/06/9Lrr63_1767660411.png",
       "last_active_at": 1777159538.0,
       "online": false
     },
@@ -111,7 +111,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1134,
-      "avatar_url": "/cdn/avatar/2026/02/18/x7kl4l_1771389439.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/18/x7kl4l_1771389439.png",
       "last_active_at": 1775777558.0,
       "online": false
     },
@@ -156,7 +156,7 @@
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1134,
-      "avatar_url": "/cdn/avatar/2026/05/24/7YVvmy_1779666638.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/05/24/7YVvmy_1779666638.png",
       "last_active_at": 1785606304.0,
       "online": false
     },
@@ -171,7 +171,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1134,
-      "avatar_url": "/cdn/avatar/2026/03/12/PrAKJ4_1773294153.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/12/PrAKJ4_1773294153.png",
       "last_active_at": 1780673782.0,
       "online": false
     }

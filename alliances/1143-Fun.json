@@ -8,14 +8,14 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417265.115411,
-  "age_seconds": 0,
+  "cached_at": 1790371605.099956,
+  "age_seconds": 4,
   "alliance": {
     "aid": 115200197,
     "name": "SilverSwordSquad",
     "abbr": "Fun",
     "kid": 1143,
-    "power": 496696781,
+    "power": 449354727,
     "count": 27,
     "leader_name": "MIKE 78",
     "leader_uid": 41646957,
@@ -30,7 +30,7 @@
       "governor_id": 166391279,
       "fid": 166391279,
       "nick_name": "MIKE 78",
-      "power": 82216190,
+      "power": 44302298,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 5,
@@ -38,21 +38,6 @@
       "kid": 1143,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1788913974.0,
-      "online": false
-    },
-    {
-      "uid": 41631378,
-      "governor_id": 164965627,
-      "fid": 164965627,
-      "nick_name": "lord164965627",
-      "power": 21062295,
-      "town_center_level": 28,
-      "kills": null,
-      "alliance_rank": 3,
-      "alliance_rank_label": "R3",
-      "kid": 1143,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788958198.0,
       "online": false
     },
     {
@@ -66,8 +51,38 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1143,
-      "avatar_url": "/cdn/avatar/2025/10/18/GQvpLK_1760825530.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/18/GQvpLK_1760825530.png",
       "last_active_at": 1787359613.0,
+      "online": false
+    },
+    {
+      "uid": 41631378,
+      "governor_id": 164965627,
+      "fid": 164965627,
+      "nick_name": "lord164965627",
+      "power": 12273524,
+      "town_center_level": 28,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1143,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789430736.0,
+      "online": false
+    },
+    {
+      "uid": 41645464,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1143,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
       "online": false
     },
     {
@@ -221,7 +236,7 @@
       "online": false
     },
     {
-      "uid": 41617891,
+      "uid": 41630025,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -401,7 +416,7 @@
       "online": false
     },
     {
-      "uid": 41630025,
+      "uid": 41617891,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -410,21 +425,6 @@
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
-      "kid": 1143,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
-      "uid": 41645464,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
       "kid": 1143,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": null,

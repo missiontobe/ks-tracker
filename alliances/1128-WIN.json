@@ -8,51 +8,36 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416191.6392646,
-  "age_seconds": 1,
+  "cached_at": 1790370634.2317405,
+  "age_seconds": 4,
   "alliance": {
     "aid": 113700135,
     "name": "Brawl",
     "abbr": "WIN",
     "kid": 1128,
-    "power": 667001813,
-    "count": 4,
+    "power": 164098390,
+    "count": 3,
     "leader_name": "Zon",
     "leader_uid": 66648916,
     "leader_governor_id": 265855983,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 17,
+    "power_rank": 28,
     "permalink": "/1128/WIN"
   },
   "members": [
     {
-      "uid": 38103281,
-      "governor_id": 154572192,
-      "fid": 154572192,
-      "nick_name": "Zonix Fury",
-      "power": 403093276,
-      "town_center_level": 56,
-      "kills": 215500430,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1128,
-      "avatar_url": "/cdn/avatar/2026/08/16/4WLVD0_1786888692.png",
-      "last_active_at": 1789405468.0,
-      "online": false
-    },
-    {
-      "uid": 38131601,
-      "governor_id": 154408799,
-      "fid": 154408799,
-      "nick_name": "GainZilla",
-      "power": 252493655,
-      "town_center_level": 55,
+      "uid": 38102030,
+      "governor_id": 151606673,
+      "fid": 151606673,
+      "nick_name": "MiniWazir",
+      "power": 152591398,
+      "town_center_level": 45,
       "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
       "kid": 1128,
-      "avatar_url": "/cdn/avatar/2026/08/10/jA8mq5_1786340814.png",
-      "last_active_at": 1789409269.0,
+      "avatar_url": "/assets/icons/hero_headpic_50011.png",
+      "last_active_at": null,
       "online": false
     },
     {
@@ -60,13 +45,13 @@
       "governor_id": 261357174,
       "fid": 261357174,
       "nick_name": "ZILLO",
-      "power": 11343900,
+      "power": 11345250,
       "town_center_level": 24,
       "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
       "kid": 1128,
-      "avatar_url": "/cdn/avatar/2026/08/21/LGOY6X_1787344882.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/21/LGOY6X_1787344882.png",
       "last_active_at": 1787350686.0,
       "online": false
     },
@@ -86,5 +71,5 @@
       "online": false
     }
   ],
-  "member_count": 4
+  "member_count": 3
 }

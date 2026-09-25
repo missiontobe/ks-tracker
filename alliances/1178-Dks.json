@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418294.6667912,
+  "cached_at": 1790373242.1491032,
   "age_seconds": 0,
   "alliance": {
     "aid": 118700020,
     "name": "どうかしちゃってる",
     "abbr": "Dks",
     "kid": 1178,
-    "power": 679174597,
-    "count": 27,
+    "power": 573137218,
+    "count": 25,
     "leader_name": "ふるふる",
     "leader_uid": 43008803,
     "leader_governor_id": 174260493,
@@ -30,14 +30,14 @@
       "governor_id": 174260493,
       "fid": 174260493,
       "nick_name": "ふるふる",
-      "power": 43369622,
+      "power": 43474222,
       "town_center_level": 28,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1178,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788837508.0,
+      "last_active_at": 1789423293.0,
       "online": false
     },
     {
@@ -51,7 +51,7 @@
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1178,
-      "avatar_url": "/cdn/avatar/2025/12/07/y77ZQn_1765105345.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/07/y77ZQn_1765105345.png",
       "last_active_at": 1786330360.0,
       "online": false
     },
@@ -281,21 +281,6 @@
       "online": false
     },
     {
-      "uid": 42924122,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1178,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
       "uid": 42934622,
       "governor_id": null,
       "fid": null,
@@ -356,21 +341,6 @@
       "online": false
     },
     {
-      "uid": 43669016,
-      "governor_id": null,
-      "fid": null,
-      "nick_name": null,
-      "power": null,
-      "town_center_level": null,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1178,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": null,
-      "online": false
-    },
-    {
       "uid": 43083335,
       "governor_id": null,
       "fid": null,
@@ -401,7 +371,7 @@
       "online": false
     },
     {
-      "uid": 45108968,
+      "uid": 42924122,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -431,5 +401,5 @@
       "online": false
     }
   ],
-  "member_count": 27
+  "member_count": 25
 }

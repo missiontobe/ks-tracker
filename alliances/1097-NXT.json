@@ -1,0 +1,75 @@
+{
+  "ok": true,
+  "aid": 110600034,
+  "kid": 1097,
+  "tag": "NXT",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1790368473.0531893,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 110600034,
+    "name": "Next1097",
+    "abbr": "NXT",
+    "kid": 1097,
+    "power": 417983350,
+    "count": 3,
+    "leader_name": "Leo XIII",
+    "leader_uid": 48944673,
+    "leader_governor_id": 195177304,
+    "flag_url": "/assets/icons/capital_icon_got_6.png",
+    "power_rank": 10,
+    "permalink": "/1097/NXT"
+  },
+  "members": [
+    {
+      "uid": 39990044,
+      "governor_id": 160975052,
+      "fid": 160975052,
+      "nick_name": "BoyoNo5",
+      "power": 241880109,
+      "town_center_level": 55,
+      "kills": null,
+      "alliance_rank": 3,
+      "alliance_rank_label": "R3",
+      "kid": 1097,
+      "avatar_url": "/assets/icons/hero_headpic_50017.png",
+      "last_active_at": 1789452212.0,
+      "online": false
+    },
+    {
+      "uid": 48944673,
+      "governor_id": 195177304,
+      "fid": 195177304,
+      "nick_name": "Leo XIII",
+      "power": 134648604,
+      "town_center_level": 54,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1097,
+      "avatar_url": "/assets/icons/hero_headpic_50000.png",
+      "last_active_at": 1789453451.0,
+      "online": false
+    },
+    {
+      "uid": 71053803,
+      "governor_id": 283635908,
+      "fid": 283635908,
+      "nick_name": "Alsephina4",
+      "power": 41124937,
+      "town_center_level": 28,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1097,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789235534.0,
+      "online": false
+    }
+  ],
+  "member_count": 3
+}

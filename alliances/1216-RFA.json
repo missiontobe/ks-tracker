@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419884.95925,
+  "cached_at": 1790375265.7005928,
   "age_seconds": 0,
   "alliance": {
     "aid": 122500309,
     "name": "RealFighters",
     "abbr": "RFA",
     "kid": 1216,
-    "power": 1414713673,
-    "count": 23,
-    "leader_name": "Saze1871",
-    "leader_uid": 44263391,
-    "leader_governor_id": 180211101,
+    "power": 1297311560,
+    "count": 22,
+    "leader_name": "RigoGal",
+    "leader_uid": 44212261,
+    "leader_governor_id": 178915969,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 6,
+    "power_rank": 7,
     "permalink": "/1216/RFA"
   },
   "members": [
@@ -33,26 +33,11 @@
       "power": 130919901,
       "town_center_level": 50,
       "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1216,
-      "avatar_url": "/assets/icons/hero_headpic_50027.png",
-      "last_active_at": 1782851699.0,
-      "online": false
-    },
-    {
-      "uid": 44263391,
-      "governor_id": 180211101,
-      "fid": 180211101,
-      "nick_name": "Saze1871",
-      "power": 120243234,
-      "town_center_level": 50,
-      "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1216,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789380503.0,
+      "avatar_url": "/assets/icons/hero_headpic_50027.png",
+      "last_active_at": 1782851699.0,
       "online": false
     },
     {
@@ -81,7 +66,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1216,
-      "avatar_url": "/cdn/avatar/2026/02/28/A93NLp_1772287794.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/02/28/A93NLp_1772287794.png",
       "last_active_at": 1782478433.0,
       "online": false
     },
@@ -231,8 +216,23 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1216,
-      "avatar_url": "/cdn/avatar/2026/01/13/rMA7l2_1768290483.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/01/13/rMA7l2_1768290483.png",
       "last_active_at": 1781952923.0,
+      "online": false
+    },
+    {
+      "uid": 58010828,
+      "governor_id": 231527600,
+      "fid": 231527600,
+      "nick_name": "Saze1872",
+      "power": 50557743,
+      "town_center_level": 29,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1216,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789305406.0,
       "online": false
     },
     {
@@ -251,21 +251,6 @@
       "online": false
     },
     {
-      "uid": 58010828,
-      "governor_id": 231527600,
-      "fid": 231527600,
-      "nick_name": "Saze1872",
-      "power": 44189550,
-      "town_center_level": 29,
-      "kills": null,
-      "alliance_rank": 4,
-      "alliance_rank_label": "R4",
-      "kid": 1216,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788744764.0,
-      "online": false
-    },
-    {
       "uid": 44210335,
       "governor_id": 180177507,
       "fid": 180177507,
@@ -276,7 +261,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1216,
-      "avatar_url": "/cdn/avatar/2025/12/09/21Vz3J_1765280895.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/12/09/21Vz3J_1765280895.png",
       "last_active_at": 1785458417.0,
       "online": false
     },
@@ -300,14 +285,14 @@
       "governor_id": 177769198,
       "fid": 177769198,
       "nick_name": "Gaelle",
-      "power": 31574253,
+      "power": 32105079,
       "town_center_level": 27,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1216,
       "avatar_url": "/assets/icons/lord_woman_pic_02.png",
-      "last_active_at": 1788661206.0,
+      "last_active_at": 1789451160.0,
       "online": false
     },
     {
@@ -336,7 +321,7 @@
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1216,
-      "avatar_url": "/cdn/avatar/2026/04/13/77okmj_1776088468.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/04/13/77okmj_1776088468.png",
       "last_active_at": 1785462633.0,
       "online": false
     },
@@ -371,5 +356,5 @@
       "online": false
     }
   ],
-  "member_count": 23
+  "member_count": 22
 }

@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "aid": 119000641,
+  "kid": 1181,
+  "tag": "THE",
+  "include": [
+    "info",
+    "roster"
+  ],
+  "fresh": true,
+  "cached_at": 1790373322.6005306,
+  "age_seconds": 0,
+  "alliance": {
+    "aid": 119000641,
+    "name": "EndTimes",
+    "abbr": "THE",
+    "kid": 1181,
+    "power": 98682374,
+    "count": 1,
+    "leader_name": "Tiny Octo",
+    "leader_uid": 74992214,
+    "leader_governor_id": 299475243,
+    "flag_url": "/assets/icons/capital_icon_got_5.png",
+    "power_rank": 28,
+    "permalink": "/1181/THE"
+  },
+  "members": [
+    {
+      "uid": 74992214,
+      "governor_id": 299475243,
+      "fid": 299475243,
+      "nick_name": "Tiny Octo",
+      "power": 98511825,
+      "town_center_level": 30,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1181,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789433425.0,
+      "online": false
+    }
+  ],
+  "member_count": 1
+}

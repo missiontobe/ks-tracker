@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789416383.751042,
-  "age_seconds": 0,
+  "cached_at": 1790371000.5226512,
+  "age_seconds": 2,
   "alliance": {
     "aid": 114200117,
     "name": "JAF",
     "abbr": "JAF",
     "kid": 1133,
-    "power": 315135679,
+    "power": 315278113,
     "count": 15,
     "leader_name": "nar",
     "leader_uid": 41297341,
     "leader_governor_id": 167663767,
     "flag_url": "/assets/icons/capital_icon_got_5.png",
-    "power_rank": 15,
+    "power_rank": 16,
     "permalink": "/1133/JAF"
   },
   "members": [

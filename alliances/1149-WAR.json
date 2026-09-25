@@ -8,38 +8,23 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789417406.101117,
-  "age_seconds": 0,
+  "cached_at": 1790371918.5042384,
+  "age_seconds": 9,
   "alliance": {
     "aid": 115800005,
     "name": "AllForOne",
     "abbr": "WAR",
     "kid": 1149,
-    "power": 846238326,
-    "count": 12,
-    "leader_name": "L I L K ɪ M M ɪ",
-    "leader_uid": 46393659,
-    "leader_governor_id": 187912101,
+    "power": 818624146,
+    "count": 13,
+    "leader_name": "BeenNudging",
+    "leader_uid": 92428455,
+    "leader_governor_id": 372181345,
     "flag_url": "/assets/icons/capital_icon_got_3.png",
     "power_rank": 9,
     "permalink": "/1149/WAR"
   },
   "members": [
-    {
-      "uid": 46393659,
-      "governor_id": 187912101,
-      "fid": 187912101,
-      "nick_name": "L I L K ɪ M M ɪ",
-      "power": 123996514,
-      "town_center_level": 50,
-      "kills": null,
-      "alliance_rank": 5,
-      "alliance_rank_label": "Leader",
-      "kid": 1149,
-      "avatar_url": "/cdn/avatar/2026/05/14/AAXzkO_1778721496.png",
-      "last_active_at": 1789354308.0,
-      "online": false
-    },
     {
       "uid": 42468301,
       "governor_id": 170713102,
@@ -51,23 +36,8 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1149,
-      "avatar_url": "/cdn/avatar/2025/10/16/jO69Z4_1760601009.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/16/jO69Z4_1760601009.png",
       "last_active_at": 1789378069.0,
-      "online": false
-    },
-    {
-      "uid": 41882376,
-      "governor_id": 163609677,
-      "fid": 163609677,
-      "nick_name": "Fgy",
-      "power": 70249788,
-      "town_center_level": 42,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1149,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1786790780.0,
       "online": false
     },
     {
@@ -75,14 +45,59 @@
       "governor_id": 164723529,
       "fid": 164723529,
       "nick_name": "lhosein",
-      "power": 65229724,
-      "town_center_level": 41,
+      "power": 89424605,
+      "town_center_level": 42,
       "kills": null,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1149,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789252225.0,
+      "last_active_at": 1789425156.0,
+      "online": false
+    },
+    {
+      "uid": 65113735,
+      "governor_id": 262997563,
+      "fid": 262997563,
+      "nick_name": "Mini Kimmi",
+      "power": 77401736,
+      "town_center_level": 40,
+      "kills": null,
+      "alliance_rank": 4,
+      "alliance_rank_label": "R4",
+      "kid": 1149,
+      "avatar_url": "/assets/icons/hero_headpic_50028.png",
+      "last_active_at": 1789440299.0,
+      "online": false
+    },
+    {
+      "uid": 41882376,
+      "governor_id": 163609677,
+      "fid": 163609677,
+      "nick_name": "Fgy",
+      "power": 62947126,
+      "town_center_level": 42,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1149,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": 1789247224.0,
+      "online": false
+    },
+    {
+      "uid": 92428455,
+      "governor_id": 372181345,
+      "fid": 372181345,
+      "nick_name": "BeenNudging",
+      "power": 6290702,
+      "town_center_level": 20,
+      "kills": null,
+      "alliance_rank": 5,
+      "alliance_rank_label": "Leader",
+      "kid": 1149,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/30/wq4pY1_1785451547.png",
+      "last_active_at": 1789441309.0,
       "online": false
     },
     {
@@ -131,7 +146,7 @@
       "online": false
     },
     {
-      "uid": 41883750,
+      "uid": 41849442,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -191,7 +206,7 @@
       "online": false
     },
     {
-      "uid": 41849442,
+      "uid": 41883750,
       "governor_id": null,
       "fid": null,
       "nick_name": null,
@@ -206,5 +221,5 @@
       "online": false
     }
   ],
-  "member_count": 12
+  "member_count": 13
 }

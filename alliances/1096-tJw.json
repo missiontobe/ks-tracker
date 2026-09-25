@@ -8,20 +8,20 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789414350.7252648,
-  "age_seconds": 2,
+  "cached_at": 1790368443.717015,
+  "age_seconds": 6,
   "alliance": {
     "aid": 110500001,
     "name": "makeafortune",
     "abbr": "tJw",
     "kid": 1096,
-    "power": 187271912,
+    "power": 187972013,
     "count": 57,
     "leader_name": "jacky",
     "leader_uid": 39999902,
     "leader_governor_id": 161302887,
     "flag_url": "/assets/icons/capital_icon_got_2.png",
-    "power_rank": 14,
+    "power_rank": 15,
     "permalink": "/1096/tJw"
   },
   "members": [
@@ -30,14 +30,14 @@
       "governor_id": 161302887,
       "fid": 161302887,
       "nick_name": "jacky",
-      "power": 87510298,
-      "town_center_level": 44,
+      "power": 90486894,
+      "town_center_level": 45,
       "kills": 228527,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1096,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789394999.0,
+      "last_active_at": 1789442446.0,
       "online": false
     },
     {
@@ -546,7 +546,7 @@
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1096,
-      "avatar_url": "/cdn/avatar/2025/10/02/m74Pn0_1759364872.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/02/m74Pn0_1759364872.png",
       "last_active_at": 1762731114.0,
       "online": false
     },

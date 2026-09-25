@@ -8,38 +8,23 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419779.43218,
-  "age_seconds": 2,
+  "cached_at": 1790375172.5864203,
+  "age_seconds": 0,
   "alliance": {
     "aid": 122100003,
     "name": "Revolution",
     "abbr": "REV",
     "kid": 1212,
-    "power": 584599485,
-    "count": 12,
+    "power": 479085983,
+    "count": 11,
     "leader_name": "BabyNoe",
     "leader_uid": 96456345,
     "leader_governor_id": 385122107,
     "flag_url": "/assets/icons/capital_icon_got_1.png",
-    "power_rank": 11,
+    "power_rank": 12,
     "permalink": "/1212/REV"
   },
   "members": [
-    {
-      "uid": 47888636,
-      "governor_id": 190769888,
-      "fid": 190769888,
-      "nick_name": "QaisieH 2",
-      "power": 98173701,
-      "town_center_level": 40,
-      "kills": null,
-      "alliance_rank": 2,
-      "alliance_rank_label": "R2",
-      "kid": 1212,
-      "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789306562.0,
-      "online": false
-    },
     {
       "uid": 44078943,
       "governor_id": 179946078,
@@ -66,7 +51,7 @@
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1212,
-      "avatar_url": "/cdn/avatar/2026/03/15/rBkOvp_1773537246.png",
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/03/15/rBkOvp_1773537246.png",
       "last_active_at": 1785961535.0,
       "online": false
     },
@@ -75,14 +60,14 @@
       "governor_id": 179127018,
       "fid": 179127018,
       "nick_name": "Big Red",
-      "power": 60827495,
+      "power": 61914546,
       "town_center_level": 29,
       "kills": null,
       "alliance_rank": 2,
       "alliance_rank_label": "R2",
       "kid": 1212,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788758540.0,
+      "last_active_at": 1789440338.0,
       "online": false
     },
     {
@@ -120,14 +105,14 @@
       "governor_id": 385122107,
       "fid": 385122107,
       "nick_name": "BabyNoe",
-      "power": 13881347,
+      "power": 18627429,
       "town_center_level": 22,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1212,
-      "avatar_url": "/cdn/avatar/2026/08/09/jW36P4_1786306796.png",
-      "last_active_at": 1788800790.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/08/09/jW36P4_1786306796.png",
+      "last_active_at": 1789424820.0,
       "online": false
     },
     {
@@ -206,5 +191,5 @@
       "online": false
     }
   ],
-  "member_count": 12
+  "member_count": 11
 }

@@ -8,51 +8,36 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789419810.3763816,
+  "cached_at": 1790375198.9511003,
   "age_seconds": 0,
   "alliance": {
     "aid": 122200380,
     "name": "DXJFarmland",
     "abbr": "dxj",
     "kid": 1213,
-    "power": 286674261,
-    "count": 7,
+    "power": 197962022,
+    "count": 6,
     "leader_name": "8ozMiniCoke",
     "leader_uid": 49265331,
     "leader_governor_id": 196558570,
     "flag_url": "/assets/icons/capital_icon_got_3.png",
-    "power_rank": 14,
+    "power_rank": 18,
     "permalink": "/1213/dxj"
   },
   "members": [
-    {
-      "uid": 66079114,
-      "governor_id": 264585511,
-      "fid": 264585511,
-      "nick_name": "嘎嘎唔啦啦",
-      "power": 82939998,
-      "town_center_level": 40,
-      "kills": null,
-      "alliance_rank": 1,
-      "alliance_rank_label": "R1",
-      "kid": 1213,
-      "avatar_url": "/cdn/avatar/2026/05/24/zADkZm_1779592162.png",
-      "last_active_at": 1786492232.0,
-      "online": false
-    },
     {
       "uid": 44089409,
       "governor_id": 178291459,
       "fid": 178291459,
       "nick_name": "it's me",
-      "power": 53235133,
+      "power": 53251933,
       "town_center_level": 28,
       "kills": 513489,
       "alliance_rank": 3,
       "alliance_rank_label": "R3",
       "kid": 1213,
-      "avatar_url": "/cdn/avatar/2026/07/17/rMwWvk_1784281239.png",
-      "last_active_at": 1789316728.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/07/17/rMwWvk_1784281239.png",
+      "last_active_at": 1789376628.0,
       "online": false
     },
     {
@@ -75,7 +60,7 @@
       "governor_id": 196558570,
       "fid": 196558570,
       "nick_name": "8ozMiniCoke",
-      "power": 33526333,
+      "power": 27754092,
       "town_center_level": 25,
       "kills": null,
       "alliance_rank": 5,
@@ -131,5 +116,5 @@
       "online": false
     }
   ],
-  "member_count": 7
+  "member_count": 6
 }

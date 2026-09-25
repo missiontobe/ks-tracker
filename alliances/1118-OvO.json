@@ -8,15 +8,15 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789415932.602009,
-  "age_seconds": 0,
+  "cached_at": 1790370072.0738256,
+  "age_seconds": 6,
   "alliance": {
     "aid": 112700126,
     "name": "BESTIALATAM",
     "abbr": "OvO",
     "kid": 1118,
-    "power": 391493974,
-    "count": 19,
+    "power": 404771518,
+    "count": 20,
     "leader_name": "Big Dog 80",
     "leader_uid": 40764845,
     "leader_governor_id": 162428951,
@@ -30,14 +30,14 @@
       "governor_id": 162052002,
       "fid": 162052002,
       "nick_name": "우잇쏭",
-      "power": 91199672,
-      "town_center_level": 37,
+      "power": 96151794,
+      "town_center_level": 40,
       "kills": null,
       "alliance_rank": 4,
       "alliance_rank_label": "R4",
       "kid": 1118,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1789330228.0,
+      "last_active_at": 1789448855.0,
       "online": false
     },
     {
@@ -45,14 +45,14 @@
       "governor_id": 162428951,
       "fid": 162428951,
       "nick_name": "Big Dog 80",
-      "power": 58206403,
+      "power": 58946372,
       "town_center_level": 30,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1118,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788797700.0,
+      "last_active_at": 1789440578.0,
       "online": false
     },
     {
@@ -90,14 +90,14 @@
       "governor_id": 162658093,
       "fid": 162658093,
       "nick_name": "Yuan",
-      "power": 5557543,
-      "town_center_level": 17,
+      "power": 8481161,
+      "town_center_level": 18,
       "kills": null,
       "alliance_rank": 1,
       "alliance_rank_label": "R1",
       "kid": 1118,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
-      "last_active_at": 1788838388.0,
+      "last_active_at": 1789452245.0,
       "online": false
     },
     {
@@ -143,6 +143,21 @@
       "kid": 1118,
       "avatar_url": "/assets/icons/lord_man_pic_01.png",
       "last_active_at": 1788561133.0,
+      "online": false
+    },
+    {
+      "uid": 40772361,
+      "governor_id": null,
+      "fid": null,
+      "nick_name": null,
+      "power": null,
+      "town_center_level": null,
+      "kills": null,
+      "alliance_rank": 1,
+      "alliance_rank_label": "R1",
+      "kid": 1118,
+      "avatar_url": "/assets/icons/lord_man_pic_01.png",
+      "last_active_at": null,
       "online": false
     },
     {
@@ -311,5 +326,5 @@
       "online": false
     }
   ],
-  "member_count": 19
+  "member_count": 20
 }

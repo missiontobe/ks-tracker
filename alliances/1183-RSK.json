@@ -8,7 +8,7 @@
     "roster"
   ],
   "fresh": true,
-  "cached_at": 1789418411.0564687,
+  "cached_at": 1790373376.7945287,
   "age_seconds": 0,
   "alliance": {
     "aid": 119200127,
@@ -30,14 +30,14 @@
       "governor_id": 173589106,
       "fid": 173589106,
       "nick_name": "Meshal",
-      "power": 57036632,
+      "power": 47110149,
       "town_center_level": 38,
       "kills": null,
       "alliance_rank": 5,
       "alliance_rank_label": "Leader",
       "kid": 1183,
-      "avatar_url": "/cdn/avatar/2025/10/19/gQP2Lr_1760850939.png",
-      "last_active_at": 1787921497.0,
+      "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2025/10/19/gQP2Lr_1760850939.png",
+      "last_active_at": 1789249043.0,
       "online": false
     },
     {
