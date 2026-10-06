@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "uid": 38605944,
+  "governor_id": 152237139,
+  "id_type": "governor_id",
+  "include": [
+    "base",
+    "ranks"
+  ],
+  "fresh": true,
+  "cached_at": 1791308641.555273,
+  "age_seconds": 1,
+  "player": {
+    "uid": 38605944,
+    "governor_id": 152237139,
+    "fid": 152237139,
+    "nick_name": "SXY CONVICT",
+    "kid": 1156,
+    "power": 286883070,
+    "town_center_level": 60,
+    "vip": 8,
+    "x": 550,
+    "y": 452,
+    "kills": 15308625,
+    "office": 0,
+    "online": false,
+    "last_active_at": 1789453725.0,
+    "last_login": "Last active 21d ago",
+    "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/09/17/g78xLl_1789670622.png",
+    "alliance": {
+      "aid": 116500014,
+      "abbr": "SXY",
+      "name": "༒SeXyGuard༒",
+      "rank": 3,
+      "rank_label": "R3",
+      "power": 24901193036,
+      "count": 100,
+      "flag_url": "/assets/icons/capital_icon_got_6.png",
+      "leader_name": "༒ Slef51 ༒"
+    },
+    "shield_endtime": null,
+    "burn_endtime": null,
+    "language": "en"
+  },
+  "ranks": {
+    "power": 286883070,
+    "power_rank": 38,
+    "kills": 15308625,
+    "kills_rank": 43,
+    "town_center_level": 60,
+    "town_center_rank": 42,
+    "migrant_score": 698319,
+    "migrant_rank": 40,
+    "mystic_trial": 1385,
+    "mystic_rank": 56,
+    "leaderboards": [
+      {
+        "name": "Personal Power",
+        "value": 286883070,
+        "value_label": null,
+        "kingdom_rank": 38,
+        "kingdom_rank_label": "#38",
+        "rank_type": 3
+      },
+      {
+        "name": "Kill Count",
+        "value": 15308625,
+        "value_label": null,
+        "kingdom_rank": 43,
+        "kingdom_rank_label": "#43",
+        "rank_type": 4
+      },
+      {
+        "name": "Town Center Level",
+        "value": 60,
+        "value_label": null,
+        "kingdom_rank": 42,
+        "kingdom_rank_label": "#42",
+        "rank_type": 5
+      },
+      {
+        "name": "Migrant Score",
+        "value": 698319,
+        "value_label": null,
+        "kingdom_rank": 40,
+        "kingdom_rank_label": "#40",
+        "rank_type": 19
+      },
+      {
+        "name": "Mystic Trial",
+        "value": 1385,
+        "value_label": null,
+        "kingdom_rank": 56,
+        "kingdom_rank_label": "#56",
+        "rank_type": 20
+      },
+      {
+        "name": "Coliseum",
+        "value": 10344,
+        "value_label": "35-4",
+        "kingdom_rank": 46,
+        "kingdom_rank_label": "#46",
+        "rank_type": 21
+      },
+      {
+        "name": "Forest of Life",
+        "value": 20179,
+        "value_label": "18-9",
+        "kingdom_rank": 43,
+        "kingdom_rank_label": "#43",
+        "rank_type": 22
+      },
+      {
+        "name": "Crystal Cave",
+        "value": 30190,
+        "value_label": "19-10",
+        "kingdom_rank": 42,
+        "kingdom_rank_label": "#42",
+        "rank_type": 23
+      },
+      {
+        "name": "Knowledge Nexus",
+        "value": 40127,
+        "value_label": "13-7",
+        "kingdom_rank": 75,
+        "kingdom_rank_label": "#75",
+        "rank_type": 24
+      },
+      {
+        "name": "Molten Fort",
+        "value": 50183,
+        "value_label": "19-3",
+        "kingdom_rank": 96,
+        "kingdom_rank_label": "#96",
+        "rank_type": 25
+      },
+      {
+        "name": "Radiant Spire",
+        "value": 60362,
+        "value_label": "37-2",
+        "kingdom_rank": 52,
+        "kingdom_rank_label": "#52",
+        "rank_type": 26
+      }
+    ]
+  }
+}
