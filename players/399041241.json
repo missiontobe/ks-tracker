@@ -1,0 +1,131 @@
+{
+  "ok": true,
+  "uid": 100185676,
+  "governor_id": 399041241,
+  "id_type": "governor_id",
+  "include": [
+    "base",
+    "ranks"
+  ],
+  "fresh": true,
+  "cached_at": 1791308031.9319642,
+  "age_seconds": 3,
+  "player": {
+    "uid": 100185676,
+    "governor_id": 399041241,
+    "fid": 399041241,
+    "nick_name": "bebe merme",
+    "kid": 1156,
+    "power": 9614530,
+    "town_center_level": 21,
+    "vip": 1,
+    "x": 665,
+    "y": 388,
+    "kills": 4,
+    "office": null,
+    "online": false,
+    "last_active_at": 1789412131.0,
+    "last_login": "Last active 21d ago",
+    "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/10/01/YJKW3M_1790892675.png",
+    "alliance": {
+      "aid": 116500092,
+      "abbr": "sxy",
+      "name": "NAPShell",
+      "rank": 4,
+      "rank_label": "R4",
+      "power": 336261499,
+      "count": 4,
+      "flag_url": "/assets/icons/capital_icon_got_6.png",
+      "leader_name": "lil mads"
+    },
+    "shield_endtime": null,
+    "burn_endtime": null,
+    "language": "en"
+  },
+  "ranks": {
+    "power": 9614530,
+    "power_rank": 1202,
+    "kills": 4,
+    "kills_rank": 6367,
+    "town_center_level": 21,
+    "town_center_rank": 1397,
+    "migrant_score": 9769,
+    "migrant_rank": 295,
+    "mystic_trial": 114,
+    "mystic_rank": 1280,
+    "leaderboards": [
+      {
+        "name": "Personal Power",
+        "value": 9614530,
+        "value_label": null,
+        "kingdom_rank": 1202,
+        "kingdom_rank_label": "#1202",
+        "rank_type": 3
+      },
+      {
+        "name": "Kill Count",
+        "value": 4,
+        "value_label": null,
+        "kingdom_rank": 6367,
+        "kingdom_rank_label": "#6367",
+        "rank_type": 4
+      },
+      {
+        "name": "Town Center Level",
+        "value": 21,
+        "value_label": null,
+        "kingdom_rank": 1397,
+        "kingdom_rank_label": "#1397",
+        "rank_type": 5
+      },
+      {
+        "name": "Migrant Score",
+        "value": 9769,
+        "value_label": null,
+        "kingdom_rank": 295,
+        "kingdom_rank_label": "#295",
+        "rank_type": 19
+      },
+      {
+        "name": "Mystic Trial",
+        "value": 114,
+        "value_label": null,
+        "kingdom_rank": 1280,
+        "kingdom_rank_label": "#1280",
+        "rank_type": 20
+      },
+      {
+        "name": "Coliseum",
+        "value": 10059,
+        "value_label": "6-9",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 21
+      },
+      {
+        "name": "Forest of Life",
+        "value": 20005,
+        "value_label": "1-5",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 22
+      },
+      {
+        "name": "Knowledge Nexus",
+        "value": 40016,
+        "value_label": "2-6",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 24
+      },
+      {
+        "name": "Radiant Spire",
+        "value": 60034,
+        "value_label": "4-4",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 26
+      }
+    ]
+  }
+}
