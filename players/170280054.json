@@ -1,0 +1,147 @@
+{
+  "ok": true,
+  "uid": 42016169,
+  "governor_id": 170280054,
+  "id_type": "governor_id",
+  "include": [
+    "base",
+    "ranks"
+  ],
+  "fresh": true,
+  "cached_at": 1791308194.5610352,
+  "age_seconds": 1,
+  "player": {
+    "uid": 42016169,
+    "governor_id": 170280054,
+    "fid": 170280054,
+    "nick_name": "Gummy ཐི༏ཋྀ",
+    "kid": 1155,
+    "power": 205616090,
+    "town_center_level": 57,
+    "vip": null,
+    "x": 472,
+    "y": 389,
+    "kills": 17918917,
+    "office": 0,
+    "online": false,
+    "last_active_at": 1789427182.0,
+    "last_login": "Last active 21d ago",
+    "avatar_url": "https://got-global-avatar.akamaized.net/avatar/2026/10/04/O5EJ0Q_1791144895.png",
+    "alliance": {
+      "aid": 116400006,
+      "abbr": "AWV",
+      "name": "ApexWolves",
+      "rank": 4,
+      "rank_label": "R4",
+      "power": 17401085182,
+      "count": 96,
+      "flag_url": "/assets/icons/capital_icon_got_5.png",
+      "leader_name": "Anch"
+    },
+    "shield_endtime": null,
+    "burn_endtime": null,
+    "language": "id"
+  },
+  "ranks": {
+    "power": 205616090,
+    "power_rank": 182,
+    "kills": 17918917,
+    "kills_rank": 74,
+    "town_center_level": 57,
+    "town_center_rank": 112,
+    "migrant_score": 602336,
+    "migrant_rank": 138,
+    "mystic_trial": 1281,
+    "mystic_rank": 143,
+    "leaderboards": [
+      {
+        "name": "Personal Power",
+        "value": 205616090,
+        "value_label": null,
+        "kingdom_rank": 182,
+        "kingdom_rank_label": "#182",
+        "rank_type": 3
+      },
+      {
+        "name": "Kill Count",
+        "value": 17918917,
+        "value_label": null,
+        "kingdom_rank": 74,
+        "kingdom_rank_label": "#74",
+        "rank_type": 4
+      },
+      {
+        "name": "Town Center Level",
+        "value": 57,
+        "value_label": null,
+        "kingdom_rank": 112,
+        "kingdom_rank_label": "#112",
+        "rank_type": 5
+      },
+      {
+        "name": "Migrant Score",
+        "value": 602336,
+        "value_label": null,
+        "kingdom_rank": 138,
+        "kingdom_rank_label": "#138",
+        "rank_type": 19
+      },
+      {
+        "name": "Mystic Trial",
+        "value": 1281,
+        "value_label": null,
+        "kingdom_rank": 143,
+        "kingdom_rank_label": "#143",
+        "rank_type": 20
+      },
+      {
+        "name": "Coliseum",
+        "value": 10289,
+        "value_label": "29-9",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 21
+      },
+      {
+        "name": "Forest of Life",
+        "value": 20149,
+        "value_label": "15-9",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 22
+      },
+      {
+        "name": "Crystal Cave",
+        "value": 30181,
+        "value_label": "19-1",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 23
+      },
+      {
+        "name": "Knowledge Nexus",
+        "value": 40121,
+        "value_label": "13-1",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 24
+      },
+      {
+        "name": "Molten Fort",
+        "value": 50220,
+        "value_label": "22-10",
+        "kingdom_rank": 92,
+        "kingdom_rank_label": "#92",
+        "rank_type": 25
+      },
+      {
+        "name": "Radiant Spire",
+        "value": 60316,
+        "value_label": "32-6",
+        "kingdom_rank": null,
+        "kingdom_rank_label": "100+",
+        "rank_type": 26
+      }
+    ]
+  }
+}
